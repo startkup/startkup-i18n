@@ -13,7 +13,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3.3.0
     - name: Download and push translations
-      uses: crowdin/github-action@1.5.3
+      uses: crowdin/github-action@v1.6.0
       with:
         crowdin_branch_name: master
         upload_sources: false
@@ -28,7 +28,7 @@ jobs:
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
     - name: Synchronize sources and translations
-      uses: crowdin/github-action@1.5.3
+      uses: crowdin/github-action@v1.6.0
       with:
         crowdin_branch_name: master
         upload_sources: true
