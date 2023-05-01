@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v3.5.0
+      uses: actions/checkout@v3
     - name: Download and push translations before source strings updated
-      uses: crowdin/github-action@v1.7.1
+      uses: crowdin/github-action@v1
       with:
         crowdin_branch_name: master
         upload_sources: false
@@ -28,7 +28,7 @@ jobs:
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
     - name: Upload new source strings to Crowdin
-      uses: crowdin/github-action@v1.7.1
+      uses: crowdin/github-action@v1
       with:
         crowdin_branch_name: master
         upload_sources: true
@@ -38,7 +38,7 @@ jobs:
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
     - name: Download and push translations after source strings updated
-      uses: crowdin/github-action@v1.7.1
+      uses: crowdin/github-action@v1
       with:
         crowdin_branch_name: master
         upload_sources: false
