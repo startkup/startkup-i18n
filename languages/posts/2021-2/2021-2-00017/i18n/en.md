@@ -10,7 +10,7 @@
 
 &nbsp;
 
-｜文書 宋建章｜
+｜Chief Documentation Officer Winston Chien-chang SUNG｜
 
 大家好，我是AI創智社第1屆的文書宋建章，目前就讀電機系電資二，也可以叫我Winston。
 

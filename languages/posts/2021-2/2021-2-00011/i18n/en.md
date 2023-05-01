@@ -1,4 +1,4 @@
-**[ 4月30日 | 網管培訓課 - 第一堂 ]**
+**[ 2022-04-30 | Sysadmin Training Course - 1 ]**
 
 大家期中考辛苦了！
 
@@ -14,9 +14,9 @@
 
 &nbsp;
 
-活動日期：
+Date:
 
-4月30日 (六)
+Saturday, April 30, 2022
 
 &nbsp;
 
@@ -44,9 +44,9 @@ AI創智學院實境場域
 
 &nbsp;
 
-報名方式：
+How to Sign-Up:
 
-填寫Google表單
+Fill the Google Form
 
 https://docs.google.com/forms/d/1pOMfPfUzFhpOnSN6EQOxMH4BN9SIwn_fGSJr21YFyM8/viewform
 

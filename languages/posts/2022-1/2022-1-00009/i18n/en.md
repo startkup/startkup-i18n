@@ -66,7 +66,7 @@ AI創智學院實境場域
 
 ✍️ 報名方式：
 
-填寫Google表單
+Fill the Google Form
 
 https://docs.google.com/forms/d/1CEKAgBQ7dVf5QO2kr2RQuDIGcWnD01SyNoIxRAJuwMU/viewform
 

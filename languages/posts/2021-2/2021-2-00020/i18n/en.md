@@ -50,9 +50,9 @@ MS Teams該會議中聊天室留言「系級 學號 姓名」
 
 &nbsp;
 
-報名方式：
+How to Sign-Up:
 
-填寫Google表單
+Fill the Google Form
 
 https://docs.google.com/forms/d/1zz-xDSSd3RfH1Co0OlXN0sB77RTTb3Frmj-HII3tXXc/viewform
 

@@ -1,6 +1,6 @@
 **[ 5月3日 | UI/UX講座 ]**
 
-使用者體驗 × KEN studio
+UX × KEN studio
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Ken從1999年開始寫網頁，在這個領域也擁有資深的經歷，
 
 &nbsp;
 
-報到方式：
+How to Sign-In:
 
 MS Teams 該會議中聊天室留言「系級 學號 姓名」
 
@@ -62,9 +62,9 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-報名方式：
+How to Sign-Up:
 
-填寫Google表單
+Fill the Google Form
 
 https://docs.google.com/forms/d/1j8za52CcKuMI9cbV3RJFzs2iXt4Bok5hfCMksJ51Ts0/viewform
 

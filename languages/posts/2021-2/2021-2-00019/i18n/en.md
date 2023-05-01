@@ -56,9 +56,9 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-報名方式：
+How to Sign-Up:
 
-填寫Google表單
+Fill the Google Form
 
 https://docs.google.com/forms/d/1SIkQx0QNb62u8fFYDhSUwoShpq4f5RaKXlmoYiGl42M/viewform
 
