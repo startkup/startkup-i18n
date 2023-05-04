@@ -1,4 +1,4 @@
-**[ 5月3日 | UI/UX講座 ]**
+**[ 2023-05-03 | UI/UX Lecture ]**
 
 UX × KEN studio
 
@@ -24,7 +24,7 @@ Ken從1999年開始寫網頁，在這個領域也擁有資深的經歷，
 
 &nbsp;
 
-活動時間：
+Time:
 
 2022年5月3日 (二) 18:00－20:00 (UTC+8)
 
@@ -32,13 +32,13 @@ Ken從1999年開始寫網頁，在這個領域也擁有資深的經歷，
 
 授課方式：
 
-線上，Microsoft Teams
+Online, Microsoft Teams
 
 &nbsp;
 
-How to Sign-In:
+How to Sign-in:
 
-MS Teams 該會議中聊天室留言「系級 學號 姓名」
+Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
 &nbsp;
 
@@ -50,7 +50,7 @@ MS Teams 該會議中聊天室留言「系級 學號 姓名」
 
 \- 19:50 Q&A、拍大合照、寫回饋單
 
-\- 20:00 本次社課結束
+\- 20:00 End of event
 
 &nbsp;
 
