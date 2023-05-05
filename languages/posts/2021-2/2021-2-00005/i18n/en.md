@@ -6,7 +6,7 @@ Here's a brief summary about our club courses:
 
 ｜Tuesday: Club Courses｜
 
-Regular courses are scheduled on Tuesday 18:10 to 20:00 (UTC+8),
+Regular courses are scheduled on Tuesday 18:10 to 20:00,
 
 with some club courses are scheduled at weekends.
 
