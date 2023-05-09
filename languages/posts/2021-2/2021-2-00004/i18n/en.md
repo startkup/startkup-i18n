@@ -20,11 +20,11 @@ There will have some AI-related group games, icebreakers,
 
 to help the club members to familiarize each other.
 
-期許各位在未來能夠和志同道合的朋友多多交流！
+We hope that in the future, you will have more opportunities to communicate with like-minded friends!
 
 &nbsp;
 
-如果有還在猶豫加入我們的同學也歡迎您的到來！
+If any of you are still unsure about joining us, we welcome your presence!
 
 &nbsp;
 

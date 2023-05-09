@@ -1,14 +1,14 @@
-**[ 4月10日 | AI跨域整合工作坊 - Part 1 ]**
+**April 10th | AI Cross-Domain Integration Workshop - Part 1**
 
-AI跨域整合工作坊 - Part 1
+AI Cross-Domain Integration Workshop - Part 1
 
 &nbsp;
 
-首發是我們的AI與工學相關科系的結合，
+The first launch is the result of combining our Ai and engineering-related departments.
 
-我們邀請到了臺大土木系的吳日滕教授！
+We have invited Professor Wu Rih-Teng from the Department of Civil Engineering at National Taiwan University!
 
-詳細授課內容及方式也歡迎詳閱淡江活動報名系統！
+You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
 
 &nbsp;
 

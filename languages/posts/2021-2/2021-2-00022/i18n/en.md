@@ -42,7 +42,7 @@ Microsoft Teams該會議中聊天室留言「系級 學號 姓名」
 
 &nbsp;
 
-活動對象：
+Target audience:
 
 Club members of Artificial Innovative Intelligence Club
 

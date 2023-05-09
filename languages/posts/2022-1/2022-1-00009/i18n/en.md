@@ -4,11 +4,11 @@
 
 &nbsp;
 
-這次社課為大家介紹UI/UX，
+The upcoming social class will be introducing UI/UX to everyone.
 
 也就是「使用者介面」（user interface，UI）及「使用者體驗」（user experience，UX），
 
-這些在大家的日常生活中都看得到！
+This is visible in everyone's daily life!
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Club members of Artificial Innovative Intelligence Club
 
 📍 授課地點：
 
-AI創智學院實境場域
+AI Creative Intelligence Academy's Reality Field
 
 &nbsp;
 

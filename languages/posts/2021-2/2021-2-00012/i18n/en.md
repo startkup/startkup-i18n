@@ -4,11 +4,11 @@ UX × KEN studio
 
 &nbsp;
 
-這次社課為大家介紹UI/UX，
+The upcoming social class will be introducing UI/UX to everyone.
 
 也就是「使用者介面」（user interface，UI）及「使用者體驗」（user experience，UX），
 
-這些在大家的日常生活中都看得到！
+This is visible in everyone's daily life!
 
 &nbsp;
 
@@ -54,7 +54,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動對象：
+Target audience:
 
 Club members of Artificial Innovative Intelligence Club
 

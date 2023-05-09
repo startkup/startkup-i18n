@@ -1,16 +1,16 @@
 **[ 2022-04-30 | Sysadmin Training Course - 1 ]**
 
-大家期中考辛苦了！
+Great job, everyone, for all your hard work during mid-term exams!
 
 &nbsp;
 
-我們第一堂的網管培訓課將與電腦硬體研究社合辦課程！
+We will be collaborating with the Computer Hardware Research Club to hold our first Sysadmin Training Course!
 
 &nbsp;
 
-早上會帶大家組裝電腦並灌作業系統並了解各個零件的基本知識及功用！
+In the morning, we will guide everyone to assemble a computer, install the operating system, and learn about the basic knowledge and functions of each component!
 
-下午會講解企業級伺服器究竟跟消費級電腦有什麼不同還有網路硬體的基本介紹～
+In the afternoon, we will discuss the differences between enterprise-level servers and consumer computers, and give a basic introduction to network hardware.
 
 &nbsp;
 
@@ -20,27 +20,27 @@ Saturday, April 30, 2022
 
 &nbsp;
 
-課程時段及場次：
+Course time and sessions:
 
-\- 09:10－12:00 消費級電腦硬體介紹 — 電腦硬體研究社
+09:10－12:00 Introduction to Consumer Computer Hardware — Computer Hardware Research Institute
 
-（中午供餐ㄛ🍱）
+（Lunch time🍱）
 
-\- 13:10－16:00 企業級伺服器硬體介紹 — AI創智社
-
-&nbsp;
-
-授課地點：
-
-AI創智學院實境場域
+13:10－16:00 Enterprise Server Hardware Introduction - Artificial Innovative Intelligence Club
 
 &nbsp;
 
-活動對象：
+Teaching location:
+
+AI Creative Intelligence Academy's Reality Field
+
+&nbsp;
+
+Target audience:
 
 限電腦硬體研究社及AI創智社社員
 
-（現在還可以加入我們AI創智社喔∠( ᐛ 」∠)＿ ）
+（You can still join our AI Creativity Society now∠( ᐛ 」∠)＿ ）
 
 &nbsp;
 

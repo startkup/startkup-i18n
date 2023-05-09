@@ -10,9 +10,9 @@ Regular courses are scheduled on Tuesday 18:10 to 20:00,
 
 with some club courses are scheduled at weekends.
 
-讓大家認識AI如何結合各領域，
+Introduce how AI can be integrated into various fields for everyone's understanding
 
-有豐富的課程可以讓大家吸收知識。
+There are a wide variety of courses available that can help people acquire knowledge.
 
 &nbsp;
 

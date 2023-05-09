@@ -1,18 +1,18 @@
-**[ 4月13日 | AI跨域整合工作坊 - Extra ]**
+**[ April 13th | AI Cross-domain Integration Workshop - Extra ]**
 
-4月13日「AI與商學院的結合：AI與商業活動之應用」
-
-&nbsp;
-
-Bonus 加開場！
-
-將由淡江國企系主任孫嘉祈為我們初步介紹AI在商業領域的應用～
+April 13th 「 AI in Business: How Business Schools are Using AI 」
 
 &nbsp;
 
-有興趣的同學快上淡江活動報名系統，
+Bonus Extra Round!
 
-搜尋「AI與商學院的結合」。
+Professor Sun Chia-Chi, the director of the Department of International Business at Tamkang University, will give us an introductory presentation on the applications of AI in the business field.
+
+&nbsp;
+
+Students who are interested, please quickly go to the Tamkang University activity registration system.
+
+How artificial intelligence (AI) can be integrated into business school education.
 
 &nbsp;
 

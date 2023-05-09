@@ -1,26 +1,26 @@
-**[ 6月7日 | 期末社員大會 ]**
+**[ June 7th | End-of-term meeting ]**
 
-學期即將結束了，想知道AI創智社都辦了些什麼活動嗎？
+The semester is coming to an end, would you like to know what activities the Artificial Innovative Intelligence Club has organized?
 
-我們將在社員大會跟各位報告我們過去辦過的活動進度及成效。
+We will report to everyone at the members' meeting about the progress and results of the activities we have organized in the past.
 
 &nbsp;
 
-下個議程是我們第二次的組織章程修正案表決，這次將整個章程重新校閱、編排過，將會是最完整、最專業的版本。
+The next agenda item is the second vote on the amendment to our organizational bylaws. This time, the entire bylaws have been reviewed and reorganized to create the most comprehensive and professional version.
 
-最後是我們下一屆的社長政見發表暨群聚，下一任社長期待與你們明天見！
+Finally, our next president will announce their political platform and gather with us. The next president is looking forward to meeting you all tomorrow!
 
 &nbsp;
 
 Time:
 
-6月7日 (二) 18:10－20:00 (UTC+8)
+June 7th (Tue) 18:10－20:00 (UTC+8)
 
 &nbsp;
 
-活動方式：
+Activities:
 
-Microsoft Teams 線上會議
+Microsoft Teams Online Meetings
 
 &nbsp;
 
@@ -32,21 +32,21 @@ Microsoft Teams該會議中聊天室留言「系級 學號 姓名」
 
 活動流程：
 
-\- 18:00 開始報到
+18:00 Registration begins
 
-\- 18:10 準時開始
+18:10 start on time
 
-\- 18:10 社團成果報告/經費支出報告
+18:10 Club Performance Report/Expense Report
 
-\- 18:30 表決組織章程修正案
+18:30 Proposal to Amend Organizational Bylaws for Voting
 
-\- 19:00 社長政見發表暨選舉
+19:00 President's manifesto announcement and election
 
-\- 19:50 大合照/歡送
+19:50 Group photo/Farewell
 
 &nbsp;
 
-活動對象：
+Target audience:
 
 Club members of Artificial Innovative Intelligence Club
 
@@ -58,7 +58,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1okzZ-OEt-22eBF20HrkWIo2D7P5QLvo4xhlaH-z2gS8/viewform
 
-為了方便統計此次會議參與人數，還是麻煩大家填寫表單囉~
+For the convenience of statistical purposes, please kindly fill out the form to indicate your attendance for this meeting.
 
 &nbsp;
 

@@ -1,14 +1,14 @@
-**[ 4月10日 | AI跨域整合工作坊 - Part 2 ]**
+**April 10th | AI Cross-Domain Integration Workshop - Part 2**
 
-AI跨域整合工作坊 - Part 2
+AI Cross-Domain Integration Workshop - Part 2
 
 &nbsp;
 
-第二場舉辦的是AI與理學相關的結合，
+The second event will focus on the integration of AI and science.
 
-邀請了成大工程科學系的游濟華教授。
+Invited Professor Yu Ji-Hua from the Department of Engineering Science at National Cheng Kung University,
 
-詳細授課內容及方式也歡迎詳閱淡江活動報名系統！
+You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
 
 &nbsp;
 

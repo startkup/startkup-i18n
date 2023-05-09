@@ -1,16 +1,16 @@
-**[ 4月12日 | AI跨域整合工作坊 - Part 3 ]**
+**April 12th | AI Cross-Domain Integration Workshop - Part 3**
 
-AI跨域整合工作坊第三場！
-
-&nbsp;
-
-將由國企系助理教授吳安琪，
-
-為我們帶大家了解如何運用AI強化學生對商業的洞察力！
+The third session of the AI Cross-Domain Integration Workshop!
 
 &nbsp;
 
-詳細授課內容及方式也歡迎詳閱淡江活動報名系統！
+Assistant Professor Wu An-chi from the Department of International Business will be the instructor.
+
+Learn how to use AI to improve students' understanding of business!
+
+&nbsp;
+
+You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
 
 &nbsp;
 
