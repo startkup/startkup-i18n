@@ -1,4 +1,4 @@
-**[ April 30, 2022 | Sysadmin Training Courses - 1 ]**
+**[ 2022-04-30 | Sysadmin Training Course - 1 ]**
 
 Great job, everyone, for all your hard work during mid-term exams!
 
