@@ -1,6 +1,6 @@
-**[ 111-1 | 第2屆 ]**
+**[ 2022 Academic Year 1st Semester | 2nd-term ]**
 
-嗨大家好～
+Hello, everyone!
 
 我們是第二屆AI創智社 🚀
 

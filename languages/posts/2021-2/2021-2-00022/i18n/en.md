@@ -26,7 +26,7 @@ Microsoft Teams 遠距授課
 
 簽到方式：
 
-Microsoft Teams該會議中聊天室留言「系級 學號 姓名」
+Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
 &nbsp;
 

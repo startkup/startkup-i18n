@@ -1,10 +1,10 @@
-**[ 111-1 社課規畫 ]**
+**[ Scheduled Club Activities 2022-1 ]**
 
 ✨ 社課規畫懶人包這邊整理給大家囉！
 
 &nbsp;
 
-⏰ 週二社課
+⏰ Tuesday: Club Courses
 
 一般社課於週二18:10－20:00進行，
 
@@ -26,7 +26,7 @@ Thus, it's not force-participated.
 
 &nbsp;
 
-💻 週五網管（於10月14日開課）
+💻 Friday: Sysadmin Training Courses (Start from October 14, 2022)
 
 Sysadmin training courses will teach a great deal of knowledge about server & internet administration.
 

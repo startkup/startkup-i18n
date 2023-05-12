@@ -1,4 +1,4 @@
-**[ 參與認證 | 10月4日 | 期初社員大會 ]**
+**[ Participation Certificate | October 4, 2022 | General Meeting (beginning of semester) ]**
 
 期初社員大會來囉！
 
@@ -20,7 +20,7 @@
 
 📍 活動地點：
 
-工學大樓E304
+E304, Building E (Main Engineering Building)
 
 &nbsp;
 

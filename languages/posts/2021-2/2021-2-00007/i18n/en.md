@@ -1,18 +1,18 @@
-**April 10th | AI Cross-Domain Integration Workshop - Part 1**
+**[ April 10, 2022 | AI Interdisciplinary Integration Workshops - Part 1 ]**
 
-AI Cross-Domain Integration Workshop - Part 1
-
-&nbsp;
-
-The first launch is the result of combining our Ai and engineering-related departments.
-
-We have invited Professor Wu Rih-Teng from the Department of Civil Engineering at National Taiwan University!
-
-You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
+AI Interdisciplinary Integration Workshops - Part 1
 
 &nbsp;
 
-Search "AI跨域整合" (AI Interdisciplinary Integration) in the enrollment system!
+The first part of the workshops will introduce how to integrate AI with engineering-related fields.
+
+We have invited Professor WU Rih-teng from the Department of Civil Engineering at National Taiwan University!
+
+You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+
+&nbsp;
+
+Search "AI跨域整合" (AI interdisciplinary integration) in the Event Enrollment System!
 
 Enrollment starts at April 8 12:00 (UTC+8)
 

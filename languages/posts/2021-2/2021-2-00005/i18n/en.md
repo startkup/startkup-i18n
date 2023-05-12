@@ -10,7 +10,7 @@ Regular courses are scheduled on Tuesday 18:10 to 20:00,
 
 with some club courses are scheduled at weekends.
 
-Introduce how AI can be integrated into various fields for everyone's understanding
+We will introduce how AI can be integrated into various fields for everyone's understanding.
 
 There are a wide variety of courses available that can help people acquire knowledge.
 

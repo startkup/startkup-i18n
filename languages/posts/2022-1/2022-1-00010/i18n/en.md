@@ -1,8 +1,8 @@
 **[ 課程回顧 | 10月11日 | UI/UX講座 ]**
 
-10月11日
+October 11, 2022
 
-UI/UX講座：
+UI/UX Lecture:
 
 產品UI/UX設計師如何在軟體業生存？
 
@@ -26,13 +26,13 @@ UI/UX講座：
 
 &nbsp;
 
-\- usable
+\- Usable
 
-\- equitable
+\- Equitable
 
-\- enjoyable
+\- Enjoyable
 
-\- useful
+\- Useful
 
 &nbsp;
 
@@ -60,7 +60,7 @@ UI/UX講座：
 
 下堂課：10月25日，Google Cloud開發者技術培訓計畫
 
-我們到時見！
+See you there!
 
 &nbsp;
 

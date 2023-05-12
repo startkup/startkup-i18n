@@ -1,18 +1,18 @@
-**April 10th | AI Cross-Domain Integration Workshop - Part 2**
+**[ April 10, 2022 | AI Interdisciplinary Integration Workshops - Part 2 ]**
 
-AI Cross-Domain Integration Workshop - Part 2
-
-&nbsp;
-
-The second event will focus on the integration of AI and science.
-
-Invited Professor Yu Ji-Hua from the Department of Engineering Science at National Cheng Kung University,
-
-You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
+AI Interdisciplinary Integration Workshops - Part 2
 
 &nbsp;
 
-Search "AI跨域整合" (AI Interdisciplinary Integration) in the enrollment system!
+The 2nd session will focus on the integration of AI and science.
+
+We invited Professor YU Ji-hua from the Department of Engineering Science at National Cheng Kung University.
+
+You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+
+&nbsp;
+
+Search "AI跨域整合" (AI interdisciplinary integration) in the Event Enrollment System!
 
 Enrollment starts at April 8 12:00 (UTC+8)
 

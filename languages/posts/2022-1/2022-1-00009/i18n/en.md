@@ -4,11 +4,11 @@
 
 &nbsp;
 
-The upcoming social class will be introducing UI/UX to everyone.
+The upcoming club course will be introducing UI/UX,
 
-也就是「使用者介面」（user interface，UI）及「使用者體驗」（user experience，UX），
+which are "user interface" and "user experience".
 
-This is visible in everyone's daily life!
+They are anywhere in everyone's daily life!
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Club members of Artificial Innovative Intelligence Club
 
 📍 授課地點：
 
-AI Creative Intelligence Academy's Reality Field
+Reality Fields, <br />College of Artificial Innovative Intelligence
 
 &nbsp;
 

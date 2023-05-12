@@ -1,18 +1,18 @@
-**[ April 13th | AI Cross-domain Integration Workshop - Extra ]**
+**[ April 13, 2022 | AI Interdisciplinary Integration Workshops - Extra ]**
 
-April 13th 「 AI in Business: How Business Schools are Using AI 」
-
-&nbsp;
-
-Bonus Extra Round!
-
-Professor Sun Chia-Chi, the director of the Department of International Business at Tamkang University, will give us an introductory presentation on the applications of AI in the business field.
+April 13, 2022: "Integrate AI with Business: How AI Being Used in Commercial Activities"
 
 &nbsp;
 
-Students who are interested, please quickly go to the Tamkang University activity registration system.
+Bonus: Extra Round!
 
-How artificial intelligence (AI) can be integrated into business school education.
+Professor SUN Chia-chi, the director of the Department of International Business at Tamkang University, will give us an introductory presentation on the applications of AI in the business field.
+
+&nbsp;
+
+For those who are interested, please quickly go to the Event Enrollment System of Tamkang University,
+
+search "AI與商學院的結合" (integrating AI with College of Business) and enroll the event.
 
 &nbsp;
 

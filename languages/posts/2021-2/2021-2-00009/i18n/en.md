@@ -1,20 +1,20 @@
-**April 12th | AI Cross-Domain Integration Workshop - Part 3**
+**[ April 12, 2022 | AI Interdisciplinary Integration Workshops - Part 3 ]**
 
-The third session of the AI Cross-Domain Integration Workshop!
-
-&nbsp;
-
-Assistant Professor Wu An-chi from the Department of International Business will be the instructor.
-
-Learn how to use AI to improve students' understanding of business!
+The 3rd session of the AI Interdisciplinary Integration Workshops!
 
 &nbsp;
 
-You are welcome to read the detailed teaching content and methods on the Tamkang activity registration system!
+Assistant Professor WU An-chi from the Department of International Business will be the instructor.
+
+Come and learn how to use AI to improve students' understanding of business!
 
 &nbsp;
 
-Search "AI跨域整合" (AI Interdisciplinary Integration) in the enrollment system!
+You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+
+&nbsp;
+
+Search "AI跨域整合" (AI interdisciplinary integration) in the Event Enrollment System!
 
 &nbsp;
 

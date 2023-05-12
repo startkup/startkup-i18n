@@ -1,12 +1,12 @@
-**[ June 7th | End-of-term meeting ]**
+**[ June 7, 2022 | General Meeting (end-of-semester) ]**
 
 The semester is coming to an end, would you like to know what activities the Artificial Innovative Intelligence Club has organized?
 
-We will report to everyone at the members' meeting about the progress and results of the activities we have organized in the past.
+We will report to everyone at the General Meeting about the progress and results of the activities we have organized in the past.
 
 &nbsp;
 
-The next agenda item is the second vote on the amendment to our organizational bylaws. This time, the entire bylaws have been reviewed and reorganized to create the most comprehensive and professional version.
+The next agenda item is the second vote on the proposals for amendments to the Club Organizational Regulations. This time, the entire regulation have been reviewed and rearranged to create a more comprehensive and professional revision.
 
 Finally, our next president will announce their political platform and gather with us. The next president is looking forward to meeting you all tomorrow!
 
@@ -14,35 +14,35 @@ Finally, our next president will announce their political platform and gather wi
 
 Time:
 
-June 7th (Tue) 18:10－20:00 (UTC+8)
+18:10－20:00, Tuesday, June 7, 2022 (UTC+8)
 
 &nbsp;
 
 Activities:
 
-Microsoft Teams Online Meetings
+Online Meeting on Microsoft Teams
 
 &nbsp;
 
 簽到方式：
 
-Microsoft Teams該會議中聊天室留言「系級 學號 姓名」
+Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
 &nbsp;
 
 活動流程：
 
-18:00 Registration begins
+\- 18:00 Sign-in begins
 
-18:10 start on time
+\- 18:10 Start of the event
 
 18:10 Club Performance Report/Expense Report
 
-18:30 Proposal to Amend Organizational Bylaws for Voting
+\- 18:30 Voting the proposals for amendments to the Club Organizational Regulations
 
-19:00 President's manifesto announcement and election
+\- 19:00 President candidates' political briefing and election
 
-19:50 Group photo/Farewell
+\- 19:50 Group photo / Farewell
 
 &nbsp;
 

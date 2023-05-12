@@ -4,7 +4,7 @@ Great job, everyone, for all your hard work during mid-term exams!
 
 &nbsp;
 
-We will be collaborating with the Computer Hardware Research Club to hold our first Sysadmin Training Course!
+We will be cooperating with the Computer Hardware Research Club to hold our first Sysadmin Training Course!
 
 &nbsp;
 
@@ -22,17 +22,17 @@ Saturday, April 30, 2022
 
 Course time and sessions:
 
-09:10－12:00 Introduction to Consumer Computer Hardware — Computer Hardware Research Institute
+\- 09:10－12:00 Introduction to Consumer Computer Hardware — Computer Hardware Research Club
 
-（Lunch time🍱）
+(with lunch provided 🍱)
 
-13:10－16:00 Enterprise Server Hardware Introduction - Artificial Innovative Intelligence Club
+\- 13:10－16:00 Enterprise Server Hardware Introduction - Artificial Innovative Intelligence Club
 
 &nbsp;
 
-Teaching location:
+Location:
 
-AI Creative Intelligence Academy's Reality Field
+Reality Fields, <br />College of Artificial Innovative Intelligence
 
 &nbsp;
 
