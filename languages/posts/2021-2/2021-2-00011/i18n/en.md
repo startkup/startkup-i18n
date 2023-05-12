@@ -38,7 +38,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 Target audience:
 
-限電腦硬體研究社及AI創智社社員
+限電腦硬體研習社及AI創智社社員
 
 （You can still join our AI Creativity Society now∠( ᐛ 」∠)＿ ）
 
