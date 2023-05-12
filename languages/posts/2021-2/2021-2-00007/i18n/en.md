@@ -6,7 +6,7 @@ AI Interdisciplinary Integration Workshops - Part 1
 
 The first part of the workshops will introduce how to integrate AI with engineering-related fields.
 
-We have invited Professor WU Rih-teng from the Department of Civil Engineering at National Taiwan University!
+We have invited Professor WU Rih-teng (吳日滕) from the Department of Civil Engineering at National Taiwan University!
 
 You are welcome to read more details on the Event Enrollment System of Tamkang University!
 
