@@ -40,7 +40,7 @@ Target audience:
 
 Limited to Computer Hardware Research Club members and Artificial Innovative Intelligence Club members
 
-（You can still join our AI Creativity Society now∠( ᐛ 」∠)＿ ）
+(Club membership applications are still open for anyone willing to join our club!)
 
 &nbsp;
 
