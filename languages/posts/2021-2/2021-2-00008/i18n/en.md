@@ -8,7 +8,7 @@ The 2nd session will focus on the integration of AI and science.
 
 We invited Professor YU Ji-hua from the Department of Engineering Science at National Cheng Kung University.
 
-You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+You are welcome to read more details on the Event Enrollment System of Tamkang University!
 
 &nbsp;
 

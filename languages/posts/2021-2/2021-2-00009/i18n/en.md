@@ -10,7 +10,7 @@ Come and learn how to use AI to improve students' understanding of business!
 
 &nbsp;
 
-You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+You are welcome to read more details on the Event Enrollment System of Tamkang University!
 
 &nbsp;
 

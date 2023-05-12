@@ -8,7 +8,7 @@ The first part of the workshops will introduce how to integrate AI with engineer
 
 We have invited Professor WU Rih-teng from the Department of Civil Engineering at National Taiwan University!
 
-You are welcome to read the (FIXME: detailed teaching content and methods) on the Event Enrollment System of Tamkang University!
+You are welcome to read more details on the Event Enrollment System of Tamkang University!
 
 &nbsp;
 
