@@ -14,7 +14,7 @@
 
 Time:
 
-5月31日 (二) 18:00－20:00 (UTC+8)
+18:00－20:00, Tuesday, May 31, 2022 (UTC+8)
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Microsoft Teams 遠距授課
 
 &nbsp;
 
-簽到方式：
+How to Sign-in:
 
 Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
@@ -32,11 +32,11 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 活動流程：
 
-\- 17:50 開始報到
+\- 17:50 Sign-in begins
 
-\- 18:00 準時開始
+\- 18:00 Start of the event
 
-\- 19:50 提問及拍大合照
+\- 19:50 Q&A / Taking group photo
 
 \- 20:00 End of event
 

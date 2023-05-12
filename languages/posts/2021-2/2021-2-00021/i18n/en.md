@@ -26,7 +26,7 @@ VR/AR 當代元宇宙產業講座：元宇宙祕密大解析！
 
 Time:
 
-6月4日 (六) 13:10－15:00 (UTC+8)
+13:10－15:00, Saturday, June 4, 2022 (UTC+8)
 
 &nbsp;
 
@@ -36,21 +36,21 @@ Microsoft Teams 遠距授課
 
 &nbsp;
 
-簽到方式：
+How to Sign-in:
 
-MS Teams該會議中聊天室留言「系級 學號 姓名」
+Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
 &nbsp;
 
 活動流程：
 
-\- 13:00 開始報到
+\- 13:00 Sign-in begins
 
-\- 13:10 準時開始
+\- 13:10 Start of the event
 
 \- 14:30 與講師互動、Q&A時間
 
-\- 15:00 本次社課結束
+\- 15:00 End of lecture
 
 &nbsp;
 

@@ -24,7 +24,7 @@ Online Meeting on Microsoft Teams
 
 &nbsp;
 
-簽到方式：
+How to Sign-in:
 
 Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
@@ -42,7 +42,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 \- 19:00 President candidates' political briefing and election
 
-\- 19:50 Group photo / Farewell
+\- 19:50 Taking group photo / Farewell
 
 &nbsp;
 

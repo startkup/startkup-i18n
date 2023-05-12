@@ -22,19 +22,19 @@
 
 活動流程：
 
-\- 09:40－10:00 簽到時間
+\- 09:40－10:00 Sign-in
 
 \- 10:00－11:00 3D建模：SolidWorks
 
 \- 11:00－12:00 切片：Cura
 
-\- 12:00 團拍、結束
+\- 12:00 Taking group photo, End of event
 
 &nbsp;
 
 Time:
 
-6月4日 (六) 10:00－12:00 (UTC+8)
+10:00－12:00, Saturday, June 4, 2022 (UTC+8)
 
 &nbsp;
 
@@ -44,9 +44,9 @@ Microsoft Teams 遠距授課
 
 &nbsp;
 
-簽到方式：
+How to Sign-in:
 
-MS Teams該會議中聊天室留言「系級 學號 姓名」
+Leave a message with the format "Department/Year, Student ID no., Name" in Microsoft Teams.
 
 &nbsp;
 

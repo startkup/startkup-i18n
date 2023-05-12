@@ -134,7 +134,7 @@ join us and enter the way of knowledge immediately!
 
 &nbsp;
 
-另外，我們也有招募幹部，
+We are also recruiting club cadres,
 
 with the details recently posted in Dcard.
 

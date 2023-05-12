@@ -40,7 +40,7 @@ E304, Building E (Main Engineering Building)
 
 \- 19:50－20:00 講解認證取得方式
 
-\- 20:00－ 大合照
+\- 20:00 - Taking group photo
 
 &nbsp;
 

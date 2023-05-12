@@ -4,7 +4,7 @@ The 3rd session of the AI Interdisciplinary Integration Workshops!
 
 &nbsp;
 
-Assistant Professor WU An-chi from the Department of International Business will be the instructor.
+Assistant Professor WU An-chi (吳安琪) from the Department of International Business will be the instructor.
 
 Come and learn how to use AI to improve students' understanding of business!
 

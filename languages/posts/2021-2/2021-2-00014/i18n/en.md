@@ -4,7 +4,7 @@
 
 &nbsp;
 
-｜Kelvin Kai-wen TIEW｜(left)
+｜Kelvin Kai-wen TIEW (張開聞)｜(left)
 
 我是國企系碩一的張開聞，個人對科技與金融有興趣，參與AI創智社的成立，讓我可以提升自己對科技工具的應用能力。
 

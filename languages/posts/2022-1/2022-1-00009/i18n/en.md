@@ -50,9 +50,9 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 \- 17:50 開放簽到
 
-\- 18:00 準時開始
+\- 18:00 Start of the event
 
-\- 19:50 Q&A、拍大合照
+\- 19:50 Q&A, Taking group photo
 
 \- 20:00 End of event
 

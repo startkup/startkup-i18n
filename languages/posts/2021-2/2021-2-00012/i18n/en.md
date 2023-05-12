@@ -44,11 +44,11 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 活動流程：
 
-\- 17:40 開放報到
+\- 17:40 Sign-in begins
 
-\- 18:00 準時開始
+\- 18:00 Start of the event
 
-\- 19:50 Q&A、拍大合照、寫回饋單
+\- 19:50 Q&A, Taking group photo, Filling feedback form
 
 \- 20:00 End of event
 

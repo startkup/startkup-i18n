@@ -6,7 +6,7 @@ April 13, 2022: "Integrate AI with Business: How AI Being Used in Commercial Act
 
 Bonus: Extra Round!
 
-Professor SUN Chia-chi, the director of the Department of International Business at Tamkang University, will give us an introductory presentation on the applications of AI in the business field.
+Professor SUN Chia-chi (孫嘉祈), the director of the Department of International Business at Tamkang University, will give us an introductory presentation on the applications of AI in the business field.
 
 &nbsp;
 
