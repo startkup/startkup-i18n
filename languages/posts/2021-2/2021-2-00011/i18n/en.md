@@ -24,7 +24,7 @@ Course time and sessions:
 
 \- 09:10－12:00 Introduction to Consumer Computer Hardware — Computer Hardware Research Club
 
-(with lunch provided 🍱)
+(🍱 with lunch provided for free!)
 
 \- 13:10－16:00 Enterprise Server Hardware Introduction - Artificial Innovative Intelligence Club
 
