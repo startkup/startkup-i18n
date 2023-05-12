@@ -1,4 +1,4 @@
-**[ General Meeting & Orientation Event ]**
+**[ March 22, 2022 | General Meeting & Orientation Event ]**
 
 "What can we learn from the club courses of the Artificial Innovative Intelligence Club?"
 
@@ -6,7 +6,7 @@ This is probably the most frequently question being asked about our club.
 
 &nbsp;
 
-At March 22 (next week),
+At March 22, 2022 (next week),
 
 there will be a formal event to introduce our club courses!
 
