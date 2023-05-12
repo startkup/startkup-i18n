@@ -1,6 +1,6 @@
-**[ 2022-04-30 | Sysadmin Training Course - 1 ]**
+**[ April 30, 2022 | Sysadmin Training Courses - 1 ]**
 
-Great job, everyone, for all your hard work during mid-term exams!
+Great job, everyone, for all your hard work during midterm exams!
 
 &nbsp;
 
@@ -8,7 +8,7 @@ We will be cooperating with the Computer Hardware Research Club to hold our firs
 
 &nbsp;
 
-In the morning, we will guide everyone to assemble a computer, install the operating system, and learn about the basic knowledge and functions of each component!
+In the morning, we will guide everyone to assemble computers, install the operating system, and learn about the basic knowledge and functionalities of each component!
 
 In the afternoon, we will discuss the differences between enterprise-level servers and consumer computers, and give a basic introduction to network hardware.
 
