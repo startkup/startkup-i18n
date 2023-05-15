@@ -4,7 +4,7 @@
 
 &nbsp;
 
-｜儲備 游志信｜（左）
+｜儲備 Shin Chih-hsin YOU (游志信)｜(left)
 
 Hi，我是資工進二的游志信，你也可以叫我Shin，專長是web前後端開發，興趣是出去騎車、打遊戲或是做一些coding
 

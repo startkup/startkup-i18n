@@ -1,6 +1,6 @@
-**[ 第一屆AIIC幹部介紹 - 正/副社長 ]**
+**[ AIIC Cadre Introduction - President / Vice President ]**
 
-✨ 正/副社長 ✨
+✨ President / Vice President ✨
 
 &nbsp;
 

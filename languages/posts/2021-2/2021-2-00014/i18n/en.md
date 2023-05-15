@@ -1,6 +1,6 @@
-**[ 第一屆AIIC幹部介紹 - 顧問 ]**
+**[ AIIC Cadre Introduction - Consultant ]**
 
-💼 顧問
+💼 Consultant
 
 &nbsp;
 
@@ -10,6 +10,6 @@
 
 &nbsp;
 
-｜葉欲晟｜（右）
+｜Wilson Yu-sheng YEH (葉欲晟)｜(right)
 
 我叫葉欲晟，電機碩二，在AI創智社擔任顧問一職，主要的興趣是運動，最常做的是健身、羽球，歡迎多多交流~
