@@ -16,7 +16,7 @@
 
 &nbsp;
 
-💻 Thursday: Projects (Start from October 13, 2022)
+🧩 Thursday: Projects (Start from October 13, 2022)
 
 These side project(s) & study group(s) are scheduled on Thursday,
 

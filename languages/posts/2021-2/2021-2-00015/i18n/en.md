@@ -1,6 +1,6 @@
-**[ AIIC Cadre Introduction - Public Relationship ]**
+**[ AIIC Cadre Introduction - Public Relationship Officers ]**
 
-🤝 公關
+🤝 Public Relationship Officers
 
 &nbsp;
 
