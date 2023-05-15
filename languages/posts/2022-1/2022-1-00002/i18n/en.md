@@ -6,23 +6,23 @@
 
 &nbsp;
 
-｜招募職位｜
+｜Recruiting Positions｜
 
 \- 🔋 營運組：儲備社長、儲備副社長、人資長
 
-\- 🤝 公關組：公關長、公關組員
+\- 🤝 Public Relationship Section: Chief Public Relationship Officer, Public Relationship Officers
 
-\- 📝 文書組：文書長、文書組員
+\- 📝 Documentation Section: Chief Documentation Officer, Documentation Officers
 
-\- 🎨 行銷設計組：小編（社群編輯）、美宣、攝影
+\- 🎨 Marketing and Design Section: Social Media Editors, Artists, Photographers
 
-\- 📅 專案組：專案管理（PM）、專案組員
+\- 📅 Project Section: Project Managers (PM), Project Section Members
 
-\- 📖 課程組：課程長、課程組員
+\- 📖 Curriculum Section: Chief Curriculum Officer, Curriculum Officers
 
 &nbsp;
 
-｜幹部福利｜
+｜Benefits｜
 
 ✨ Having the priority of participation for club-held activities, events including workshops
 
@@ -36,7 +36,7 @@
 
 ✨ 累積、拓展人脈
 
-✨ GDSC TKU：Google學生開發者社群核心團隊成員
+✨ GDSC TKU: Become a Core Team Member of the Google Developer Student Club community
 
 &nbsp;
 

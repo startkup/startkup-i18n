@@ -1,4 +1,4 @@
-**[ 參與認證 | 6月4日 | 3D相關工作坊 ]**
+**[ Participation Certificate | June 4, 2022 | 3D Workshop ]**
 
 3D工作坊：將你的想像具現化
 

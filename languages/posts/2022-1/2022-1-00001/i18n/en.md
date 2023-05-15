@@ -18,6 +18,6 @@ Hello, everyone!
 
 &nbsp;
 
-新的學年、新的目標，
+New academic year, new goals.
 
 期待我們可以踩在過去累積的成就上往成為最大的學藝性社團目標邁進！

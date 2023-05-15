@@ -12,13 +12,13 @@
 
 &nbsp;
 
-⏰ 活動時間：
+⏰ Time:
 
 10月4日 (二) 18:30－20:00 (UTC+8)
 
 &nbsp;
 
-📍 活動地點：
+📍 Location:
 
 E304, Building E (Main Engineering Building)
 

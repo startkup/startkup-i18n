@@ -1,4 +1,4 @@
-**[ 第一屆AIIC幹部介紹 - 認證長 / 文書 ]**
+**[ AIIC Cadre Introduction - Chief Club Certification Officer / Chief Documentation Officer ]**
 
 📝 Chief Club Certification Officer / 📚 Chief Documentation Officer
 

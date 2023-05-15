@@ -1,6 +1,6 @@
-**[ 第一屆AIIC幹部介紹 - 財務 ]**
+**[ AIIC Cadre Introduction - Financial Officers ]**
 
-💰 財務
+💰 Financial Officers
 
 &nbsp;
 

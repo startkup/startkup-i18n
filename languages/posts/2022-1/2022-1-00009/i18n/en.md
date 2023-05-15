@@ -34,7 +34,7 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-⏰ 活動時間：
+⏰ Time:
 
 10月11日 (二) 18:00－20:00 (UTC+8)
 

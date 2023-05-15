@@ -1,4 +1,4 @@
-**[ 第一屆AIIC幹部介紹 - 公關 ]**
+**[ AIIC Cadre Introduction - Public Relationship ]**
 
 🤝 公關
 

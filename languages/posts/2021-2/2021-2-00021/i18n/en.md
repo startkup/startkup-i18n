@@ -1,4 +1,4 @@
-**[ 參與認證 | 6月4日 | VR/AR講座 ]**
+**[ Participation Certificate | June 4, 2022 | VR/AR Workshop ]**
 
 VR/AR 當代元宇宙產業講座：元宇宙祕密大解析！
 
@@ -48,7 +48,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 \- 13:10 Start of the event
 
-\- 14:30 與講師互動、Q&A時間
+\- 14:30 Interacting with the instructor, Q&A
 
 \- 15:00 End of lecture
 

@@ -16,9 +16,9 @@
 
 &nbsp;
 
-🧩 週四專案（於10月13日開課）
+💻 Thursday: Projects (Start from October 13, 2022)
 
-週四18:10－20:00的專案讀書會，
+These side project(s) & study group(s) are scheduled on Thursday,
 
 with the aims to give some chances for those who want to try / challenge project development.
 
@@ -36,7 +36,7 @@ If you learned / studied server & internet administration well,
 
 &nbsp;
 
-🌟 週末工作坊（於10月15日開課）
+🌟 Weekends: Workshops (Start from October 15, 2022)
 
 本學期新增了VJ與光雕設計課程，
 
