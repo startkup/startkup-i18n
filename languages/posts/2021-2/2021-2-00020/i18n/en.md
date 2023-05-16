@@ -1,32 +1,32 @@
 **[ Participation Certificate | June 4, 2022 | 3D Workshop ]**
 
-3D工作坊：將你的想像具現化
+3Dworkshop：Turn Your Imagination into Reality.
 
 &nbsp;
 
-3D列印技術是近年來最熱門的話題之一，不管是在航太、建築、醫療等各行業都能看到他們的身影。
+3D printing technology has been one of the hottest topics in recent years, and its presence can be seen across various industries such as aerospace, construction, healthcare, and more.
 
-至於如何應用以及他們的原理，在本次講座將揭曉給你們知道，同時各位也能學習到如何講自己腦中所想像的物品從建模到印製，我們將一步步教你實現。
-
-&nbsp;
-
-講師介紹：
-
-蔡昇恩
-
-臺科大機械系學生蔡昇恩5月開設「振昇機器人公司」，投入機器人教育事業，拿下U-start前期35萬元補助與今天100萬元創業獎金。他表示，高二起接觸機器人並踏上競賽選手之路，參加國內外逾50場競賽，曾在韓國拿下銅牌，一切都是自學與動作操作。
-
-蔡昇恩認為國內教育缺乏相關內容，而108新課綱又有程式浪潮，決定投入創業，與主要團隊共3人推出機器人設計、智慧開發及相關課程推廣，搭配前幾年校園很夯的3D列印機，讓國中生先接觸競賽，了解與外界的實力差距，再著手寫程式、設計並組裝自己的機器人等，創業至今營業額達100萬元，也獲教育部35萬元先期補助與100萬元創業獎勵，未來將持續推廣，打造國內新生態圈。
+In this lecture, we will uncover how to apply and understand the principles of 3D printing technology. Moreover, you will also learn the step-by-step process of transforming your envisioned objects from modeling to printing.
 
 &nbsp;
 
-活動流程：
+instructor：
+
+Sheng-En Tsai
+
+Sheng-En Tsai, a student from the Department of Mechanical Engineering at National Taiwan University of Science and Technology (NTUST), launched "ZhenSheng Robotics Company" in May. He ventured into the field of robotics education and secured an initial grant of 350,000 NTD from U-start, along with a 1 million NTD entrepreneurial award today.He mentioned that he started exploring robotics in his sophomore year of high school and embarked on a path as a competition participant. He has participated in over 50 competitions both domestically and internationally, earning a bronze medal in Korea. He achieved all of this through self-learning and hands-on practice.
+
+Sheng-En Tsai believes that there is a lack of relevant content in domestic education, and with the advent of programming in the 108 curriculum guidelines, he decided to venture into entrepreneurship. Together with a core team of three members, they launched initiatives in robot design, smart development, and related course promotion. They also incorporated the popular 3D printing technology on campuses in recent years. Their approach involves introducing middle school students to competitions to understand the gap between their abilities and the outside world. They then proceed to learn programming, design, and assemble their own robots. Since starting the business, they have achieved a revenue of 1 million NTD and received an initial grant of 350,000 NTD from the Ministry of Education, along with a 1 million NTD entrepreneurship award. They plan to continue promoting their initiatives to create a new ecosystem within the country.
+
+&nbsp;
+
+Activity flow:
 
 \- 09:40－10:00 Sign-in
 
-\- 10:00－11:00 3D建模：SolidWorks
+\- 10:00－11:00 3D modeling ：SolidWorks
 
-\- 11:00－12:00 切片：Cura
+\- 11:00－12:00 slice ：Cura
 
 \- 12:00 Taking group photo, End of event
 
@@ -38,9 +38,9 @@ Time:
 
 &nbsp;
 
-授課方式：
+Teaching methods:：
 
-Microsoft Teams 遠距授課
+Microsoft Teams  Distance Learning
 
 &nbsp;
 

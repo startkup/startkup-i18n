@@ -1,26 +1,26 @@
 **[ Participation Certificate | June 4, 2022 | VR/AR Workshop ]**
 
-VR/AR 當代元宇宙產業講座：元宇宙祕密大解析！
+Lecture on the Contemporary Metaverse Industry: Unraveling the Secrets of the Metaverse through VR/AR
 
 &nbsp;
 
-您好！
+Hello!
 
-歡迎參加淡江AI創智社的VR/AR講座：以沉浸式體驗開啟元宇宙的無限想像
-
-&nbsp;
-
-相信不少人在近幾年都有聽過「元宇宙」吧，但實際上「元宇宙」是什麼呢？又能帶給我們什麼新的生活體驗呢？
-
-今天這堂講座將帶你深度的瞭解「元宇宙」這個當代最火紅的關鍵字，更能在本次講座中透過業界講師從商業的角度告訴你有那些地方都悄悄運用了「元宇宙」的元素。
+Join us for the VR/AR Lecture by Tamkang University Artificial Innovative Intelligence Club: Unleash Infinite Imagination in the Metaverse through Immersive Experiences.
 
 &nbsp;
 
-想一探究竟這個當代潮流嗎？那就趕緊手刀報名本次的講座吧！
+We believe many people have heard of the term "metaverse" in recent years, but what exactly is the "metaverse"?What new experiences can it bring to our lives?
+
+In today's lecture, we will delve deep into the contemporary and highly popular buzzword "metaverse." Through presentations by industry experts, we will explore how various businesses have subtly incorporated metaverse elements into their operations.
 
 &nbsp;
 
-講師我們邀請到了：香港商雅虎資訊股份有限公司臺灣分公司 媒體內容事業群 許朝欽經理，這麼厲害的講師，你還不來嗎？
+Want to explore this contemporary trend?Then quickly sign up for this lecture!
+
+&nbsp;
+
+Our invited speaker is Mr. Hsu Chao-Chin, Manager of the Media Content Business Group at Yahoo Information Co., Ltd., Taiwan Branch. With such an impressive speaker, why haven't you joined us yet?
 
 &nbsp;
 
@@ -30,9 +30,9 @@ Time:
 
 &nbsp;
 
-授課方式：
+Teaching methods:：
 
-Microsoft Teams 遠距授課
+Microsoft Teams  Distance Learning
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動流程：
+Activity flow:
 
 \- 13:00 Sign-in begins
 
@@ -66,7 +66,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1wFFoaWMeHo3NO5LkrPw0M09uE_Z6I3WCi3mXoTmmYC0/viewform
 
-為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
+To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
 
 &nbsp;
 

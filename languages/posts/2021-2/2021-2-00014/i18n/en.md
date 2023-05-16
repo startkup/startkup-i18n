@@ -6,10 +6,10 @@
 
 ｜Kelvin Kai-wen TIEW (張開聞)｜(left)
 
-我是國企系碩一的張開聞，個人對科技與金融有興趣，參與AI創智社的成立，讓我可以提升自己對科技工具的應用能力。
+I am Kelvin Kai-wen TIEW, a first-year graduate student in the Department of International Business. I have a personal interest in the intersection of technology and finance, which led me to participate in the establishment of the AI Smart Innovation Society. This opportunity has allowed me to enhance my proficiency in applying technological tools.
 
 &nbsp;
 
 ｜Wilson Yu-sheng YEH (葉欲晟)｜(right)
 
-我叫葉欲晟，電機碩二，在AI創智社擔任顧問一職，主要的興趣是運動，最常做的是健身、羽球，歡迎多多交流~
+My name is Wilson Yu-sheng YEH and I am a second-year graduate student in Electrical Engineering. I work as a consultant at Artificial Innovative Intelligence Club. My main interests are sports, and I particularly enjoy fitness and badminton. I welcome any opportunities to chat and exchange ideas~

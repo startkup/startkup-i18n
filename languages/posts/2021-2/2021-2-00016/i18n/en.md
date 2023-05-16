@@ -6,10 +6,10 @@
 
 ｜Zous Chih-wei HUANG (黃致瑋)｜(left)
 
-大家好，我是社團財務，資工系二年級。擅長用Python做資料分析，有任何社費或程式上的問題都能找我討論！
+Hello everyone, I am Financial Officers of the club and a sophomore in the Department of Computer Science.I am skilled in using Python for data analysis. If you have any questions or encounter any issues related to software or programming, feel free to reach out to me for discussion!
 
 &nbsp;
 
 ｜Shawn Hung-hsuan CHENG (鄭泓軒)｜(right)
 
-大家好，我是AI系大一的鄭泓軒，興趣是電腦和各類影視作品，剛從臺南上來不到一年還有很多東西要學習，希望能和各位多多交流。
+Hello everyone, I'm Shawn Hung-hsuan CHENG, a freshman majoring in AI. My interests are computers and various types of film and television works. I recently moved from Tainan and I've been here for less than a year. There's still a lot for me to learn, and I hope to have the opportunity to interact with all of you more.

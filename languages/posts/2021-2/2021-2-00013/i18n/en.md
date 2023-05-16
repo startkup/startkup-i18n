@@ -6,10 +6,10 @@
 
 ｜President Johnny Li Chung YEN (閆立中)｜
 
-您好，我是電機碩一的閆立中，是AI創智社的第一屆社長。我的興趣是廚藝和囤書，對所有事物都感到好奇，是個有信心且有企圖心的人。期許自己能將社團帶領成淡江最大的學藝性社團 😤
+Hello, I am Yen Li-Chung, a first-year graduate student in Electrical Engineering. I am the inaugural President of the Artificial Innovative Intelligence Club.I have a passion for cooking and collecting books. I am naturally curious about everything around me. Moreover, I am a confident and ambitious individual.The person hopes to lead the club to become the largest art-oriented club at Tamkang University. 😤
 
 &nbsp;
 
 ｜Vice President Chloe Rong-rong FAN (范榕容)｜
 
-Hello, 大家好我是榕容，來自資圖三，從小喜歡音樂、運動、大自然，還有很多很多東西XD，也希望自己能夠變得越來越好，成為漂亮又努力又認真又能力好的女生 o(≧v≦)o
+Hello, I'm Chloe Rong-rong FAN from the 3rd year of the Department of Information and Communications at University. Ever since I was young, I've had a deep passion for music, sports, nature, and countless other things. I also hold a strong aspiration to constantly better myself and evolve into a remarkable young woman—someone who is not only beautiful but also diligent, responsible, and highly capable. o(≧v≦)o

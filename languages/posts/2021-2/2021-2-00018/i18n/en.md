@@ -6,7 +6,7 @@
 
 ｜儲備 Shin Chih-hsin YOU (游志信)｜(left)
 
-Hi，我是資工進二的游志信，你也可以叫我Shin，專長是web前後端開發，興趣是出去騎車、打遊戲或是做一些coding
+Hi, I'm Shin Chih-hsin YOU, a sophomore majoring in Computer Science. You can also call me Shin. My expertise lies in web development, both front-end and back-end. In my free time, I enjoy going for bike rides, playing games, and engaging in coding activities.
 
 &nbsp;
 

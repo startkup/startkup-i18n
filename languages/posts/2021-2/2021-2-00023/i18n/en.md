@@ -30,7 +30,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動流程：
+Activity flow:
 
 \- 18:00 Sign-in begins
 

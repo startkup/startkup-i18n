@@ -1,22 +1,22 @@
-**[ 參與認證 | 5月24日 | 雲端講座 ]**
+**[ Participation Certificate | 5月24日 | Cloud Computing Lecture ]**
 
-人工智慧雲端運算架構「Cloud Computing Architecture for Artificial Intelligence」
-
-&nbsp;
-
-從大家每天都在用的Google到Youtube，甚至是Instagram、Facebook都離不開雲端。
+Artificial Intelligence Cloud Computing Architecture「Cloud Computing Architecture for Artificial Intelligence」
 
 &nbsp;
 
-不過，什麼是雲端？
+From everyday applications like Google and YouTube to platforms such as Instagram and Facebook, cloud computing plays an essential role.
 
 &nbsp;
 
-簡單來說，就是將所有資訊都放在網路上去處理，透過網路遠端的電腦處理作業，再呈現給使用者。舉凡是上Google查資料、上Facebook社群網站跟朋友交流、看Youtube影音甚至是玩app遊戲等，都是雲端的一環。
+However, what is cloud computing?
 
 &nbsp;
 
-講師我們邀請到了國立臺北大學資訊管理研究所的專任副教授戴敏育博士！超棒的講師，你還不來嗎？
+Simply put, it means processing all information on the Internet, carrying out operations remotely through networked computers, and presenting the results to the users.In everyday activities such as searching for information on Google, interacting with friends on Facebook, watching videos on YouTube, or playing mobile app games, all of these actions are part of the cloud computing ecosystem.
+
+&nbsp;
+
+We have invited Dr. Min-Yuh Day, a full-time Associate Professor from the Information Management at National Taipei University, as our guest speaker.!We have an amazing speaker. Why don't you come and join us?
 
 &nbsp;
 
@@ -26,9 +26,9 @@ Time:
 
 &nbsp;
 
-授課方式：
+Teaching methods:：
 
-Microsoft Teams 遠距授課
+Microsoft Teams  Distance Learning
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動流程：
+Activity flow:
 
 \- 17:50 Sign-in begins
 
@@ -62,7 +62,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1SIkQx0QNb62u8fFYDhSUwoShpq4f5RaKXlmoYiGl42M/viewform
 
-為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
+To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
 
 &nbsp;
 

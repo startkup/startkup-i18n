@@ -1,14 +1,14 @@
 **[ May 31, 2022 | Blockchain Lecture ]**
 
-區塊鏈企業應用趨勢與產業概況講座：真的需要完全去中心化嗎？企業要用的區塊鏈與你想像的不一樣！
+Lecture Title: Trends and Overview of Blockchain Applications in Enterprises: Is Full Decentralization Necessary?The Blockchain for Enterprises Differs from Your Imagination!
 
 &nbsp;
 
-近幾年受到比特幣的影響使得加密貨幣興起，人們也體會到了區塊鏈技術的用處。伴隨著FinTech的發展，許多金融業也開始轉型並導入區塊鏈技術。
+The Rise of Cryptocurrencies, Driven by Bitcoin, Has Highlighted the Utility of Blockchain Technology in Recent Years.With the Advancement of FinTech, Many Financial Industries are Embracing Transformation and Adopting Blockchain Technology.
 
-我們這次邀請到有工程背景並跨足多個領域的區塊鏈產業應用研究的Jason，曾經身為兩屆成大區塊鏈研究社社長的他現在已是臺灣區塊鏈大學聯盟的企業級區塊鏈發展計畫負責人。
+We are pleased to have Jason as our guest speaker for this event. With a strong engineering background and a wide range of experiences in various fields related to blockchain industry applications, Jason has previously served as the president of the National Cheng Kung University Blockchain Research Society for two terms. Currently, he holds a key position as the project lead responsible for enterprise-level blockchain development in the Taiwan Blockchain University Alliance.
 
-這麼棒的講師，你還不來嗎？
+This speaker is fantastic! Why haven't you joined us yet?
 
 &nbsp;
 
@@ -18,9 +18,9 @@ Time:
 
 &nbsp;
 
-授課方式：
+Teaching methods:：
 
-Microsoft Teams 遠距授課
+Microsoft Teams  Distance Learning
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動流程：
+Activity flow:
 
 \- 17:50 Sign-in begins
 
@@ -54,7 +54,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1BrkqhdODf5zN-nDNwGa0G8jNNNV2uTJoGbkY-Ak9FbA/viewform
 
-為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
+To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
 
 &nbsp;
 

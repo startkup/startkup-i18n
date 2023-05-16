@@ -12,25 +12,25 @@ They are anywhere in everyone's daily life!
 
 &nbsp;
 
-我們在5月3日邀請到了 Ken Studio owner 阿肯，
+On May 3rd, we invited Mr. Ken, the owner of Ken Studio
 
-目前是資策會互動式網站 UI / UX 設計師就業養成班的專任講師、
+Currently, Mr. Ken serves as a dedicated instructor for the UI/UX Design Professional Training Program at the Institute for Information Industry (III).
 
-清華大學語文中心數位行銷內容寫作班講師；
+Mr. Ken is also an instructor for the Digital Marketing Content Writing Course at the Language Center of Tsinghua University.
 
-Ken從1999年開始寫網頁，在這個領域也擁有資深的經歷，
+Mr. Ken has been writing web pages since 1999 and has accumulated extensive experience in this field.
 
-快來為你的學習歷程多一道UI/UX的色彩吧！
+Come and add a touch of UI/UX to your learning journey!
 
 &nbsp;
 
 Time:
 
-2022年5月3日 (二) 18:00－20:00 (UTC+8)
+May 3, 2022 (Tue) 18:00－20:00 (UTC+8)
 
 &nbsp;
 
-授課方式：
+Teaching methods:：
 
 Online, Microsoft Teams
 
@@ -42,7 +42,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-活動流程：
+Activity flow:
 
 \- 17:40 Sign-in begins
 
@@ -58,7 +58,7 @@ Target audience:
 
 Club members of Artificial Innovative Intelligence Club
 
-（現在還可以加入我們喔！）
+(You can join us now!)
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1j8za52CcKuMI9cbV3RJFzs2iXt4Bok5hfCMksJ51Ts0/viewform
 
-為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
+To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
 
 &nbsp;
 

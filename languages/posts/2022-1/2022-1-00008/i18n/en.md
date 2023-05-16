@@ -56,7 +56,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1Mht0LecTVCZp1LREKh5oG4U-m0Thq068Wqx7VIfPobI/viewform
 
-為了方便統計此次社課參與人數，還是麻煩大家填寫表單囉~
+To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
 
 &nbsp;
 
