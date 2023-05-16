@@ -1,4 +1,4 @@
-**[ 參與認證取得途徑 ]**
+**[ How to get Participation Certificates ]**
 
 🔥 熱騰騰的參與認證取得途徑出爐囉！ 🔥
 
@@ -10,7 +10,7 @@
 
 1. 參加新生說明會暨迎新
 
-2. 期初社員大會 + 期末社員大會
+2. 2 General Meetings
 
 3. 期中考前講座三選一
 

@@ -24,7 +24,7 @@ E304, Building E (Main Engineering Building)
 
 &nbsp;
 
-🖊️ 簽到方式：
+🖊️ How to sign-in?
 
 至教室門口進行簽到
 
@@ -50,7 +50,7 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-✍️ 報名方式：
+✍️ How to sign-up?
 
 Fill the Google Form
 

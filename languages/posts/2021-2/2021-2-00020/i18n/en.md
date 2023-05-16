@@ -12,11 +12,11 @@ In this lecture, we will uncover how to apply and understand the principles of 3
 
 instructor：
 
-Sheng-En Tsai
+TSAI Sheng-en (蔡昇恩)
 
-Sheng-En Tsai, a student from the Department of Mechanical Engineering at National Taiwan University of Science and Technology (NTUST), launched "ZhenSheng Robotics Company" in May. He ventured into the field of robotics education and secured an initial grant of 350,000 NTD from U-start, along with a 1 million NTD entrepreneurial award today.He mentioned that he started exploring robotics in his sophomore year of high school and embarked on a path as a competition participant. He has participated in over 50 competitions both domestically and internationally, earning a bronze medal in Korea. He achieved all of this through self-learning and hands-on practice.
+TSAI Sheng-en, a student from the Department of Mechanical Engineering at National Taiwan University of Science and Technology (NTUST), launched "GTA Robotics Co., LTD." in May. He ventured into the field of robotics education and secured an initial grant of 350,000 TWD from U-start, along with a 1 million TWD entrepreneurial award today.He mentioned that he started exploring robotics in his sophomore year of high school and embarked on a path as a competition participant. He has participated in over 50 competitions both domestically and internationally, earning a bronze medal in Korea. He achieved all of this through self-learning and hands-on practice.
 
-Sheng-En Tsai believes that there is a lack of relevant content in domestic education, and with the advent of programming in the 108 curriculum guidelines, he decided to venture into entrepreneurship. Together with a core team of three members, they launched initiatives in robot design, smart development, and related course promotion. They also incorporated the popular 3D printing technology on campuses in recent years. Their approach involves introducing middle school students to competitions to understand the gap between their abilities and the outside world. They then proceed to learn programming, design, and assemble their own robots. Since starting the business, they have achieved a revenue of 1 million NTD and received an initial grant of 350,000 NTD from the Ministry of Education, along with a 1 million NTD entrepreneurship award. They plan to continue promoting their initiatives to create a new ecosystem within the country.
+Sheng-En Tsai believes that there is a lack of relevant content in domestic education, and with the advent of programming in the 108 curriculum guidelines, he decided to venture into entrepreneurship. Together with a core team of three members, they launched initiatives in robot design, smart development, and related course promotion. They also incorporated the popular 3D printing technology on campuses in recent years. Their approach involves introducing middle school students to competitions to understand the gap between their abilities and the outside world. They then proceed to learn programming, design, and assemble their own robots. Since starting the business, they have achieved a revenue of 1 million TWD and received an initial grant of 350,000 TWD from the Ministry of Education, along with a 1 million TWD entrepreneurship award. They plan to continue promoting their initiatives to create a new ecosystem within the country.
 
 &nbsp;
 
@@ -24,9 +24,9 @@ Activity flow:
 
 \- 09:40－10:00 Sign-in
 
-\- 10:00－11:00 3D modeling ：SolidWorks
+\- 10:00－11:00 3D modeling: SolidWorks
 
-\- 11:00－12:00 slice ：Cura
+\- 11:00－12:00 Slice: Cura
 
 \- 12:00 Taking group photo, End of event
 

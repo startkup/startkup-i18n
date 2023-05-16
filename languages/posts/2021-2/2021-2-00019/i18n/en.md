@@ -1,6 +1,6 @@
-**[ Participation Certificate | 5月24日 | Cloud Computing Lecture ]**
+**[ Participation Certificate | May 24, 2022 | Cloud Computing Lecture ]**
 
-Artificial Intelligence Cloud Computing Architecture「Cloud Computing Architecture for Artificial Intelligence」
+"Cloud Computing Architecture for Artificial Intelligence"
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Simply put, it means processing all information on the Internet, carrying out op
 
 &nbsp;
 
-We have invited Dr. Min-Yuh Day, a full-time Associate Professor from the Information Management at National Taipei University, as our guest speaker.!We have an amazing speaker. Why don't you come and join us?
+We have invited Dr. DAY Min-yuh (戴敏育), a full-time associate professor from the Graduate Institute of Information Management at National Taipei University (NTPU), as our guest speaker!We have an amazing speaker. Why don't you come and join us?
 
 &nbsp;
 

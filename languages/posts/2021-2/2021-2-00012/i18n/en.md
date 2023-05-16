@@ -12,11 +12,11 @@ They are anywhere in everyone's daily life!
 
 &nbsp;
 
-On May 3rd, we invited Mr. Ken, the owner of Ken Studio
+On May 3, 2022, we invited Mr. Ken, the owner of Ken Studio.
 
 Currently, Mr. Ken serves as a dedicated instructor for the UI/UX Design Professional Training Program at the Institute for Information Industry (III).
 
-Mr. Ken is also an instructor for the Digital Marketing Content Writing Course at the Language Center of Tsinghua University.
+Mr. Ken is also an instructor for the Digital Marketing Content Writing Course at the Language Center of National Tsing Hua University (NTHU).
 
 Mr. Ken has been writing web pages since 1999 and has accumulated extensive experience in this field.
 
@@ -26,7 +26,7 @@ Come and add a touch of UI/UX to your learning journey!
 
 Time:
 
-May 3, 2022 (Tue) 18:00－20:00 (UTC+8)
+18:00－20:00, Tuesday, May 3, 2022 (UTC+8)
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Target audience:
 
 Club members of Artificial Innovative Intelligence Club
 
-(You can join us now!)
+(Join us now!)
 
 &nbsp;
 

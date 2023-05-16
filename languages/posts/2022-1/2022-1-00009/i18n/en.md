@@ -1,4 +1,4 @@
-**[ 參與認證 | 10月11日 | UI/UX講座 ]**
+**[ Participation Certificate | October 11, 2022 | UI/UX Lecture ]**
 
 產品UI/UX設計師如何在軟體業生存？
 
@@ -40,7 +40,7 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-📍 授課地點：
+📍 Location:
 
 Reality Fields, <br />College of Artificial Innovative Intelligence
 
@@ -48,7 +48,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 ✈️活動流程：
 
-\- 17:50 開放簽到
+\- 17:50 Sign-in begins
 
 \- 18:00 Start of the event
 
@@ -58,13 +58,13 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 &nbsp;
 
-🖊️ 簽到方式：
+🖊️ How to sign-in?
 
 至教室門口進行簽到
 
 &nbsp;
 
-✍️ 報名方式：
+✍️ How to sign-up?
 
 Fill the Google Form
 
