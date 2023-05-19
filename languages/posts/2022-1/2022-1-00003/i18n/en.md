@@ -1,25 +1,25 @@
-**[ 9月3日 | 新生社團體驗節 × AI創智社 ]**
+**[ September 3rd | Freshmen Club Experience Festival × Artificial Innovative Intelligence Club ]**
 
-全校唯一投影展《晨光熹微》即將開幕！
-
-&nbsp;
-
-淡江社團最大沉浸式投影首展，《晨光熹微．AI相隨》經過策展團隊克服種種困難，還有不斷萌生的創意發想，讓這個展覽不僅呈現了AI的最新公開應用，並利用投影技術，讓學生能夠免費進入沉浸式的五官感受。
-
-在展覽的最後還可以體驗AI的遊戲，並與遊戲開發社共同合作，打造一場沐浴在AI及投影之間，每個展場空間大異其趣又各自精彩，帶給觀眾與AI樣貌截然不同的感官震撼。
+The school's exclusive projection exhibition, "The dim light of dawn," is about to open!
 
 &nbsp;
 
-\- 九月三日，與你相見 -
+The largest immersive projection exhibition in Tamkang University's student club, "The dim light of dawn : AI Unveiled," overcame various challenges and constantly generated creative ideas. This exhibition not only showcases the latest public applications of AI but also utilizes projection technology to allow students to experience immersive sensory stimulation free of charge.
+
+At the end of the exhibition, you can also experience an AI game and collaborate with game development societies to create a captivating fusion of AI and projection. Each exhibition space offers a unique and exciting experience, providing viewers with a sensory spectacle that is entirely different from the appearance of AI.
+
+&nbsp;
+
+\- See you on September 3rd.
 
 &nbsp;
 
 Time:
 
-9月3日 13:00－17:00 (UTC+8)
+September 3rd, from 13:00 to 17:00 (UTC+8).
 
 &nbsp;
 
 Location:
 
-淡江大學紹謨紀念體育館SG316、SG317
+SG316 and SG317 are located in the Shao-mo Memorial Gymnasium (SG) at Tamkang University.

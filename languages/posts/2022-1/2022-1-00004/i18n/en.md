@@ -1,21 +1,21 @@
-**[ 活動延期 | 9月4日 | 新生社團體驗節 × AI創智社 ]**
+**[Event Postponed | September 4th | Freshmen Club Experience Festival × Artificial Innovative Intelligence Club ]**
 
-【活動延期】
+【The event has been postponed】
 
-雖然課外組決定取消新生社團體驗節，
+Although the extracurricular group has decided to cancel the new student club experience event.
 
-但是！我們有積極跟課外組聯繫，討論出替代方案：
-
-&nbsp;
-
-☀️ 9月2日 (五) 廠商照常場佈
-
-☀️ 9月3日 (六) 內部試營運（不開放參觀）
-
-☀️ 9月4日 (日) 11:00－16:00 開放參觀 ✨
-
-☀️ 利用錄影的方式彌補不能參與的同學
+However, we have actively been in contact with the extracurricular group to discuss alternative options.
 
 &nbsp;
 
-雖然錄影還是看得到展覽，但是跟親身體驗不太一樣，有空還是可以過來看看哦！
+☀️ On September 2nd (Friday), exhibitors will set up as usual
+
+☀️ On September 3rd (Saturday), there will be internal trial operations (not open to the public)
+
+☀️ On September 4th (Sunday), from 11:00 to 16:00, there will be an open visit ✨
+
+☀️ Recording will be used to compensate for students who are unable to attend
+
+&nbsp;
+
+Although you can still see the exhibition through the recording, it's not quite the same as experiencing it in person. You're welcome to come and see it when you have the time!

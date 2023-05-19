@@ -12,12 +12,12 @@ Hi, I'm Shin Chih-hsin YOU, a sophomore majoring in Computer Science. You can al
 
 ｜儲備 陳慧瑜｜（右）
 
-你們好啊！
+Hello, everyone!
 
 我是財金系大二的陳慧瑜
 
-在社團內擔任儲備的職位
+Holding a reserve position within the club.
 
-平時最喜歡的是體育課
+My favorite subject is physical education.
 
-想打桌球或其他球類可以找我 XD
+If you want to play table tennis or any other ball game, you can find me XD

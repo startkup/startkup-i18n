@@ -2,22 +2,22 @@
 
 Hello, everyone!
 
-我們是第二屆AI創智社 🚀
+We are the second edition of the Artificial Innovative Intelligence Club🚀
 
 &nbsp;
 
-繼達成上一屆為成長最快的社團成就之後，
+Following the achievement of being the fastest-growing organization in the previous term,
 
-我們希望這一屆能用豐富的課程再創佳績，並與多個社團合作推出嶄新的企畫，將AI創智社帶到新高度！
+We hope that this term, with its rich curriculum, will achieve even greater results and collaborate with multiple clubs to launch innovative projects, taking Artificial Innovative Intelligence Club to new heights!
 
 &nbsp;
 
-大家對於未來這一學期有任何對於課程及活動的建議或是許願，
+If you have any suggestions or wishes regarding the courses and activities for this upcoming semester, please feel free to share them.
 
-都歡迎私訊跟我們說哦～
+We welcome you to send us a private message and share your thoughts with us!
 
 &nbsp;
 
 New academic year, new goals.
 
-期待我們可以踩在過去累積的成就上往成為最大的學藝性社團目標邁進！
+We are excited to build upon our past accomplishments and work towards our goal of becoming the largest academic-oriented club.
