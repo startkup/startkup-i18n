@@ -1,20 +1,20 @@
 **[ Participation Certificate | October 4, 2022 | General Meeting (beginning of semester) ]**
 
-期初社員大會來囉！
+The initial members' meeting is here!
 
-為了能夠拉近社員們間的距離，我們準備了「烤餅乾體驗活動」希望藉此練習彼此的合作默契 😍
+In order to bring our members closer together, we have prepared a "Cookie Baking Experience" activity to practice cooperation and teamwork 😍
 
 &nbsp;
 
-除了團隊合作活動，還有表決章程修正案及講解認證取得方式，經過這次更新我們將呈現最完整、最專業的版本。
+In addition to team-building activities, we will also discuss and explain proposed amendments to the bylaws and the process of obtaining certifications. After this update, we will present the most comprehensive and professional version.
 
-期待各位社員的參與，週二見～
+We look forward to the participation of all members. See you on Tuesday!
 
 &nbsp;
 
 ⏰ Time:
 
-10月4日 (二) 18:30－20:00 (UTC+8)
+October 4th (Tuesday) 18:30-20:00 (UTC+8)
 
 &nbsp;
 
@@ -26,25 +26,25 @@ E304, Building E (Main Engineering Building)
 
 🖊️ How to sign-in?
 
-至教室門口進行簽到
+Please sign in at the entrance of the classroom.
 
 &nbsp;
 
-✈️ 活動流程：
+✈️ Event Schedule:
 
-\- 18:30－18:40 簽到
+\- 18:30－18:40 Sign-in
 
-\- 18:40－19:40 團隊合作練習——烤餅乾
+\- 18:40－19:40 Team cooperation exercise - Baking cookies
 
-\- 19:40－19:50 表決章程修正案
+\- 19:40－19:50 Voting on charter amendments
 
-\- 19:50－20:00 講解認證取得方式
+\- 19:50－20:00 Explanation of certification acquisition methods
 
 \- 20:00 - Taking group photo
 
 &nbsp;
 
-⛄️ 活動對象：
+⛄️ Event Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 

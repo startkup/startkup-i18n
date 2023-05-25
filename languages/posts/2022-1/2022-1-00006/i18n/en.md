@@ -1,44 +1,44 @@
-**[ 參與認證 | 9月27日 | 招生說明會暨迎新 ]**
+**[ Participation Certificate | 9月27日 | Enrollment Orientation and Welcome Event ]**
 
 Hello, everyone!
 
-我們這學期的第一個活動開放報名了！
+Our first event of the semester is now open for enrollment!
 
-—— 🍬🍬 《招生說明會暨迎新》 🔥🔥
+—— 🍬🍬 《 Recruitment Orientation and Welcome Event 》 🔥🔥
 
-（有參與認證！馬上入社，參與立刻拿！）
-
-&nbsp;
-
-不管有沒有繳社費都可以參加，
-
-活動內容會先為大家介紹社團、社課規畫及財務規畫，
-
-如果大家聽完有意願加入的話，
-
-中場休息會開放收社費，
-
-並記得領取收據哦！
+(Get certified by participating! Join the club immediately and receive rewards instantly!)
 
 &nbsp;
 
-迎新活動除了有運用AI原理的團康之外，
+Whether or not you have paid the club fee, you can participate.
 
-在最後填寫回饋表單之後，
+The event will start with an introduction to the club, course planning, and financial arrangements.
 
-我們會依照有回饋單填寫的社員進行抽獎，
+If you are interested in joining after the introduction,
 
-禮物都是由Google直接寄來的哦！
+during the intermission, we will collect the club fee.
+
+Don't forget to collect your receipt!
 
 &nbsp;
 
-🎁 抽獎品項：
+In addition to the team-building activities that utilize AI principles,
 
-\- Google Cloud 背包 × 1 個
+after completing the feedback form at the end,
 
-\- Android 環保不鏽鋼餐具七件組 × 1 個
+we will hold a lucky draw exclusively for members who have submitted the feedback form.
 
-\- Android Developers 金屬鑰匙圈 × 5 個
+The prizes will be directly sent by Google!
+
+&nbsp;
+
+🎁 Prize Draw Items:
+
+\- Google Cloud  backpack x 1
+
+\- Android eco-friendly stainless steel cutlery set (7 pieces) x 1
+
+\- Android Developers metal keychain x 5
 
 &nbsp;
 
@@ -48,35 +48,35 @@ Hello, everyone!
 
 &nbsp;
 
-🧾 活動流程：
+🧾 Event Schedule：
 
 \- 17:50－18:10 Sign-in
 
-\- 18:15－18:35 社團介紹及社課規畫
+\- 18:15－18:35  Introduction to clubs and course planning
 
-\- 18:40－18:45 財務規畫
+\- 18:40－18:45 Financial planning
 
-\- 18:50－19:00 中場休息（可繳社費）
+\- 18:50－19:00 Intermission (Membership fee payment available)
 
-\- 19:05－19:40 AI小團康
+\- 19:05－19:40 AI team-building activities
 
-\- 19:45－20:00 回饋表單 & 抽獎、大合照
+\- 19:45－20:00 Feedback form &, group photo!
 
 &nbsp;
 
 📍 Location:
 
-暫定工學大樓E304
+Engineering Building E304
 
-（活動前一天會寄email行前通知告知確切地點）
+(The exact location will be notified via email one day before the event)
 
 &nbsp;
 
-🔗 招生說明會暨迎新報名表單連結：
+🔗 Recruitment Information Session and New Student Registration Form Link：
 
 https://docs.google.com/forms/d/1OaJYjYEcG96Wj2iYEHRrlbIUQac7789aVIwdVbGvkAo/viewform
 
-⚠️ 表單截止：延長報名至9月26日 (日) 19:00 (UTC+8)
+⚠️ Form Deadline: Extended to September 26th (Sunday) 19:00 (UTC+8)
 
 &nbsp;
 

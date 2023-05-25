@@ -1,6 +1,6 @@
 **[ Participation Certificate | October 11, 2022 | UI/UX Lecture ]**
 
-產品UI/UX設計師如何在軟體業生存？
+How can Product UI/UX Designers Survive in the Software Industry?
 
 &nbsp;
 
@@ -12,31 +12,31 @@ They are anywhere in everyone's daily life!
 
 &nbsp;
 
-10月11日 (二) 邀請到了張景媛設計師，
+On October 11th (Tuesday), we have invited designer Zhang Jingyuan,
 
-懷著以人為本精神的UI/UX接案設計師，
+who embraces a user-centered approach as a UI/UX freelance designer.
 
-曾任職於金融科技、AR/VR相關產業，
+Previously worked in the fintech and AR/VR industries.
 
-有多個產品0－1的開發經驗，包括SaaS、CMS等產品。
+She has experience in developing multiple products from 0 to 1, including SaaS, CMS, and other products.
 
-與線上教學平臺合作擔任業師，負責審閱學員作品集及輔導後續轉職。
+She collaborates with online teaching platforms as an industry expert, reviewing student portfolios and providing guidance for career transitions.
 
-專長是跟工程師稱兄道弟及懟產品經理 😎
+Her expertise lies in collaborating closely with engineers and teasing product managers 😎
 
 &nbsp;
 
-⛄️活動對象：
+⛄️ Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 
-（現在還可以加入我們喔 🤩 ）
+(You can still join us now! 🤩)
 
 &nbsp;
 
 ⏰ Time:
 
-10月11日 (二) 18:00－20:00 (UTC+8)
+October 11th (Tuesday) 18:00 - 20:00 (UTC+8)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 &nbsp;
 
-✈️活動流程：
+✈️Event Schedule:
 
 \- 17:50 Sign-in begins
 
@@ -60,7 +60,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 🖊️ How to sign-in?
 
-至教室門口進行簽到
+Please sign in at the entrance of the classroom.
 
 &nbsp;
 
@@ -70,7 +70,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1CEKAgBQ7dVf5QO2kr2RQuDIGcWnD01SyNoIxRAJuwMU/viewform
 
-為了方便統計此次講座課程參與人數，還是麻煩大家填寫表單囉~
+To facilitate the attendance tracking for this lecture, we kindly ask everyone to fill out the registration form.
 
 &nbsp;
 

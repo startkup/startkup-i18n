@@ -1,18 +1,18 @@
 **[ Scheduled Club Activities 2022-1 ]**
 
-✨ 社課規畫懶人包這邊整理給大家囉！
+✨ Here is a consolidated guide to the club course planning for everyone, making it convenient and accessible.
 
 &nbsp;
 
 ⏰ Tuesday: Club Courses
 
-一般社課於週二18:10－20:00進行，
+General club courses take place on Tuesdays from 18:10 to 20:00.
 
-課程內容由UI/UX、app開發、Google Cloud開發者技術培訓計畫，
+The course content includes UI/UX, app development, and Google Cloud developer training program.
 
-以及一系列的機器學習計畫所組成，
+Along with a series of machine learning projects,
 
-豐富的課程內容讓大家吸收更多知識，增進競爭力 📖
+The rich course content allows everyone to absorb more knowledge and enhance competitiveness📖
 
 &nbsp;
 
@@ -32,29 +32,29 @@ Sysadmin training courses will teach a great deal of knowledge about server & in
 
 If you learned / studied server & internet administration well,
 
-可以往網路管理工程師這條路走喔 👨‍💻
+You can consider pursuing a career path as a network management engineer 👨‍💻
 
 &nbsp;
 
 🌟 Weekends: Workshops (Start from October 15, 2022)
 
-本學期新增了VJ與光雕設計課程，
+This semester, we have added VJ and Projection Mapping Design courses.
 
-為本學期社團的發展重點，
+It is the focus of this semester to promote the development of clubs.
 
-我們將會在學期末舉辦成果展，
+We will hold an exhibition of achievements during the final exams.
 
-向大家展示這新穎課程的魅力 ❤️‍🔥
+Showcasing the allure of this innovative course to everyone ❤️‍🔥
 
 &nbsp;
 
-琳瑯滿目的社團課程以及眾多專業講師，讓你滿載而歸～
+A wide range of club courses and numerous professional instructors will ensure you leave with a fulfilling experience.
 
-還在等什麼？
+What are you waiting for?
 
-趕緊手刀加入吧！
+Hurry up and join us now!
 
-AI創智社在此誠摯歡迎您的加入 👋
+The Artificial Innovative Intelligence Club sincerely welcomes your membership 👋
 
 &nbsp;
 

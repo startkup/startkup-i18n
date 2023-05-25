@@ -1,66 +1,66 @@
-[ 111-1 所有的社課報名表單 ]
+[111-1 All Club Course Registration Forms]
 
-📣📣 所有的社課報名表單都在這！
+📣📣 All club course registration forms are here!
 
-接下來我們將會舉辦我們首次兩種課程的系列培訓計畫
+Next, we will be holding a series of training programs for our first two types of courses.
 
-（講師說原本一堂2小時太少），
+(The instructor mentioned that the original duration of 2 hours per session was too short),
 
-所以我們的雲端增加了2個禮拜的課程！
+So we have extended the courses on our cloud platform for an additional 2 weeks!
 
-這些課程一堂都是1小時，Google Cloud共5小時，5堂課；ML機器學習共4小時，4堂課。
+Each session of these courses is 1 hour long. There will be a total of 5 sessions for Google Cloud, amounting to 5 hours, and 4 sessions for ML Machine Learning, totaling 4 hours.
 
-還有別忘了 ✨ 修正組織章程必召開的社員大會！
+And don't forget ✨ the General Assembly for amending the club's bylaws that all members must attend!
 
 ----
 
-雲端第一堂2022/10/25由社長為我們啟程（？），還為大家建立了Google雲端的伺服器，讓大家可以直接使用，接著到2022/12/06最後一堂都是Google Developers Group的講師，日後公佈講師詳細資訊，敬請期待😚
+The first session on the cloud will commence on 2022/10/25, led by our club president, who has set up Google Cloud servers for everyone's direct use. The final session on 2022/12/06 will be conducted by speakers from Google Developers Group. More detailed information about the speakers will be announced soon. Stay tuned! 😚
 
-ML機器學習則是全程由Google機器學習開發專家（GDE）的講師帶我們深入了解機器學習。本課程將於期中考後開始上課，詳細資訊預計於期中考週揭曉！
+ML Machine Learning will be taught throughout the program by a Google Developer Expert (GDE) specialized in machine learning, providing us with an in-depth understanding of the subject.This course will begin after the midterm exams, and further information is expected to be announced during the midterm exam week.
 
 &nbsp;
 
 \#googlecloud
 
-☁️ Google Cloud 培訓計畫
+☁️ Google Cloud Training Program
 
-。日期：每週二，2022/10/25－12/06（共五堂）
+。Dates: Every Tuesday, from 2022/10/25 to 2022/12/06 (5 sessions in total)
 
-。時間：18:30－19:50
+。Time: 18:30 - 19:50
 
 。Sessions:
 
-\- 18:30－18:40 - 報到
+\- 18:30－18:40 - Sign-in
 
-\- 18:40－19:40 - 課程內容
+\- 18:40－19:40 - Course content
 
-\- 19:40 - Q&A、回饋、合照
+\- 19:40 - Q&A, feedback, group photo
 
 &nbsp;
 
 \#machinelearning
 
-🤖️ Machine Learning 機器學習系列課程
+🤖️ Machine Learning Series Course
 
-。日期：每週四，2022/11/17－12/08 (共四堂)
+。Dates: Every Thursday, from November 17th to December 8th, 2022 (4 sessions)
 
-。時間：18:30－19:50
+。Time: 18:30 - 19:50
 
 。Sessions:
 
-\- 18:30－18:40 - 報到
+\- 18:30－18:40 - Sign-in
 
-\- 18:40－19:40 - 課程內容
+\- 18:40－19:40 - Course content
 
-\- 19:40 - Q&A、回饋、合照
+\- 19:40 - Q&A, feedback, group photo
 
 &nbsp;
 
-\#期末社員大會
+#End-of-Term Member Assembly
 
-。日期：2022/12/20
+。Date: December 20th, 2022
 
-。時間：（12/20前一週於精選動態公佈）
+。Time: (To be announced in the selected updates one week prior to December 20th)
 
 &nbsp;
 

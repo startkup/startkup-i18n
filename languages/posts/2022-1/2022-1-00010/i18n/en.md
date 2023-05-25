@@ -1,28 +1,28 @@
-**[ 課程回顧 | 10月11日 | UI/UX講座 ]**
+**[Course Review | October 11th | UI/UX Lecture]**
 
 October 11, 2022
 
 UI/UX Lecture:
 
-產品UI/UX設計師如何在軟體業生存？
+How can Product UI/UX Designers Survive in the Software Industry?
 
 &nbsp;
 
-今天（10月11日）我們邀請到了線上教學平臺的業師張景媛老師，
+Today (October 11th), we had the honor of inviting Ms. Zhang Jingyuan, an industry expert from an online teaching platform,
 
-帶領我們瞭解為何UI/UX很重要、設計師種類與差別、軟體業生態、以及專案的流程。
-
-&nbsp;
-
-課程中也代入實際案例，
-
-如花旗銀行的UI不好以致員工出錯等。
+To lead us in understanding the importance of UI/UX, different types of designers, the software industry ecosystem, and project workflows.
 
 &nbsp;
 
-接著介紹UI和UX，
+Real-life case studies were also incorporated into the course.
 
-在UX也提到Google如何定義好的使用者體驗：
+such as the poor UI of Citibank leading to employee errors.
+
+&nbsp;
+
+She then introduced UI and UX,
+
+highlighting how Google defines a good user experience:
 
 &nbsp;
 
@@ -36,29 +36,29 @@ UI/UX Lecture:
 
 &nbsp;
 
-也就是好用的、公平的、愉快的、有用的，
+That is, being user-friendly, fair, enjoyable, and useful.
 
-而usable與useful的差別在哪呢？
+What is the difference between usable and useful?
 
-就看大家有沒有好好上課了。
-
-&nbsp;
-
-講師也為我們帶到UX需要做哪些工作、流程，
-
-還有UI/UX設計師通常會進入哪些公司，
-
-最後還有專案的流程角色與工作介紹！
+It depends on whether everyone has attended the classes properly.
 
 &nbsp;
 
-感謝景媛老師帶我們初步了解UI/UX，
+The instructor will also guide us through the work and process involved in UX.
 
-也分享了非常多關於業界的經驗！
+We will learn about the companies where UI/UX designers usually work.
+
+Finally, we will be introduced to the roles and responsibilities in project processes.
 
 &nbsp;
 
-下堂課：10月25日，Google Cloud開發者技術培訓計畫
+We appreciate teacher Jingyuan for giving us a preliminary understanding of UI/UX.
+
+She also shared a lot of industry-related experiences!
+
+&nbsp;
+
+Next class: October 25th, Google Cloud Developer Technical Training Program.
 
 See you there!
 

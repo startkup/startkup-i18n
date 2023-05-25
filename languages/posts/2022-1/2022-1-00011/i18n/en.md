@@ -1,32 +1,32 @@
-[ 111-1 專案 / 讀書會 ]
+[111-1 Projects/Study Groups]
 
-⚠️ 你一定會有興趣，不要滑掉！ ⚠️
+⚠️You'll definitely be interested, don't scroll away!  ⚠️
 
-苦惱履歷空空的？想要合作專案但找不到人？想要開個讀書會但找不到人？
+Worried about having an empty resume?Looking for people to collaborate on a project?Want to start a study group but can't find members?
 
-快加入AI創智社的【專案/讀書會】吧！這裡有一群跟你一樣想豐富自己履歷、提升自己經歷的夥伴們！
-
-----
-
-🚀 專案開發
-
-我們社團有兩個正在進行中的專案，一個是TKUGERS淡江大學通識課程推薦系統，另一個是太極拳評分系統。文字敘述及使用的技術都在圖裡，這裡就列幾個做專案的好處：
-
-\1. 留名—我們做的專案跟學校共7個系所的老師合作，未來做出來會推上線供全校師生使用。想必在全校師生都能使用的平臺上留下自己的名字是一件很風光的事蹟吧！
-
-\2. 鑑別度—做專案就是讓你與同學不同的地方，提高碩士推甄及職場面試競爭力！
-
-\3. 團隊合作—在學校做專題多半是一個人或是同班三五好友，這裡你能結識各系各年級的夥伴，跟著不同領域的人團隊合作創造無限可能！
-
-\4. …還有太多可以講了，想知道更多來問社長 (*≧ω≦)
-
-📖 讀書會
-
-我們社團提供的不是技術的支援，更是鼓勵大家都能在這裡找到志同道合的人並一展長才。所以除了專案，我們也鼓勵各位揪社團幹部或社員籌組讀書會或是興趣小組（interest group）。更重要的是，不管是什麼領域，從程式技術、圖文設計到泡咖啡、做餅乾都可以唷！
+Join the Artificial Innovative Intelligence Club's [Project/Study Group]! Here, you'll find a group of partners who, like you, want to enrich their resumes and enhance their experiences!
 
 ----
 
-還在等什麼？報名表單趕快給它用力填下去！
+🚀 Project Development:
+
+Our club is currently working on two ongoing projects: TKUGERS, a course recommendation system for Tamkang University's General Education Program, and a Tai Chi scoring system.The technologies and project descriptions are illustrated in the image. Here are a few benefits of participating in a project:
+
+\1. Recognition: Our projects involve collaboration with professors from seven departments at the university. Once completed, they will be deployed online for the entire student body to use.Having your name associated with a platform that can be used by all students and faculty is quite an impressive accomplishment!
+
+\2. Distinctiveness: Working on a project sets you apart from your peers and enhances your competitiveness for master's program applications and job interviews!
+
+\3. Teamwork: Most projects in school are done alone or with a few classmates. Here, you'll have the opportunity to collaborate with partners from different departments and years, opening up endless possibilities!
+
+\4. ...and there's so much more to talk about! If you want to know more, ask the club president (*≧ω≦)
+
+📖 Study Groups:
+
+Our club aims to provide not only technical support but also a platform for like-minded individuals to showcase their talents.Therefore, in addition to projects, we also encourage members to form study groups or interest groups.Most importantly, regardless of the field, whether it's programming, graphic design, brewing coffee, or baking cookies, you can find your place here!
+
+----
+
+What are you waiting for?Fill out the registration form with enthusiasm!
 
 &nbsp;
 

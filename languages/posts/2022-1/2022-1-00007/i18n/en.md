@@ -1,28 +1,28 @@
 **[ How to get Participation Certificates ]**
 
-🔥 熱騰騰的參與認證取得途徑出爐囉！ 🔥
+🔥 Exciting ways to obtain participation certification are here!  🔥
 
 &nbsp;
 
-🔎 參與
+🔎 Participation
 
-完成以下任一條件即取得一次參與認證：
+Complete any of the following conditions to obtain one participation certification:
 
-1. 參加新生說明會暨迎新
+1. Attend the Freshmen Orientation and Welcome Event
 
 2. 2 General Meetings
 
-3. 期中考前講座三選一
+3. Choose one from three pre-midterm exam lectures.
 
-4. 期中考後講座四選一
+4. Choose one from four post-midterm exam lectures.
 
 &nbsp;
 
-這麼多拿參與認證的機會，是不是很心動？
+With so many opportunities to obtain participation certification, aren't you tempted?
 
-趕緊手刀加入我們AI創智社的大家庭吧！
+Hurry and join our Artificial Innovative Intelligence Club family!
 
-AI創智社在此誠摯歡迎您的加入 👋
+The Artificial Innovative Intelligence Club sincerely welcomes your membership 👋
 
 &nbsp;
 
