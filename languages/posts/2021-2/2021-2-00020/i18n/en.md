@@ -20,7 +20,7 @@ TSAI believes that there is a lack of relevant content in domestic education, an
 
 &nbsp;
 
-Activity flow:
+Sessions:
 
 \- 09:40－10:00 Sign-in
 
@@ -38,7 +38,7 @@ Time:
 
 &nbsp;
 
-Teaching methods:：
+Location:
 
 Online Course on Microsoft Teams
 

@@ -30,7 +30,7 @@ Time:
 
 &nbsp;
 
-Teaching methods:：
+Location:
 
 Online Course on Microsoft Teams
 
@@ -42,7 +42,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-Activity flow:
+Sessions:
 
 \- 13:00 Sign-in begins
 

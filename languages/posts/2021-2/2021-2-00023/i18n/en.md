@@ -30,7 +30,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-Activity flow:
+Sessions:
 
 \- 18:00 Sign-in begins
 

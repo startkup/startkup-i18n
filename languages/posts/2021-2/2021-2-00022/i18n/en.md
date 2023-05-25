@@ -1,12 +1,12 @@
 **[ May 31, 2022 | Blockchain Lecture ]**
 
-Lecture Title: Trends and Overview of Blockchain Applications in Enterprises: Is Full Decentralization Necessary?The Blockchain for Enterprises Differs from Your Imagination!
+Blockchain Lecture: Trends and Overview of Blockchain Applications in Enterprises: Is Full Decentralization Necessary?The blockchain for enterprises differs from your imagination!
 
 &nbsp;
 
 The Rise of Cryptocurrencies, Driven by Bitcoin, Has Highlighted the Utility of Blockchain Technology in Recent Years.With the Advancement of FinTech, Many Financial Industries are Embracing Transformation and Adopting Blockchain Technology.
 
-We are pleased to have Jason as our guest speaker for this event. With a strong engineering background and a wide range of experiences in various fields related to blockchain industry applications, Jason has previously served as the president of the National Cheng Kung University Blockchain Research Society for two terms. Currently, he holds a key position as the project lead responsible for enterprise-level blockchain development in the Taiwan Blockchain University Alliance.
+We are pleased to have Jason as our guest speaker for this event. With a strong engineering background and a wide range of experiences in various fields related to blockchain industry applications, Jason has previously served as the President of the National Cheng Kung University Blockchain Research Club for two terms. Currently, he holds a key position as the Project Lead responsible for enterprise-level blockchain development in the Taiwan Blockchain Academia.
 
 This speaker is fantastic! Why haven't you joined us yet?
 
@@ -18,7 +18,7 @@ Time:
 
 &nbsp;
 
-Teaching methods:：
+Location:
 
 Online Course on Microsoft Teams
 
@@ -30,7 +30,7 @@ Leave a message with the format "Department/Year, Student ID no., Name" in Micro
 
 &nbsp;
 
-Activity flow:
+Sessions:
 
 \- 17:50 Sign-in begins
 
