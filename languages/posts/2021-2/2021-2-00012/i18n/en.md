@@ -1,4 +1,4 @@
-**[ 2023-05-03 | UI/UX Lecture ]**
+**[ May 3, 2022 | UI/UX Lecture ]**
 
 UX × KEN studio
 
