@@ -1,23 +1,23 @@
-**[ 第一屆AIIC幹部介紹 - 儲備 ]**
+**[ AIIC Cadre Introduction - 1st Term | Management Associates ]**
 
-🎒 reserve
-
-&nbsp;
-
-｜儲備 Shin Chih-hsin YOU (游志信)｜(left)
-
-Hi, I'm Shin Chih-hsin YOU, a sophomore majoring in Computer Science. You can also call me Shin. My expertise lies in web development, both front-end and back-end. In my free time, I enjoy going for bike rides, playing games, and engaging in coding activities.
+🎒 Management Associates
 
 &nbsp;
 
-｜儲備 陳慧瑜｜（右）
+｜Management Associate Shin Chih-shin YOU (游志信)｜(left)
+
+Hi, I'm YOU Chih-shin (游志信), a sophomore majoring in Computer Science and Information Engineering. You can also call me Shin. My expertise lies in web development, both frontend and backend. In my free time, I enjoy going for bike rides, playing games, and engaging in coding activities.
+
+&nbsp;
+
+｜Management Associate CHEN Hui-yu (陳慧瑜)｜(right)
 
 Hello, everyone!
 
-我是財金系大二的陳慧瑜
+I'm CHEN Hui-yu (陳慧瑜), currently studying as sophomore in the Department of Banking and Finance.
 
-Holding a reserve position within the club.
+I'm one of the Management Associates in the club.
 
 My favorite subject is physical education.
 
-If you want to play table tennis or any other ball game, you can find me XD
+If you want to play table tennis or any other ball games, you can find me. XD

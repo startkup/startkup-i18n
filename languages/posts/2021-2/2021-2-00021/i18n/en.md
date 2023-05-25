@@ -32,7 +32,7 @@ Time:
 
 Teaching methods:：
 
-Microsoft Teams  Distance Learning
+Online Course on Microsoft Teams
 
 &nbsp;
 
@@ -66,7 +66,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1wFFoaWMeHo3NO5LkrPw0M09uE_Z6I3WCi3mXoTmmYC0/viewform
 
-To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
+For the convenience of statistical purposes, please kindly fill out the form to indicate your attendance for this club course.
 
 &nbsp;
 

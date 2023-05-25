@@ -68,7 +68,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1j8za52CcKuMI9cbV3RJFzs2iXt4Bok5hfCMksJ51Ts0/viewform
 
-To facilitate the collection of participant data for this club course, we kindly ask everyone to fill out the form for us. Thank you for your cooperation.
+For the convenience of statistical purposes, please kindly fill out the form to indicate your attendance for this club course.
 
 &nbsp;
 
