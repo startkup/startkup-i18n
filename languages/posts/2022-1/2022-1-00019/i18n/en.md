@@ -1,0 +1,25 @@
+[ 課程回顧 | 雲端系列課程第2堂 ]
+
+感謝各位社員參與我們雲端系列課的第二堂，這次是由Max老師主講，Max老師講了GCP平台的基本介紹、要如何跨出雲端平台使用的第一步、常見的GCP服務及資源介紹、GCP平台工具的介紹，最後Max老師也分享了在雲端平台的使用經驗。
+
+Max老師除了專業的講解以上課程外，也很貼心的提供本次課程所使用的Google簡報，簡報上附有每個服務工具的網站連結，來讓大家直接使用。
+
+課程總結：
+
+本次的雲端系列課程第2堂由Max老師以簡單輕鬆的方式講解可使用的GCP服務工具並提及不同類型的差異，讓大家了解基礎之餘，也方便銜接之後的課程。
+
+我們下次2022/11/22見！ ✨✨
+
+&nbsp;
+
+Contact us:
+
+Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
+
+Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
+
+Line Official Account: @tkuaiic <br />https://line.me/R/ti/p/@tkuaiic
+
+LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
+
+Gmail: <br />tkuaiic@gmail.com
