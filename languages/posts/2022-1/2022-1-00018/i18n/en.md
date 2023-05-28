@@ -1,60 +1,60 @@
-[ 111-1 Google Cloud 101 雲端基礎系列課 ]
+[111-1 Google Cloud 101 Cloud Basics Series Course]
 
-🔥 專為0基礎設計的雲端課程，超強講師、超扎實上機實作、超值贈送30天訂閱（市值$29美元），名額有限報名要快！ 🔥
+🔥 Designed for beginners with zero background in cloud computing, this cloud course features outstanding instructors, hands-on practical exercises, and a valuable 30-day subscription (worth $29 USD). Limited spots available, so sign up quickly! 🔥
 
 --------------------------
 
-📎 Google Cloud 101 雲端基礎系列課
+📎 Google Cloud 101 Cloud Basics Series Course
 
-根據iThome調查，超過六成的企業都認為服務上雲端對數位轉型有幫助。
+According to iThome's survey, over 60% of businesses believe that cloud services are helpful for digital transformation.
 
-實際上，我們生活周遭無處不用到雲端，舉凡行動應用程式、即時通訊聊天、傳送電子郵件都是使用雲端作為基礎架構。
-
-&nbsp;
-
-那該學哪個雲端呢？
+In reality, cloud computing is omnipresent in our daily lives, encompassing mobile applications, instant messaging, and email communication, all relying on cloud infrastructure.
 
 &nbsp;
 
-全球三大公有雲分別為Google的Google Cloud Platform（GCP）、Amazon的Amazon Web Services（AWS）和Microsoft的Azure，本校與台灣微軟為戰略夥伴亦有開設Azure課程、資管系長期開設AWS證照課程，而本社身為Google開發者學生社群，也將引進Google雲端的教學。
-
-本系列課程目的為透過Google雲端培養學生雲端基礎知識及原理，以實際的案例題搭配上機實作打造扎實的系列課程。
+But which cloud platform should you learn?
 
 &nbsp;
 
-本課提供學生：
+The three major public cloud platforms globally are Google Cloud Platform (GCP), Amazon Web Services (AWS) by Amazon, and Azure by Microsoft. Our school, as a strategic partner of Microsoft Taiwan, offers Azure courses, and the Department of Information Management provides long-term AWS certification courses. As a Google Developer Student Club, our society also offers education on Google Cloud.
 
-\1. 以企業情境題實際操作Google雲端平台介面。
+The aim of this course series is to cultivate students' foundational knowledge and principles of cloud computing through Google Cloud, combining practical case studies and hands-on exercises to create a solid learning experience.
 
-\2. Google Cloud Associate證照前半段教學。
+&nbsp;
 
-\3. 獲得30天免費的Google Cloud Skills Boost訂閱。
+This course offers students:
 
-\4. 透過官方完整的課程與互動式練習，學習並實作關於GCP的技術內容。
+\1. Hands-on operation of the Google Cloud platform interface through real-world enterprise scenarios.
+
+\2. Instruction for the first half of the Google Cloud Associate certification.
+
+\3. Access to a free 30-day subscription of Google Cloud Skills Boost.
+
+\4. Learning and practical implementation of technical content related to GCP through official comprehensive courses and interactive exercises.
 
 &nbsp;
 
 ⛄️ Event Target Audience:
 
-本系列課開放給所有人參與！
+This course series is open to everyone!
 
 &nbsp;
 
 ⏰ Time:
 
-\- 10/25 (二) 18:30－20:00 \- 11/15 (二) 18:30－20:00 \- 11/22 (二) 18:30－20:00 \- 11/29 (二) 18:30－20:00 \- 12/06 (二) 18:30－20:00
+\- 10/25 (Tue) 18:30－20:00 \- 11/15 (Tue) 18:30－20:00 \- 11/22 (Tue) 18:30－20:00 \- 11/29 (Tue) 18:30－20:00 \- 12/06 (Tue) 18:30－20:00
 
 &nbsp;
 
 📍 Location:
 
-AI創智學院 實境場域
+AI Creativity Institute, Virtual Reality Field
 
 &nbsp;
 
 ✈️ Event Schedule:
 
-\- 18:20 開放簽到 \- 18:30 準時開始 \- 18:30－19:50 授課 \- 19:50－20:00 Q&A、回饋表單、拍大合照
+\- 18:20 Registration opens \- 18:30 Prompt start \- 18:30－19:50 Lecture \- 19:50－20:00 Q&A, feedback form, group photo
 
 &nbsp;
 
@@ -66,9 +66,9 @@ Please sign in at the entrance of the classroom.
 
 ✍️ How to sign-up?
 
-\1. 透過官方GDSC平臺
+\1. Through the official GDSC platform
 
-\2. 淡江學生需額外填寫Google表單
+\2. Tamkang students need to fill out an additional Google form
 
 &nbsp;
 

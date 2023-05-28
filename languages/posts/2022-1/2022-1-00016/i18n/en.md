@@ -1,16 +1,16 @@
-[ 111-1 參與認證活動日誌延後填寫公告 ]
+[111-1 Participation Certificate Activity Journal Delayed Submission Announcements]
 
-⚠️很重要！很重要！很重要！⚠️
+⚠️Very important!Very important!Very important!⚠️
 
-因為一些行政流程上的疏失，我們沒有將10/25的活動登錄至學校的社團學習與實作課程系統，也就是說社員們不會在系統上看到該天的活動，也沒有辦法填寫活動日誌。
+Due to some administrative oversight, we failed to register the activity on 10/25 in the school's Club Learning and Practice Course System. This means that members will not see the activity listed on the system, and they won't be able to submit their activity journals.
 
-不過不用擔心！我們已做好補救措施。 🙇🏻‍♂️
+But don't worry!We have prepared a solution. 🙇🏻‍♂️ 🙇🏻‍♂️
 
 &nbsp;
 
-請各位有需要填寫第二次參與認證的活動日誌（也就是有參加10/11、10/18、10/25任一堂社課）的同學，在2022/10/28 (六) 後至社團實作系統上填在【10/28 淡江AI創智社關渡光藝術節社遊】活動上。
+For those who need to fill out the activity journal for their second participation certification (meaning you attended any of the sessions on 10/11, 10/18, or 10/25), please submit it under the "10/28 Tamkang AI Creativity Club Guandu Light Art Festival Outing" activity in the club's practice system starting from 2022/10/28 (Saturday).
 
-內容的部分可以填寫你參加過的講座即可，不須是社遊的內容跟心得。
+As for the content, you can fill in the lectures you attended. It doesn't have to be related to the outing or include your reflections on it.
 
 &nbsp;
 

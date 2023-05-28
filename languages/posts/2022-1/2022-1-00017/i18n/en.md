@@ -1,24 +1,24 @@
-[ 課程回顧 | 2022-10-25 | Google Cloud 101 雲端基礎系列課：Intro ]
+[Course Review | 2022-10-25 | Google Cloud 101: Cloud Basics Series - Intro]
 
-感謝各位社員參與我們雲端系列課的第一堂，由社長Johnny介紹大家什麼是雲端、為什麼要用雲端、什麼是Google Cloud以及什麼是CloudSkillBoost。
+Thank you to all the club members for participating in our first session of the Cloud Series course. President Johnny introduced what cloud computing is, why we use the cloud, what Google Cloud is, and what CloudSkillBoost is.
 
-CloudSkillBoost是我們這次所使用的教學平臺，也是Google官方在教雲端所使用的平臺哦！沒錯，我們所使用的都是Google官方的教材！
+CloudSkillBoost is the educational platform we are using for this course, and it's also the platform officially used by Google for teaching cloud technologies!That's right, we are using official Google materials!
 
-這次本社很榮幸能跟Google申請到一個月的免費通行證，讓各位能盡情的在CloudSkillBoost平臺暢遊，學生不僅可以練習上課的內容，也可以自行探索平臺各式各樣的情境題。
+We are honored to have obtained a one-month free pass from Google for CloudSkillBoost, allowing all of you to fully explore the platform and engage in various scenario-based exercises. Students can not only practice the course content but also independently explore different situations on the platform.
 
-也正是因為我們有了這個平臺，所以可以提供給學生最紮實的hands-on工作坊！
-
-&nbsp;
-
-課程總結：
-
-本雲端基礎系列課的第一堂就是做基本介紹並讓大家知道熟悉CloudSkillBoost的操作界面並在完成一個情境實驗課後取得一個月通行證。
+Because of this platform, we can provide students with the most practical hands-on workshops!
 
 &nbsp;
 
-這堂課屬於前期作業，期中考後就會由雲端方面的Google開發者專家（Google Developer Expert，GDE）的Max (aka Sakana) 來帶各位為期四週四堂的工作坊。
+Course Summary:
 
-🔥 這麼好的師資，你還不來嗎？！我們2022/11/15見！ 🔥
+The first session of this Cloud Basics Series course focused on introducing the basics and familiarizing everyone with the CloudSkillBoost interface. After completing a scenario-based lab, students received a one-month pass.
+
+&nbsp;
+
+This session served as an initial assignment, and after the midterm, we will have Max (aka Sakana), a Google Developer Expert (GDE) in cloud technologies, leading a four-week workshop consisting of four sessions.
+
+🔥 With such excellent instructors, why haven't you joined yet?!！See you on 2022/11/15! 🔥
 
 &nbsp;
 

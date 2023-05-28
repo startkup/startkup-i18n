@@ -1,14 +1,14 @@
-[ 課程回顧 | 111-1 雲端系列課程第2堂 ]
+[Course Review | 111-1 Cloud Series Course Session 2]
 
-感謝各位社員參與我們雲端系列課的第二堂，這次是由Max老師主講，Max老師講了GCP平台的基本介紹、要如何跨出雲端平台使用的第一步、常見的GCP服務及資源介紹、GCP平台工具的介紹，最後Max老師也分享了在雲端平台的使用經驗。
+Thank you to all the club members who participated in our second session of the Cloud Series course. This time, it was taught by Teacher Max. Teacher Max provided a basic introduction to the GCP platform, discussed how to take the first step in using cloud platforms, introduced common GCP services and resources, and provided an overview of GCP platform tools. Finally, Teacher Max shared their own experience using cloud platforms.
 
-Max老師除了專業的講解以上課程外，也很貼心的提供本次課程所使用的Google簡報，簡報上附有每個服務工具的網站連結，來讓大家直接使用。
+In addition to the informative lectures, Teacher Max also kindly provided the Google slides used in this session. The slides include links to the websites of each service tool, allowing everyone to use them directly.
 
-課程總結：
+Course Summary:
 
-本次的雲端系列課程第2堂由Max老師以簡單輕鬆的方式講解可使用的GCP服務工具並提及不同類型的差異，讓大家了解基礎之餘，也方便銜接之後的課程。
+In the second session of the Cloud Series course, Teacher Max explained the available GCP service tools in a simple and relaxed manner, highlighting the differences between different types of tools. This helped everyone to understand the fundamentals and facilitated the connection to future courses.
 
-我們下次2022/11/22見！ ✨✨
+We'll see you next time on 2022/11/22! ✨✨
 
 &nbsp;
 

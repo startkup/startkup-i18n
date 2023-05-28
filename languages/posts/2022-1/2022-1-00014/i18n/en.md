@@ -1,22 +1,22 @@
-[ 111-1 Google Cloud 101 雲端基礎系列課：Intro ]
+[111-1 Google Cloud 101 Cloud Basics Series: Intro]
 
-明天就要開始我們的 Google Cloud 培訓計畫了！
+Our Google Cloud training program is starting tomorrow!
 
-也是期中考前最後一堂週二社課！
+It's also the last Tuesday club class before the midterm exams!
 
-（期中考前3選1拿參與認證的最後機會 🔥）
+(Last chance to choose 1 out of 3 for participation certification before the midterm exams 🔥)
 
 --------------------------
 
-📎 Google Cloud 101 雲端基礎系列課：Intro
+📎 Google Cloud 101 Cloud Basics Series: Intro
 
-想要踏入雲端的世界卻因為沒有人帶而卻步嗎？那這堂課正是你不能錯過的！
+Are you hesitating to step into the world of cloud computing because you don't have anyone to guide you?Then this class is exactly what you can't miss!
 
-本系列課將由淺入深的帶你了解雲端的技術及概念，藉由世界三大公有雲之一的Google雲端平台實際操作情境題，讓你學到最扎實的實作經驗。
+This series of courses will take you from the basics to deeper understanding of cloud technologies and concepts. Through practical scenarios on Google Cloud Platform, one of the world's top three public clouds, you will gain solid hands-on experience.
 
-為推廣雲端技術，本系列課程為基礎程度，適合各個系所及年級一同體驗，無需程式基礎或雲端基礎哦！
+To promote cloud technology, this series of courses is at a foundational level and suitable for students from various departments and grades to experience together. No programming or cloud knowledge is required!
 
-加碼優惠，凡事修習本系列課程的人將獲得Qwiklabs一個月的免費訂閱，可無上限的盡情練習Google雲端平台技術，提升自己就業競爭力！
+As an added bonus, those who complete this series of courses will receive a one-month free subscription to Qwiklabs, where you can practice Google Cloud Platform technologies without any limitations, enhancing your employability!
 
 &nbsp;
 
@@ -28,27 +28,27 @@ Club members of Artificial Innovative Intelligence Club
 
 ⏰ Time:
 
-\- 10/25 (二) 18:20－19:50
+\- 10/25 (Tuesday)  18:20－19:50
 
-\- 11/15 (二) 18:20－19:50
+\- 11/15 (Tuesday) 18:20－19:50
 
-\- 11/22 (二) 18:20－19:50
+\- 11/22 (Tuesday) 18:20－19:50
 
-\- 11/29 (二) 18:20－19:50
+\- 11/29 (Tuesday) 18:20－19:50
 
-\- 12/06 (二) 18:20－19:50
+\- 12/06 (Tuesday) 18:20－19:50
 
 &nbsp;
 
-📍授課地點：
+📍Location:
 
-AI創智學院 實境場域
+AI Creativity Institute, Virtual Reality Field
 
 &nbsp;
 
 ✈️ Event Schedule:
 
-\- 18:30 開放簽到 \- 18:40 準時開始 \- 18:40－19:40 授課 \- 19:40－19:50 回饋表單、拍大合照
+\- 18:30 Sign-in opens \- 18:40 Prompt start \- 18:40－19:40 Lecture \- 19:40－19:50 Feedback form, group photo
 
 &nbsp;
 
