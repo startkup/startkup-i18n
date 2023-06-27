@@ -10,5 +10,6 @@ following names for their contribution to the project.
 
 ## Translators
 <!-- BEGIN TRANSLATOR LIST -->
+* nynniejin (Nynnie Jin)
 * Winston_Sung
 <!-- END TRANSLATOR LIST -->
