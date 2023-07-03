@@ -24,13 +24,13 @@ The aim of this course series is to cultivate students' foundational knowledge a
 
 This course offers students:
 
-\1. Hands-on operation of the Google Cloud platform interface through real-world enterprise scenarios.
+1\. 以企業情境題實際操作Google雲端平台介面。
 
-\2. Instruction for the first half of the Google Cloud Associate certification.
+2\. Google Cloud Associate證照前半段教學。
 
-\3. Access to a free 30-day subscription of Google Cloud Skills Boost.
+3\. 獲得30天免費的Google Cloud Skills Boost訂閱。
 
-\4. Learning and practical implementation of technical content related to GCP through official comprehensive courses and interactive exercises.
+4\. 透過官方完整的課程與互動式練習，學習並實作關於GCP的技術內容。
 
 &nbsp;
 
@@ -42,7 +42,15 @@ This course series is open to everyone!
 
 ⏰ Time:
 
-\- 10/25 (Tue) 18:30－20:00 \- 11/15 (Tue) 18:30－20:00 \- 11/22 (Tue) 18:30－20:00 \- 11/29 (Tue) 18:30－20:00 \- 12/06 (Tue) 18:30－20:00
+\- 10/25 (二) 18:30－20:00
+
+\- 11/15 (二) 18:30－20:00
+
+\- 11/22 (二) 18:30－20:00
+
+\- 11/29 (二) 18:30－20:00
+
+\- 12/06 (二) 18:30－20:00
 
 &nbsp;
 
