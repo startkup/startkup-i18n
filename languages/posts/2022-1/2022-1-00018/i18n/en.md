@@ -24,13 +24,13 @@ The aim of this course series is to cultivate students' foundational knowledge a
 
 This course offers students:
 
-1\. 以企業情境題實際操作Google雲端平台介面。
+1\. Hands-on operation of the Google Cloud platform interface through real-world enterprise scenarios.
 
-2\. Google Cloud Associate證照前半段教學。
+2\. Instruction for the first half of the Google Cloud Associate certification.
 
-3\. 獲得30天免費的Google Cloud Skills Boost訂閱。
+3\. Access to a free 30-day subscription of Google Cloud Skills Boost.
 
-4\. 透過官方完整的課程與互動式練習，學習並實作關於GCP的技術內容。
+4\. Learning and practical implementation of technical content related to GCP through official comprehensive courses and interactive exercises.
 
 &nbsp;
 
@@ -42,15 +42,15 @@ This course series is open to everyone!
 
 ⏰ Time:
 
-\- 10/25 (二) 18:30－20:00
+\- 18:30－20:00, Tuesday, October 25, 2022
 
-\- 11/15 (二) 18:30－20:00
+\- 18:30－20:00, Tuesday, November 15, 2022
 
-\- 11/22 (二) 18:30－20:00
+\- 18:30－20:00, Tuesday, November 22, 2022
 
-\- 11/29 (二) 18:30－20:00
+\- 18:30－20:00, Tuesday, November 29, 2022
 
-\- 12/06 (二) 18:30－20:00
+\- 18:30－20:00, Tuesday, December 6, 2022
 
 &nbsp;
 
@@ -62,13 +62,13 @@ AI Creativity Institute, Virtual Reality Field
 
 ✈️ Event Schedule:
 
-\- 18:20 開放簽到
+\- 18:20 Sign-in begins
 
-\- 18:30 準時開始
+\- 18:30 Start of the event
 
-\- 18:30－19:50 授課
+\- 18:30－19:50 Lecture
 
-\- 19:50－20:00 Q&A、回饋表單、拍大合照
+\- 19:50－20:00 Q&A, feedback form, group photo
 
 &nbsp;
 
@@ -80,9 +80,9 @@ Please sign in at the entrance of the classroom.
 
 ✍️ How to sign-up?
 
-1\. 透過官方GDSC平臺
+1\. By official GDSC platform
 
-2\. 淡江學生需額外填寫Google表單
+2. Tamkang University students need to fill out an additional Google Form
 
 &nbsp;
 
