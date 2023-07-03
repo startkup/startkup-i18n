@@ -62,7 +62,13 @@ AI Creativity Institute, Virtual Reality Field
 
 ✈️ Event Schedule:
 
-\- 18:20 Registration opens \- 18:30 Prompt start \- 18:30－19:50 Lecture \- 19:50－20:00 Q&A, feedback form, group photo
+\- 18:20 開放簽到
+
+\- 18:30 準時開始
+
+\- 18:30－19:50 授課
+
+\- 19:50－20:00 Q&A、回饋表單、拍大合照
 
 &nbsp;
 
@@ -74,9 +80,9 @@ Please sign in at the entrance of the classroom.
 
 ✍️ How to sign-up?
 
-\1. Through the official GDSC platform
+1\. 透過官方GDSC平臺
 
-\2. Tamkang students need to fill out an additional Google form
+2\. 淡江學生需額外填寫Google表單
 
 &nbsp;
 
