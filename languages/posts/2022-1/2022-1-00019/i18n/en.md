@@ -8,9 +8,9 @@ In addition to the informative lectures, Teacher Max also kindly provided the Go
 
 Course Summary:
 
-本次的雲端系列課程第2堂由Max老師以簡單輕鬆的方式講解可使用的GCP服務工具並提及不同類型的差異，讓大家了解基礎之餘，也方便銜接之後的課程。
+In the second session of the Cloud Series course, Teacher Max explained the available GCP service tools in a simple and relaxed manner, highlighting the differences between different types of tools. This helped everyone to understand the fundamentals and facilitated the connection to future courses.
 
-我們下次2022/11/22見！ ✨✨
+See you next time on November 22, 2022! ✨✨
 
 &nbsp;
 
