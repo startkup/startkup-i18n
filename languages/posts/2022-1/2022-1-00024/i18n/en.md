@@ -1,0 +1,79 @@
+# [ 2022-12-04 | 光雕設計工作坊 ]
+
+🌃 12/04 讓光從天而降 ✨
+
+光雕設計工作坊 Projection Mapping Workshop
+
+&nbsp;
+
+12/04我們邀請了光滿樓為我們介紹光雕投影的技術，也是為了我們未來的成果展做籌備！
+
+🤔 那麼，光滿樓是什麼呢？
+
+&nbsp;
+
+「光滿樓」專門提供光雕投影及其延伸的視覺設計，從企畫到內容設計再到現場施工的完整服務。應用範圍包括互動投影、建築投影、派對視覺、展場視覺等。
+
+我們邀請到的講師是光滿樓的共同創辦人——黃啟嘉，目前也是彰師大的資管系數位影音特效兼任講師，並將魔術與科技藝術結合，開創全新互動藝術科技整合的研究領域！
+
+光滿樓也有豐富的光雕投影經歷，從公部門到企業品牌都有他們的影子，甚至榮獲2021奧迪創新獎Audi Innovation Award，至今也持續為世界各地創作嶄新的光雕投影作品。
+
+在政府、企業界擁有豐富經歷的光滿樓，12/04將為我們帶來投影案例分析及產業講解、光雕實作、小組創作成果，所以不僅僅只是聽講師講解，還有時間創造你的第一個小光雕專案！
+
+&nbsp;
+
+How to Sign-Up:
+
+透過官方GDSC平臺
+
+<https://gdsc.community.dev/tamkang-university>
+
+&nbsp;
+
+活動地點：
+
+暫定宮燈教室H105
+
+&nbsp;
+
+Time:
+
+12/04 10:00-18:00
+
+&nbsp;
+
+Sessions:
+
+\- 09:40-10:00 報到
+
+\- 10:00-12:00 投影案例分析及產業講解
+
+\- 12:00-13:00 午餐時間 (不供應午餐)
+
+\- 13:00-16:00 光雕實作
+
+\- 16:00-18:00 小組創作成果
+
+&nbsp;
+
+有關光滿樓的更多資訊，請搜尋「光滿樓 Lightfull Studio」
+
+&nbsp;
+
+Contact us:
+
+Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
+
+Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
+
+Line官方帳號：@tkuaiic
+
+LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
+
+Gmail： <tkuaiic@gmail.com>
+
+&nbsp;
+
+\#projectionmapping
+
+\#lightfullstudio
