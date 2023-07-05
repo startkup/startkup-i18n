@@ -50,6 +50,14 @@ AI創智學院實境場域
 
 報名方式請用Google表單！
 
+----
+
+更正：
+
+請至GDSC平臺完成報名：
+
+<https://gdsc.community.dev/e/m87d52/>
+
 &nbsp;
 
 淡江AI創智社聯絡方式：
