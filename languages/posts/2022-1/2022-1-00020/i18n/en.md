@@ -1,4 +1,4 @@
-[ 111-1 ML Study Jam 機器學習系列課程 ]
+# [ 111-1 ML Study Jam 機器學習系列課程 ]
 
 🔥 不知道深度學習該如何學起？
 
@@ -60,7 +60,7 @@ Jerry老師在資料分析從業經驗超過10年，發表過超過10篇技術�
 
 🖊️ How to sign-in?
 
-至教室門口簽到
+於教室門口簽到
 
 &nbsp;
 
@@ -78,8 +78,8 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line Official Account: @tkuaiic <br />https://line.me/R/ti/p/@tkuaiic
+Line官方帳號：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
-Gmail: <br />tkuaiic@gmail.com
+Gmail： <tkuaiic@gmail.com>
