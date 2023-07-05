@@ -12,13 +12,13 @@ Join the Artificial Innovative Intelligence Club's [Project/Study Group]! Here, 
 
 Our club is currently working on two ongoing projects: TKUGERS, a course recommendation system for Tamkang University's General Education Program, and a Tai Chi scoring system.The technologies and project descriptions are illustrated in the image. Here are a few benefits of participating in a project:
 
-1\. 留名—我們做的專案跟學校共7個系所的老師合作，未來做出來會推上線供全校師生使用。Having your name associated with a platform that can be used by all students and faculty is quite an impressive accomplishment!
+1\. Recognition: Our projects involve collaboration with professors from seven departments at the university. Once completed, they will be deployed online for the entire student body to use.Having your name associated with a platform that can be used by all students and faculty is quite an impressive accomplishment!
 
-2\. 鑑別度—做專案就是讓你與同學不同的地方，提高碩士推甄及職場面試競爭力！
+2\. Distinctiveness: Working on a project sets you apart from your peers and enhances your competitiveness for master's program applications and job interviews!
 
-3\. 團隊合作—在學校做專題多半是一個人或是同班三五好友，這裡你能結識各系各年級的夥伴，跟著不同領域的人團隊合作創造無限可能！
+3\. Teamwork: Most projects in school are done alone or with a few classmates. Here, you'll have the opportunity to collaborate with partners from different departments and years, opening up endless possibilities!
 
-4\. …還有太多可以講了，想知道更多來問社長 (*≧ω≦)
+4\. ...and there's so much more to talk about! If you want to know more, ask the club president (*≧ω≦)
 
 📖 Study Groups:
 
