@@ -50,6 +50,14 @@ Fill the Google Form
 
 報名方式請用Google表單！
 
+----
+
+更正：
+
+請至GDSC平臺完成報名：
+
+<https://gdsc.community.dev/e/m87d52/>
+
 &nbsp;
 
 Contact us:
