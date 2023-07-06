@@ -6,7 +6,7 @@ It's also the last Tuesday club class before the midterm exams!
 
 (Last chance to choose 1 out of 3 for participation certification before the midterm exams 🔥)
 
---------------------------
+\----
 
 📎 Google Cloud 101 Cloud Basics Series: Intro
 

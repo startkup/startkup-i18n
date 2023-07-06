@@ -38,8 +38,4 @@ Gmail： <tkuaiic@gmail.com>
 
 &nbsp;
 
-\#googlecloud
-
-\#cloud
-
-\#cloudskillsboost
+\#googlecloud #cloud #cloudskillsboost

@@ -1,12 +1,10 @@
 [111-1 Projects/Study Groups]
 
-⚠️You'll definitely be interested, don't scroll away!  ⚠️
-
 Worried about having an empty resume?Looking for people to collaborate on a project?Want to start a study group but can't find members?
 
 Join the Artificial Innovative Intelligence Club's [Project/Study Group]! Here, you'll find a group of partners who, like you, want to enrich their resumes and enhance their experiences!
 
-----
+\----
 
 🚀 Project Development:
 
@@ -24,9 +22,9 @@ Our club is currently working on two ongoing projects: TKUGERS, a course recomme
 
 Our club aims to provide not only technical support but also a platform for like-minded individuals to showcase their talents.Therefore, in addition to projects, we also encourage members to form study groups or interest groups.Most importantly, regardless of the field, whether it's programming, graphic design, brewing coffee, or baking cookies, you can find your place here!
 
-----
+\----
 
-What are you waiting for?Fill out the registration form with enthusiasm!
+What are you waiting for?報名表單趕快給它用力填下去！
 
 &nbsp;
 

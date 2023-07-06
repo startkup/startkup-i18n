@@ -2,7 +2,7 @@
 
 🔥 Designed for beginners with zero background in cloud computing, this cloud course features outstanding instructors, hands-on practical exercises, and a valuable 30-day subscription (worth $29 USD). Limited spots available, so sign up quickly! 🔥
 
---------------------------
+\----
 
 📎 Google Cloud 101 Cloud Basics Series Course
 
