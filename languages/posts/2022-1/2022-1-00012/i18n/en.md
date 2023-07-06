@@ -4,11 +4,11 @@
 
 &nbsp;
 
-接下來我們將會舉辦我們首次兩種課程的系列培訓計畫
+Next, we will be holding a series of training programs for our first two types of courses.
 
-（講師說原本一堂2小時太少），
+(The instructor mentioned that the original duration of 2 hours per session was too short),
 
-所以我們的雲端增加了2個禮拜的課程！
+So we have extended the courses on our cloud platform for an additional 2 weeks!
 
 這些課程一堂都是1小時，Google Cloud共5小時，5堂課；ML機器學習共4小時，4堂課。
 
@@ -58,7 +58,7 @@ ML機器學習則是全程由Google機器學習開發專家（GDE）的講師帶
 
 &nbsp;
 
-#End-of-Term Member Assembly
+\#⁠期末社員大會
 
 \- 日期：2022/12/20
 
