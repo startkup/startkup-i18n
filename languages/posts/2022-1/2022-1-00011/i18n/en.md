@@ -1,6 +1,6 @@
 [111-1 Projects/Study Groups]
 
-Worried about having an empty resume?Looking for people to collaborate on a project?Want to start a study group but can't find members?
+Worried about having an empty resume? Looking for people to collaborate on a project? Want to start a study group but can't find members?
 
 Join the Artificial Innovative Intelligence Club's [Project/Study Group]! Here, you'll find a group of partners who, like you, want to enrich their resumes and enhance their experiences!
 
@@ -24,7 +24,7 @@ Our club aims to provide not only technical support but also a platform for like
 
 \----
 
-What are you waiting for?報名表單趕快給它用力填下去！
+What are you waiting for?Fill out the registration form with enthusiasm!
 
 &nbsp;
 
