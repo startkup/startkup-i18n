@@ -20,7 +20,7 @@ As an added bonus, those who complete this series of courses will receive a one-
 
 &nbsp;
 
-⛄️ Target Audience:
+⛄️ Event Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 
@@ -40,7 +40,7 @@ Club members of Artificial Innovative Intelligence Club
 
 &nbsp;
 
-📍Location:
+📍 Location:
 
 AI Creativity Institute, Virtual Reality Field
 
@@ -48,7 +48,13 @@ AI Creativity Institute, Virtual Reality Field
 
 ✈️ Event Schedule:
 
-\- 18:30 Sign-in opens \- 18:40 Prompt start \- 18:40－19:40 Lecture \- 19:40－19:50 Feedback form, group photo
+\- 18:30 開放簽到
+
+\- 18:40 準時開始
+
+\- 18:40－19:40 授課
+
+\- 19:40－19:50 回饋表單、拍大合照
 
 &nbsp;
 
