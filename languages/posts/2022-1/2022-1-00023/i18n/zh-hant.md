@@ -36,18 +36,4 @@ Gmail： <tkuaiic@gmail.com>
 
 &nbsp;
 
-\#ml
-
-\#machinelearning
-
-\#studyjam
-
-\#gdsc
-
-\#gdg
-
-\#gdgtaipei
-
-\#tensorflow
-
-\#tfugtaipei
+\#ml #machinelearning #studyjam #gdsc #gdg #gdgtaipei #tensorflow #tfugtaipei

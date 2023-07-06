@@ -74,6 +74,4 @@ Gmail： <tkuaiic@gmail.com>
 
 &nbsp;
 
-\#projectionmapping
-
-\#lightfullstudio
+\#projectionmapping #lightfullstudio
