@@ -12,7 +12,7 @@ Each session of these courses is 1 hour long. There will be a total of 5 session
 
 And don't forget ✨ the General Assembly for amending the club's bylaws that all members must attend!
 
-----
+\----
 
 The first session on the cloud will commence on 2022/10/25, led by our club president, who has set up Google Cloud servers for everyone's direct use. The final session on 2022/12/06 will be conducted by speakers from Google Developers Group. More detailed information about the speakers will be announced soon. Stay tuned! 😚
 
