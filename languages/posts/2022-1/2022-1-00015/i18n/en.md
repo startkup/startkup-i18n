@@ -18,7 +18,7 @@ we have also created a calendar for all our activities!
 
 The calendar includes the time and location of each session,
 
-and we will also update it with the content of each class in the future.
+未來也會一一將課程內容補上。
 
 &nbsp;
 
@@ -37,6 +37,8 @@ Don't forget to like and bookmark the calendar so you won't miss any updates!
 URL:
 
 <https://calendar.tkuaiic.com>
+
+<https://calendar.google.com/calendar/u/0/embed?src=950f7287189d72f1d9f672060ef0e4f1928e3172eb2c3e8b309f99365d92a395@group.calendar.google.com&ctz=Asia/Taipei>
 
 &nbsp;
 
