@@ -18,7 +18,7 @@ we have also created a calendar for all our activities!
 
 The calendar includes the time and location of each session,
 
-未來也會一一將課程內容補上。
+and we will also update it with the content of each class in the future.
 
 &nbsp;
 
