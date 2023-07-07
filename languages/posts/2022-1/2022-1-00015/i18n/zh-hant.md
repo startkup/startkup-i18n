@@ -18,7 +18,7 @@
 
 裡面包含了課程時間及地點，
 
-未來也會依依將課程內容補上。
+未來也會一一將課程內容補上。
 
 &nbsp;
 
@@ -37,6 +37,8 @@
 網址：
 
 <https://calendar.tkuaiic.com>
+
+<https://calendar.google.com/calendar/u/0/embed?src=950f7287189d72f1d9f672060ef0e4f1928e3172eb2c3e8b309f99365d92a395@group.calendar.google.com&ctz=Asia/Taipei>
 
 &nbsp;
 
