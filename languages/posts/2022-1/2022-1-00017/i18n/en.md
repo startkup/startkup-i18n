@@ -12,7 +12,7 @@ Because of this platform, we can provide students with the most practical hands-
 
 Course Summary:
 
-本雲端基礎系列課的第一堂就是做基本介紹並讓大家知道熟悉CloudSkillBoost的操作介面並在完成一個情境實驗課後取得一個月通行證。
+The first session of this Cloud Basics Series course focused on introducing the basics and familiarizing everyone with the CloudSkillBoost interface. After completing a scenario-based lab, students received a one-month pass.
 
 &nbsp;
 
