@@ -1,24 +1,24 @@
-# [ 課程回顧 | 2022-11-24 | ML機器學習課程 TensorFlow ]
+# [Course Review | 2022-11-24 | ML Machine Learning Course: TensorFlow]
 
-11/24 ML機器學習課程 TensorFlow：入門介紹
+11/24 ML Machine Learning Course TensorFlow: Introduction
 
-感謝大家參與我們ML機器學習課程的第一堂。
+Thank you all for participating in our first session of the ML Machine Learning Course.
 
-這次我們邊請到Google Developer Expert（GDE）機器學習專家、同時也是APMIC創辦人的Jerry Wu吳柏翰老師來為我們上有關Google的機器學習框架——TensorFlow的應用。
+This time, we have invited Jerry Wu, a Google Developer Expert (GDE) in machine learning and the founder of APMIC, to teach us about the application of Google's machine learning framework, TensorFlow.
 
-上課內容包括講解對機器學習的應知，理解到機器學習不是用rule-based（if、else）來設計物件或圖像辦識的程式，而是利用大量資料和標籤，透過不停重覆計算準確值來判定圖像。
+The class content includes explaining the necessary knowledge of machine learning, understanding that machine learning is not about designing programs for object or image recognition using rule-based (if, else) approaches, but rather determining images by repeatedly calculating accuracy values using a large amount of data and labels.
 
-再來，導師親自帶領我們利用鳶尾花卉資料集和運用TensorFlow在Google Colab的平臺上，建立一個簡單的機器學習模型。
+Next, the instructor personally guides us to use the Iris flower dataset and TensorFlow on the Google Colab platform to build a simple machine learning model.
 
 &nbsp;
 
 Course Summary:
 
-本次課程不單是聽理論，還包括實際建立機器學習模型。除了可以跟老師互動，還可以提出機器學習上的問題。相信社員們這次都能獲益良多！
+This course is not just about theoretical learning; it also includes practical exercises in building machine learning models.In addition to interacting with the instructor, you can also ask questions about machine learning.We believe that all members will benefit greatly from this session!
 
 &nbsp;
 
-12/01下一堂ML Study Jam，我們下次見！
+The next ML Study Jam will be held on 12/01. See you next time!
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

@@ -1,26 +1,26 @@
-# [ 課程回顧 | 2022-11-22 | Google Cloud 101 雲端基礎系列課 ]
+# [Course Review | 2022-11-22 | Google Cloud 101: Cloud Basics Series]
 
-✨ 課程回顧 ✨
+✨ Course Review ✨
 
-11/22 Google Cloud 101 雲端基礎系列課：Cloud Skills Boost操作
+11/22 Google Cloud 101 Cloud Basics Series: Cloud Skills Boost Operation
 
 &nbsp;
 
-感謝各位社員參與我們雲端系列課的第三堂。
+We appreciate the participation of all members in our third session of the cloud series courses.
 
-這次是由社長Johnny介紹Cloud Skills Boost的歷史以及與Qwiklabs的關係，並針對平臺的介面包含每個標籤頁、資訊面板等功能詳細的講解。
+This time, President Johnny introduced the history of Cloud Skills Boost and its relationship with Qwiklabs, providing a detailed explanation of each tab, information panel, and other functionalities of the platform.
 
-Johnny帶領我們完成Cloud Skills Boost平台上的一個lab（情境實驗課），並順利申請到一個月的免費訂閱。
+Johnny guided us through a lab (scenario-based practical exercise) on the Cloud Skills Boost platform and successfully applied for a free one-month subscription.
 
 &nbsp;
 
 Course Summary:
 
-本雲端基礎系列課的第二堂就是實際操作Cloud Skills Boost平臺，並取得免費一個月的訂閱，不僅方便銜接下次課程使用，還可以自行探索平臺內的情境題！
+The second session of this Cloud Basics Series course involved hands-on experience with the Cloud Skills Boost platform and obtaining a free one-month subscription. This not only facilitates the transition to the next course but also allows for independent exploration of scenario-based questions within the platform.
 
 &nbsp;
 
-下週二是我們Google Cloud倒數第二堂的Compute Engine（VM）建置，希望想學習的社員們把握下次機會！
+Next Tuesday, we will have the second-to-last session of our Google Cloud course, focusing on Compute Engine (VM) deployment. We encourage members who wish to learn to seize this opportunity!
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

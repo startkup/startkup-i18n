@@ -1,38 +1,38 @@
-# [ 2022-12-04 | 光雕設計工作坊 ]
+# [2022-12-04 | Light Sculpture Design Workshop]
 
-🌃 12/04 讓光從天而降 ✨
+🌃 12/04 Let the Light Descend ✨
 
-光雕設計工作坊 Projection Mapping Workshop
-
-&nbsp;
-
-12/04我們邀請了光滿樓為我們介紹光雕投影的技術，也是為了我們未來的成果展做籌備！
-
-🤔 那麼，光滿樓是什麼呢？
+Light Sculpture Design Workshop Projection Mapping Workshop
 
 &nbsp;
 
-「光滿樓」專門提供光雕投影及其延伸的視覺設計，從企畫到內容設計再到現場施工的完整服務。應用範圍包括互動投影、建築投影、派對視覺、展場視覺等。
+On 12/04, we have invited Lightfull Studio to introduce us to the technique of light sculpture projection, as part of our preparations for future exhibitions!
 
-我們邀請到的講師是光滿樓的共同創辦人——黃啟嘉，目前也是彰師大的資管系數位影音特效兼任講師，並將魔術與科技藝術結合，開創全新互動藝術科技整合的研究領域！
+🤔 So, what is Lightfull Studio?
 
-光滿樓也有豐富的光雕投影經歷，從公部門到企業品牌都有他們的影子，甚至榮獲2021奧迪創新獎Audi Innovation Award，至今也持續為世界各地創作嶄新的光雕投影作品。
+&nbsp;
 
-在政府、企業界擁有豐富經歷的光滿樓，12/04將為我們帶來投影案例分析及產業講解、光雕實作、小組創作成果，所以不僅僅只是聽講師講解，還有時間創造你的第一個小光雕專案！
+"Lightfull Studio" specializes in light sculpture projection and its related visual design, providing comprehensive services from conceptualization and content design to on-site construction.The applications include interactive projection, architectural projection, party visuals, and exhibition visuals, among others.
+
+Our guest speaker is Huang Qijia, the co-founder of Lightfull Studio. He is currently an adjunct lecturer in the Department of Information Management and Digital Audio-Visual Effects at National Changhua University of Education. He combines magic with technological art to pioneer a new research field in integrated interactive art technology!
+
+Lightfull Studio has extensive experience in light sculpture projection, leaving their mark on both public sectors and corporate brands. They were even honored with the 2021 Audi Innovation Award, and continue to create innovative light sculpture projection works around the world.
+
+With their rich experience in government and corporate sectors, Lightfull Studio will bring us case studies and industry insights, hands-on light sculpture creation, and group project outcomes on 12/04. So it's not just about listening to lectures; you will also have the opportunity to create your first light sculpture project!
 
 &nbsp;
 
 How to Sign-Up:
 
-透過官方GDSC平臺
+Through the official GDSC platform.
 
 <https://gdsc.community.dev/tamkang-university>
 
 &nbsp;
 
-活動地點：
+Event address:
 
-暫定宮燈教室H105
+Temporary Palace Lantern Classroom H105
 
 &nbsp;
 
@@ -44,19 +44,19 @@ Time:
 
 Sessions:
 
-\- 09:40-10:00 報到
+\- 09:40-10:00 sign-in
 
-\- 10:00-12:00 投影案例分析及產業講解
+\- 10:00-12:00 Projection case studies and industry insights
 
-\- 12:00-13:00 午餐時間 (不供應午餐)
+\- 12:00-13:00 Lunch break (lunch not provided)
 
-\- 13:00-16:00 光雕實作
+\- 13:00-16:00 Light sculpture creation
 
-\- 16:00-18:00 小組創作成果
+\- 16:00-18:00 Group project outcomes
 
 &nbsp;
 
-有關光滿樓的更多資訊，請搜尋「光滿樓 Lightfull Studio」
+For more information about Lightfull Studio, please search "光滿樓 Lightfull Studio."
 
 &nbsp;
 
@@ -66,7 +66,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

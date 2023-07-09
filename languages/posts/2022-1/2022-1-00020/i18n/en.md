@@ -1,46 +1,46 @@
-# [ 111-1 ML Study Jam 機器學習系列課程 ]
+# [ 111-1 ML Study Jam " Machine Learning Series Courses " ]
 
-🔥 不知道深度學習該如何學起？
+🔥 Don't know how to start learning deep learning ?
 
-🔥 由Google開發者專家帶你一探究竟最熱門的深度學習框架 ─ TensorFlow
-
-&nbsp;
-
-📎 ML Study Jam機器學習系列課程
-
-AI技術百花齊放，又以深度學習為最熱門的領域之一，身為熱愛學習的你又該從何學起呢？
+🔥 Let a Google developer expert take you on a journey to explore the most popular deep learning framework, TensorFlow.
 
 &nbsp;
 
-這次很榮幸能夠請到Google Developer Expert也是亞太智慧機器創辦人兼執行長的Jerry老師來為我們一探究竟TensorFlow的世界！
+📎 ML Study Jam " Machine Learning Series Courses "
 
-Jerry老師在資料分析從業經驗超過10年，發表過超過10篇技術論文於IEEE、R等期刊，參與超過100個資料分析專案，並培育超過5,000個資料分析人才。
+With a wide range of AI technologies, deep learning is one of the hottest fields. As someone who loves learning, where should you start?
 
 &nbsp;
 
-本次系列課總共三堂，詳細流程請見下方之活動時間。
+We are honored to have Jerry, a Google Developer Expert and the founder/CEO of Asia Pacific Smart Machines, to show us the world of TensorFlow!
+
+Jerry has over 10 years of experience in data analysis, published over 10 technical papers in journals such as IEEE and R, participated in over 100 data analysis projects, and cultivated over 5,000 data analysis talents.
+
+&nbsp;
+
+This series consists of three courses. Please see the event schedule below for detailed information.
 
 &nbsp;
 
 ⛄️ Event Target Audience:
 
-所有民眾
+Open to all participants.
 
 &nbsp;
 
 ⏰ Time:
 
-\- 11/24 18:30－20:30（2小時）
+\- 11/24 18:30－20:30（2 hours）
 
-&emsp;TensorFlow寫NN、TensorFlow影像分類
+Writing Neural Networks in TensorFlow, TensorFlow Image Categorization.
 
-\- 12/01 18:30－19:30（1小時）
+\- 12/01 18:30－19:30（1 hour）
 
-&emsp;TensorFlow文字分類
+TensorFlow Text Classification.
 
-\- 12/08 18:30－19:30（1小時）
+\- 12/08 18:30－19:30（1 hour）
 
-&emsp;TensorFlow其他有趣的功能：JS、JAX
+Other interesting features of TensorFlow: JS, JAX.
 
 &nbsp;
 
@@ -48,25 +48,25 @@ Jerry老師在資料分析從業經驗超過10年，發表過超過10篇技術�
 
 \- 11/24 E310
 
-\- 其他日期：暫定AI創智學院 實境場域
+Other dates: Location to be determined at AI Creative Academy.
 
 &nbsp;
 
 ✈️ Event Schedule:
 
-請見報名網址
+Please see the registration website.
 
 &nbsp;
 
 🖊️ How to sign-in?
 
-於教室門口簽到
+Sign-in at the classroom entrance.
 
 &nbsp;
 
 ✍️ How to sign-up?
 
-透過官方GDSC平臺
+Through the official GDSC platform.
 
 <https://gdsc.community.dev/tamkang-university>
 
@@ -78,7 +78,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

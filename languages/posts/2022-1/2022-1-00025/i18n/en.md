@@ -1,8 +1,8 @@
-# [ 2022-12-20 | 111-1 期末社員大會 ]
+# [ 2022-12-20 | 111-1 General Meeting ]
 
-我們明天有社員大會喔！
+We have a General Meeting tomorrow!
 
-也會供應點心及參與認證！ 🍪
+Refreshments and Participation Certificates will be provided! 🍪 🍪
 
 &nbsp;
 
@@ -14,27 +14,27 @@ Club members of Artificial Innovative Intelligence Club
 
 ⏰ Time:
 
-12/20 (二) 18:30－19:20
+12/20 (Tue) 18:30-19:20
 
 &nbsp;
 
-📍 會議地點：
+📍 Location:
 
 Reality Fields, <br />College of Artificial Innovative Intelligence
 
-（供應點心的地方）
+(Location for refreshments)
 
 &nbsp;
 
-✈️ 議程：
+✈️ Agenda:
 
-\- 18:20－18:30 報到
+\- 18:20－18:30 Registration
 
-\- 18:35－19:00 社長致詞、社團成果報告及經費支出
+\- 18:35－19:00 President's speech, club achievements report, and budget expenditure
 
-\- 19:00－19:10 歡送幹部及致詞
+\- 19:00－19:10 Farewell to officers and speeches
 
-\- 19:10－19:20 回饋表單、大合照
+\- 19:10－19:20  Feedback form, group photo
 
 &nbsp;
 
@@ -48,13 +48,13 @@ Fill the Google Form
 
 <https://docs.google.com/forms/d/1A4Yi2zuq-S0zZoHqra53Aj9mnTOyd8mYKTKHph21gH4/viewform>
 
-報名方式請用Google表單！
+Please use the Google Form to register!
 
 \----
 
-更正：
+Correction:
 
-請至GDSC平臺完成報名：
+Please complete the registration on the GDSC platform.
 
 <https://gdsc.community.dev/e/m87d52/>
 
@@ -66,7 +66,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
