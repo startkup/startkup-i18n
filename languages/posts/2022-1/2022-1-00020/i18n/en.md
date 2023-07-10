@@ -46,7 +46,7 @@ Other interesting features of TensorFlow: JS, JAX.
 
 📍 Location:
 
-\- 11/24 E310
+\- 11/24：工學大樓E310
 
 Other dates: Location to be determined at AI Creative Academy.
 
