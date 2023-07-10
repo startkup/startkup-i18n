@@ -82,7 +82,11 @@ Please sign in at the entrance of the classroom.
 
 1\. By official GDSC platform
 
+<https://gdsc.community.dev/tamkang-university>
+
 2. Tamkang University students need to fill out an additional Google Form
+
+<https://docs.google.com/forms/d/1gPdgXPt7z0o_b4qanM618mKh-ZKGFWQ9Lop5VANMZ0E/viewform>
 
 &nbsp;
 
