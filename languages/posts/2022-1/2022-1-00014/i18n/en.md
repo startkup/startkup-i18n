@@ -50,11 +50,11 @@ AI Creativity Institute, Virtual Reality Field
 
 \- 18:30 Sign-in begins
 
-\- 18:40 準時開始
+\- 18:40 Start of the event
 
-\- 18:40－19:40 授課
+\- 18:40－19:40 Lecture
 
-\- 19:40－19:50 回饋表單、拍大合照
+\- 19:40－19:50 Feedback form, group photo
 
 &nbsp;
 
