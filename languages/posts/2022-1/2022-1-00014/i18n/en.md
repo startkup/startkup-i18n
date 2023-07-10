@@ -48,7 +48,7 @@ AI Creativity Institute, Virtual Reality Field
 
 ✈️ Event Schedule:
 
-\- 18:30 開放簽到
+\- 18:30 Sign-in begins
 
 \- 18:40 準時開始
 
