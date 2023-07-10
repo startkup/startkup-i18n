@@ -42,19 +42,21 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 Please sign in at the entrance of the classroom.
 
+&nbsp;
+
 ✍️ How to sign-up?
 
 Fill the Google Form
 
 <https://docs.google.com/forms/d/1A4Yi2zuq-S0zZoHqra53Aj9mnTOyd8mYKTKHph21gH4/viewform>
 
-Please use the Google Form to register!
+報名方式請用Google表單！
 
 \----
 
-Correction:
+更正：
 
-Please complete the registration on the GDSC platform.
+請至GDSC平臺完成報名：
 
 <https://gdsc.community.dev/e/m87d52/>
 
@@ -66,7 +68,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line Official Account：@tkuaiic
+Line官方帳號：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
