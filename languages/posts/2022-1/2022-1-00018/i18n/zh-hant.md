@@ -82,7 +82,11 @@ AI創智學院 實境場域
 
 1\. 透過官方GDSC平臺
 
+<https://gdsc.community.dev/tamkang-university>
+
 2\. 淡江學生需額外填寫Google表單
+
+<https://docs.google.com/forms/d/1gPdgXPt7z0o_b4qanM618mKh-ZKGFWQ9Lop5VANMZ0E/viewform>
 
 &nbsp;
 
