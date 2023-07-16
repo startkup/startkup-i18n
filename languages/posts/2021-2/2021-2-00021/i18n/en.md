@@ -1,18 +1,18 @@
-**[ Participation Certificate | June 4, 2022 | VR/AR Workshop ]**
+**[ Participation Certificate | June 4, 2022 | VR/AR Lecture ]**
 
-Lecture on the Contemporary Metaverse Industry: Unraveling the Secrets of the Metaverse through VR/AR
+VR/AR Contemporary Metaverse Industry Lecture: Unraveling the Secrets of the Metaverse
 
 &nbsp;
 
 Hello!
 
-Join us for the VR/AR Lecture by Tamkang University Artificial Innovative Intelligence Club: Unleash Infinite Imagination in the Metaverse through Immersive Experiences.
+Join us for the VR/AR lecture held by Tamkang University Artificial Innovative Intelligence Club: Unleash Infinite Imagination in the Metaverse through Immersive Experiences.
 
 &nbsp;
 
-We believe many people have heard of the term "metaverse" in recent years, but what exactly is the "metaverse"?What new experiences can it bring to our lives?
+Many people have heard of the term "metaverse" in recent years, but what exactly is the "metaverse"?And what new life experiences can it bring to us?
 
-In today's lecture, we will delve deep into the contemporary and highly popular buzzword "metaverse." Through presentations by industry experts, we will explore how various businesses have subtly incorporated metaverse elements into their operations.
+In today's lecture, you will be taken to an in-depth understanding of the recent highly discussed topic called "meta-universe". Moreover, industrial experts will tell you from a business perspective how the elements of "metaverse" subtly be utilized.
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Want to explore this contemporary trend?Then quickly sign up for this lecture!
 
 &nbsp;
 
-Our invited speaker is Mr. Hsu Chao-Chin, Manager of the Media Content Business Group at Yahoo Information Co., Ltd., Taiwan Branch. With such an impressive speaker, why haven't you joined us yet?
+For this lecture we invite Mr. Hsu Chao-Chin, Manager of the Media Content Business Group at Yahoo Information Co., Ltd., Taiwan Branch, such an outstanding speaker, why don't you join us?
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Club members of Artificial Innovative Intelligence Club
 
 How to Sign-Up:
 
-Fill the Google Form
+Fill out the Google form
 
 https://docs.google.com/forms/d/1wFFoaWMeHo3NO5LkrPw0M09uE_Z6I3WCi3mXoTmmYC0/viewform
 

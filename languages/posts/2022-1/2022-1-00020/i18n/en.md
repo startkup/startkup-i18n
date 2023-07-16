@@ -46,7 +46,7 @@ Other interesting features of TensorFlow: JS, JAX.
 
 📍 Location:
 
-\- 11/24：工學大樓E310
+\- October 24: Main Engineering Building E310
 
 Other dates: Location to be determined at AI Creative Academy.
 
@@ -60,7 +60,7 @@ Please see the registration website.
 
 🖊️ How to sign-in?
 
-Sign-in at the classroom entrance.
+於教室門口簽到
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line Official Account：@tkuaiic
+Line官方帳號：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

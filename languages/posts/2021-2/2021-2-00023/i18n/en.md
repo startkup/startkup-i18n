@@ -1,4 +1,4 @@
-**[ June 7, 2022 | General Meeting (end-of-semester) ]**
+**[ June 7, 2022 | Final General Meeting ]**
 
 The semester is coming to an end, would you like to know what activities the Artificial Innovative Intelligence Club has organized?
 
@@ -18,7 +18,7 @@ Time:
 
 &nbsp;
 
-Activities:
+Location:
 
 Online Meeting on Microsoft Teams
 
@@ -58,7 +58,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1okzZ-OEt-22eBF20HrkWIo2D7P5QLvo4xhlaH-z2gS8/viewform
 
-For the convenience of statistical purposes, please kindly fill out the form to indicate your attendance for this meeting.
+For the purpose of convenient statistical analysis of the meeting attendance, we kindly ask everyone to complete the form.
 
 &nbsp;
 

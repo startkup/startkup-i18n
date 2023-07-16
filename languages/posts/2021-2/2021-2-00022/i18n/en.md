@@ -4,7 +4,7 @@ Blockchain Lecture: Trends and Overview of Blockchain Applications in Enterprise
 
 &nbsp;
 
-The Rise of Cryptocurrencies, Driven by Bitcoin, Has Highlighted the Utility of Blockchain Technology in Recent Years.With the Advancement of FinTech, Many Financial Industries are Embracing Transformation and Adopting Blockchain Technology.
+Latterly, the escalation of cryptocurrencies, driven by Bitcoin, has led people to appreciate the usefulness of blockchain technology.With the advance of FinTech, lots of financial sectors have also begun to transform and adopting blockchain technology.
 
 We are pleased to have Jason as our guest speaker for this event. With a strong engineering background and a wide range of experiences in various fields related to blockchain industry applications, Jason has previously served as the President of the National Cheng Kung University Blockchain Research Club for two terms. Currently, he holds a key position as the Project Lead responsible for enterprise-level blockchain development in the Taiwan Blockchain Academia.
 
