@@ -44,15 +44,15 @@ Time:
 
 Sessions:
 
-\- 09:40－10:00 報到
+\- 09:40－10:00 sign-in
 
-\- 10:00－12:00 投影案例分析及產業講解
+\- 10:00-12:00 Projection case studies and industry insights
 
-\- 12:00－13:00 午餐時間 (不供應午餐)
+\- 12:00-13:00 Lunch break (lunch not provided)
 
-\- 13:00－16:00 光雕實作
+\- 13:00-16:00 Light sculpture creation
 
-\- 16:00－18:00 小組創作成果
+\- 16:00-18:00 Group project outcomes
 
 &nbsp;
 
@@ -66,7 +66,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

@@ -60,7 +60,7 @@ Please see the registration website.
 
 🖊️ How to sign-in?
 
-於教室門口簽到
+Sign-in at the classroom entrance.
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

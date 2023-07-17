@@ -54,7 +54,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1BrkqhdODf5zN-nDNwGa0G8jNNNV2uTJoGbkY-Ak9FbA/viewform
 
-For the convenience of statistical purposes, please kindly fill out the form to indicate your attendance for this club course.
+For the purpose of convenient statistical analysis of the club course attendance, we kindly ask everyone to complete the form.
 
 &nbsp;
 

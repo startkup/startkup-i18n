@@ -22,7 +22,7 @@ With so many opportunities to obtain participation certification, aren't you tem
 
 Hurry and join our Artificial Innovative Intelligence Club family!
 
-The Artificial Innovative Intelligence Club sincerely welcomes your membership 👋
+Artificial Innovative Intelligence Club sincerely welcomes your participation.👋
 
 &nbsp;
 

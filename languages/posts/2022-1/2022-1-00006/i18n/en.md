@@ -1,4 +1,4 @@
-**[ Participation Certificate | 9月27日 | Enrollment Orientation and Welcome Event ]**
+**[ Participation Certificate | September 27 | Enrollment Orientation and Welcome Event ]**
 
 Hello, everyone!
 
@@ -48,17 +48,17 @@ The prizes will be directly sent by Google!
 
 &nbsp;
 
-🧾 Event Schedule：
+🧾 Event Schedule:
 
 \- 17:50－18:10 Sign-in
 
-\- 18:15－18:35  Introduction to clubs and course planning
+\- 18:15-18:35 Introduction to Clubs and Course Planning
 
-\- 18:40－18:45 Financial planning
+\- 18:40－18:45 Financial Planning Report
 
-\- 18:50－19:00 Intermission (Membership fee payment available)
+\- 18:50－19:00 Break (Membership fee payment available)
 
-\- 19:05－19:40 AI team-building activities
+\- 19:05－19:40 AI Ice Breaker
 
 \- 19:45－20:00 Feedback form &, group photo!
 
@@ -66,9 +66,9 @@ The prizes will be directly sent by Google!
 
 📍 Location:
 
-Engineering Building E304
+E304, Building E (Main Engineering Building)
 
-(The exact location will be notified via email one day before the event)
+(The exact location will be notified via email one day before the event.)
 
 &nbsp;
 
@@ -76,7 +76,7 @@ Engineering Building E304
 
 https://docs.google.com/forms/d/1OaJYjYEcG96Wj2iYEHRrlbIUQac7789aVIwdVbGvkAo/viewform
 
-⚠️ Form Deadline: Extended to September 26th (Sunday) 19:00 (UTC+8)
+⚠️ Deadline for Registering: Extended to 19:00, Sunday, September 26 (UTC+8)
 
 &nbsp;
 

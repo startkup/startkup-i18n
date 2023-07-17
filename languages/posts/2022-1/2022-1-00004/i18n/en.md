@@ -1,21 +1,21 @@
-**[Event Postponed | September 4th | Freshmen Club Experience Festival × Artificial Innovative Intelligence Club ]**
+**[Event Postponed | September 4 | Freshmen Club Experience Festival × Artificial Innovative Intelligence Club ]**
 
 【The event has been postponed】
 
-Although the extracurricular group has decided to cancel the new student club experience event.
+Although Extracurricular Activities Guidance Section had decided to cancel the Freshmen Club Experience Festival;
 
-However, we have actively been in contact with the extracurricular group to discuss alternative options.
-
-&nbsp;
-
-☀️ On September 2nd (Friday), exhibitors will set up as usual
-
-☀️ On September 3rd (Saturday), there will be internal trial operations (not open to the public)
-
-☀️ On September 4th (Sunday), from 11:00 to 16:00, there will be an open visit ✨
-
-☀️ Recording will be used to compensate for students who are unable to attend
+however,we actively contacted with Extracurricular Activities Guidance Section, and discussed the alternative plan as follows:
 
 &nbsp;
 
-Although you can still see the exhibition through the recording, it's not quite the same as experiencing it in person. You're welcome to come and see it when you have the time!
+☀️ On Friday, September 2, our team and the firms set up as usual.
+
+☀️ On Saturday, September 3, internal soft opening will not open to the public
+
+☀️ 11:00-16:00, Saturday, September 4, opens ✨
+
+☀️ The recording will be available to those who are unable to attend.
+
+&nbsp;
+
+While you can see the exhibition through the recording, it's not quite the same as experiencing it in person. You're welcome to attend it when you have time!

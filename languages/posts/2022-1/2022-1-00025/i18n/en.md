@@ -50,13 +50,13 @@ Fill the Google Form
 
 <https://docs.google.com/forms/d/1A4Yi2zuq-S0zZoHqra53Aj9mnTOyd8mYKTKHph21gH4/viewform>
 
-報名方式請用Google表單！
+Please use the Google Form to register!
 
 \----
 
-更正：
+Correction:
 
-請至GDSC平臺完成報名：
+Please proceed to the GDSC platform to complete the registration:
 
 <https://gdsc.community.dev/e/m87d52/>
 
@@ -68,7 +68,7 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line官方帳號：@tkuaiic
+Line Official Account：@tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 

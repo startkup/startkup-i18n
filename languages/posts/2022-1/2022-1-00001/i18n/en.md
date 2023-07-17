@@ -2,22 +2,22 @@
 
 Hello, everyone!
 
-We are the second edition of the Artificial Innovative Intelligence Club🚀
+We are the 2nd Artificial Innovative Intelligence Club🚀
 
 &nbsp;
 
-Following the achievement of being the fastest-growing organization in the previous term,
+Following the achievement of being the club that grew by leaps and bounds in the previous term,
 
-We hope that this term, with its rich curriculum, will achieve even greater results and collaborate with multiple clubs to launch innovative projects, taking Artificial Innovative Intelligence Club to new heights!
+we hope to create success with abundant courses and collaboration with multiple clubs on innovative projects, making Artificial Innovative Intelligence Club reach new heights!
 
 &nbsp;
 
-If you have any suggestions or wishes regarding the courses and activities for this upcoming semester, please feel free to share them.
+If you have any suggestions or wishes regarding the courses and activities for this upcoming semester,
 
-We welcome you to send us a private message and share your thoughts with us!
+feel free to let us know through private messages!
 
 &nbsp;
 
 New academic year, new goals.
 
-We are excited to build upon our past accomplishments and work towards our goal of becoming the largest academic-oriented club.
+We are excited to build on past successes and strive to be the largest academic and arts club.

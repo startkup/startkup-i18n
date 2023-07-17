@@ -1,18 +1,18 @@
 **[ Scheduled Club Activities 2022-1 ]**
 
-✨ Here is a consolidated guide to the club course planning for everyone, making it convenient and accessible.
+Here's a brief summary about our club courses:
 
 &nbsp;
 
 ⏰ Tuesday: Club Courses
 
-General club courses take place on Tuesdays from 18:10 to 20:00.
+General club courses will take place on Tuesdays from 18:10 to 20:00.
 
-The course content includes UI/UX, app development, and Google Cloud developer training program.
+Including UI/UX, App development, Google Cloud Developer Training Program,
 
-Along with a series of machine learning projects,
+and a series of machine learning projects,
 
-The rich course content allows everyone to absorb more knowledge and enhance competitiveness📖
+the rich course content enables everyone to absorb more knowledge and enhance competitiveness.📖
 
 &nbsp;
 
@@ -30,9 +30,9 @@ Thus, it's not force-participated.
 
 Sysadmin training courses will teach a great deal of knowledge about server & internet administration.
 
-If you learned / studied server & internet administration well,
+If you learn/study server & internet administration well,
 
-You can consider pursuing a career path as a network management engineer 👨‍💻
+you can consider pursuing a career as a System / Network Engineer. 👨‍💻
 
 &nbsp;
 
@@ -40,21 +40,21 @@ You can consider pursuing a career path as a network management engineer 👨‍
 
 This semester, we have added VJ and Projection Mapping Design courses.
 
-It is the focus of this semester to promote the development of clubs.
+As the primary focus of our club's development this semester,
 
-We will hold an exhibition of achievements during the final exams.
+we will organize an exhibition at the end of the semester
 
-Showcasing the allure of this innovative course to everyone ❤️‍🔥
+to showcase the charm of this innovative course to everyone ❤️‍🔥
 
 &nbsp;
 
-A wide range of club courses and numerous professional instructors will ensure you leave with a fulfilling experience.
+A wide range of club courses and lots of professional lecturers will let you come back with fruitful results.
 
 What are you waiting for?
 
-Hurry up and join us now!
+Join us now!
 
-The Artificial Innovative Intelligence Club sincerely welcomes your membership 👋
+Artificial Innovative Intelligence Club sincerely welcomes your participation.👋
 
 &nbsp;
 

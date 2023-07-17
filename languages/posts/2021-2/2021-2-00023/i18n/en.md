@@ -8,7 +8,7 @@ We will report to everyone at the General Meeting about the progress and results
 
 The next agenda item is the second vote on the proposals for amendments to the Club Organizational Regulations. This time, the entire regulation have been reviewed and rearranged to create a more comprehensive and professional revision.
 
-Finally, our next president will announce their political platform and gather with us. The next president is looking forward to meeting you all tomorrow!
+Finally, there will be the presentation of our next president's policies and the gathering. The next president is looking forward to meeting you all tomorrow!
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Sessions:
 
 \- 18:10 Start of the event
 
-18:10 Club Performance Report/Expense Report
+\-18:10 Club Performance Report/Expenditure Report
 
 \- 18:30 Voting the proposals for amendments to the Club Organizational Regulations
 
