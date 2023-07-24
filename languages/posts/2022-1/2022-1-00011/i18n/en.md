@@ -20,7 +20,7 @@ Our club is currently working on two projects: TKUGERS, a course recommendation 
 
 📖 Study Groups
 
-Our club provides not only technical support but also a platform for like-minded individuals to showcase their talents.Therefore, besides projects, we also encourage everyone to form study groups or interest groups.On top of that, regardless of the field, whether it's programming, graphic design, brewing coffee, or baking cookies, you can find your place here!
+我們社團不僅提供技術支援，更鼓勵大家都能在這裡找到志同道合的人並一展長才。Therefore, besides projects, we also encourage everyone to form study groups or interest groups.On top of that, regardless of the field, whether it's programming, graphic design, brewing coffee, or baking cookies, you can find your place here!
 
 \----
 
