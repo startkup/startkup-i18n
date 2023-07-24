@@ -52,15 +52,15 @@ The prizes will be directly sent by Google!
 
 \- 17:50－18:10 Sign-in
 
-\- 18:15-18:35 Introduction to Clubs and Course Planning
+\- 18:15-18:35 Introduction to clubs and course planning
 
-\- 18:40－18:45 Financial Planning Report
+\- 18:40－18:45 Financial planning report
 
 \- 18:50－19:00 Break (Membership fee payment available)
 
-\- 19:05－19:40 AI Ice Breaker
+\- 19:05－19:40 AI ice breaker
 
-\- 19:45－20:00 Feedback Form Completion; Drawing & Group Photo
+\- 19:45－20:00 Feedback form completion, drawing & Group Photo
 
 &nbsp;
 

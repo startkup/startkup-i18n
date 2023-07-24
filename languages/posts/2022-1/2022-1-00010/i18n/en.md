@@ -10,13 +10,13 @@ How can Product UI/UX Designers Survive in the Software Industry?
 
 Today (October 11) we invited Teacher Zhang Jingyuan, an industrial expert from an online teaching platform.
 
-To lead us in understanding the importance of UI/UX, different types of designers, the software industry ecosystem, and project workflows.
+She guided us to understand the importance of UI/UX, the types and differences of designers, the software industry, and project management workflow.
 
 &nbsp;
 
-Real-life case studies were also incorporated into the course.
+Real-life cases were also incorporated into the lecture,
 
-such as the poor UI of Citibank leading to employee errors.
+for instance, the poor UI leading to employee errors in Citibank.
 
 &nbsp;
 
@@ -36,29 +36,29 @@ highlighting how Google defines a good user experience:
 
 &nbsp;
 
-That is, being user-friendly, fair, enjoyable, and useful.
+That is, usable, equitable, enjoyable, and useful.
 
 What is the difference between usable and useful?
 
-It depends on whether everyone has attended the classes properly.
+It depends on whether you attended the lecture attentively.
 
 &nbsp;
 
-The instructor will also guide us through the work and process involved in UX.
+The lecturer also introduced us to the tasks and processes involved in UX,
 
-We will learn about the companies where UI/UX designers usually work.
+the types of companies where UI/UX designers typically work,
 
-Finally, we will be introduced to the roles and responsibilities in project processes.
-
-&nbsp;
-
-We appreciate teacher Jingyuan for giving us a preliminary understanding of UI/UX.
-
-She also shared a lot of industry-related experiences!
+and finally, the job roles in project management!
 
 &nbsp;
 
-Next class: October 25th, Google Cloud Developer Technical Training Program.
+We appreciate Teacher Jingyuan letting us gain initial understanding of UI/UX
+
+and sharing lots of practical experience!
+
+&nbsp;
+
+Next: October 25, Google Cloud Developer Technical Training Program
 
 See you there!
 

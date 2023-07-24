@@ -6,7 +6,7 @@ To bring our club members closer together, we prepare the "Cookie Baking Experie
 
 &nbsp;
 
-In addition to the teamwork activity, there would be proposals for amendments to the organizational regulations, resulting in an improved version of those, and the explanation for getting certificates in our club as well.
+In addition to the teamwork activity, there would be proposals for amendments to the Club Organizational Regulations, resulting in an improved version of those, and the explanation for getting certificates in our club as well.
 
 Looking forward to the participation of all members. See you on Tuesday~
 
