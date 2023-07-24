@@ -2,41 +2,41 @@
 
 Hello, everyone!
 
-Our first event of the semester is now open for enrollment!
+The registration for our first event of this semester is now open!
 
 —— 🍬🍬 《 Recruitment Orientation and Welcome Event 》 🔥🔥
 
-(Get certified by participating! Join the club immediately and receive rewards instantly!)
+(Get certified by participating this event!Join our club immediately and get participation certificates!)
 
 &nbsp;
 
-Whether or not you have paid the club fee, you can participate.
+You can participate whether you have paid the club fees or not.
 
 The event will start with an introduction to the club, course planning, and financial arrangements.
 
-If you are interested in joining after the introduction,
+If you are interested in joining our club after the introduction,
 
-during the intermission, we will collect the club fee.
+there will be an intermission when we open the collection of club fees.
 
-Don't forget to collect your receipt!
+Don't forget to get your receipt!
 
 &nbsp;
 
 In addition to the team-building activities that utilize AI principles,
 
-after completing the feedback form at the end,
+after the participants complete the feedback form at the end,
 
-we will hold a lucky draw exclusively for members who have submitted the feedback form.
+we will hold a drawing exclusively for the club members who will have submitted the feedback survey.
 
 The prizes will be directly sent by Google!
 
 &nbsp;
 
-🎁 Prize Draw Items:
+🎁 Prizes:
 
-\- Google Cloud  backpack x 1
+\- Google Cloud backpack x 1
 
-\- Android eco-friendly stainless steel cutlery set (7 pieces) x 1
+\- Android eco-friendly stainless steel cutlery set of 7 pieces x 1
 
 \- Android Developers metal keychain x 5
 
@@ -60,7 +60,7 @@ The prizes will be directly sent by Google!
 
 \- 19:05－19:40 AI Ice Breaker
 
-\- 19:45－20:00 Feedback form &, group photo!
+\- 19:45－20:00 Feedback Form Completion; Drawing & Group Photo
 
 &nbsp;
 
@@ -72,7 +72,7 @@ E304, Building E (Main Engineering Building)
 
 &nbsp;
 
-🔗 Recruitment Information Session and New Student Registration Form Link：
+🔗 Registration Form:
 
 https://docs.google.com/forms/d/1OaJYjYEcG96Wj2iYEHRrlbIUQac7789aVIwdVbGvkAo/viewform
 

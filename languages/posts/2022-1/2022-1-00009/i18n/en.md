@@ -12,17 +12,17 @@ They are anywhere in everyone's daily life!
 
 &nbsp;
 
-On October 11th (Tuesday), we have invited designer Zhang Jingyuan,
+On Tuesday, October 11, we've invited Zhang Jingyuan,
 
-who embraces a user-centered approach as a UI/UX freelance designer.
+a UI/UX freelance designer with a people-centric approach.
 
-Previously worked in the fintech and AR/VR industries.
+Previously worked in the industries related to fintech and AR/VR,
 
-She has experience in developing multiple products from 0 to 1, including SaaS, CMS, and other products.
+She has extensive experience in developing products, including SaaS, CMS, and more, from 0 to 1.
 
-She collaborates with online teaching platforms as an industry expert, reviewing student portfolios and providing guidance for career transitions.
+She collaborates with online teaching platforms as an industrial expert, responsible for reviewing students' portfolios and providing guidance for their subsequent career transitions.
 
-Her expertise lies in collaborating closely with engineers and teasing product managers 😎
+Here is a fun fact about her: she's keen on getting along with engineers and teasing product managers 😎
 
 &nbsp;
 
@@ -30,13 +30,13 @@ Her expertise lies in collaborating closely with engineers and teasing product m
 
 Club members of Artificial Innovative Intelligence Club
 
-(You can still join us now! 🤩)
+(Join us now! 🤩)
 
 &nbsp;
 
 ⏰ Time:
 
-October 11th (Tuesday) 18:00 - 20:00 (UTC+8)
+18:00－20:00, Tuesday, October 11 (UTC+8)
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 🖊️ How to sign-in?
 
-Please sign in at the entrance of the classroom.
+Sign in at the entrance of the classroom
 
 &nbsp;
 
@@ -70,7 +70,7 @@ Fill the Google Form
 
 https://docs.google.com/forms/d/1CEKAgBQ7dVf5QO2kr2RQuDIGcWnD01SyNoIxRAJuwMU/viewform
 
-To facilitate the attendance tracking for this lecture, we kindly ask everyone to fill out the registration form.
+For the purpose of convenient statistical analysis of the lecturer attendance, we kindly ask everyone to complete the form.
 
 &nbsp;
 

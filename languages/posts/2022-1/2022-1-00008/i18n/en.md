@@ -1,20 +1,20 @@
-**[ Participation Certificate | October 4, 2022 | General Meeting (beginning of semester) ]**
+**[ Participation Certificate | October 4, 2022 | Beginning General Meeting ]**
 
-The initial members' meeting is here!
+It's our Beginning General Meeting coming soon!
 
-In order to bring our members closer together, we have prepared a "Cookie Baking Experience" activity to practice cooperation and teamwork 😍
+To bring our club members closer together, we prepare the "Cookie Baking Experience" activity, hoping to foster teamwork and have great chemistry with each other😍
 
 &nbsp;
 
-In addition to team-building activities, we will also discuss and explain proposed amendments to the bylaws and the process of obtaining certifications. After this update, we will present the most comprehensive and professional version.
+In addition to the teamwork activity, there would be proposals for amendments to the organizational regulations, resulting in an improved version of those, and the explanation for getting certificates in our club as well.
 
-We look forward to the participation of all members. See you on Tuesday!
+Looking forward to the participation of all members. See you on Tuesday~
 
 &nbsp;
 
 ⏰ Time:
 
-October 4th (Tuesday) 18:30-20:00 (UTC+8)
+18:30－20:00, Tuesday, October 4 (UTC+8)
 
 &nbsp;
 
@@ -26,7 +26,7 @@ E304, Building E (Main Engineering Building)
 
 🖊️ How to sign-in?
 
-Please sign in at the entrance of the classroom.
+Sign in at the entrance of the classroom
 
 &nbsp;
 
@@ -34,17 +34,17 @@ Please sign in at the entrance of the classroom.
 
 \- 18:30－18:40 Sign-in
 
-\- 18:40－19:40 Team cooperation exercise - Baking cookies
+\- 18:40－19:40 Cookies Baking Experience
 
-\- 19:40－19:50 Voting on charter amendments
+\- 19:40－19:50 Voting on proposals for amendments to our organizational regulations
 
-\- 19:50－20:00 Explanation of certification acquisition methods
+\- 19:50－20:00 Explanation of certificate acquisition methods
 
 \- 20:00 - Taking group photo
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 

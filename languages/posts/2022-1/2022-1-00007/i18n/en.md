@@ -1,26 +1,26 @@
-**[ How to get Participation Certificates ]**
+**[ How to Get Participation Certificates ]**
 
-🔥 Exciting ways to obtain participation certification are here!  🔥
+🔥 The methods of participation certificate acquisition are now available! 🔥
 
 &nbsp;
 
-🔎 Participation
+🔎 Participation Certificate
 
-Complete any of the following conditions to obtain one participation certification:
+Meet any of the following conditions to get 1 participation certificate:
 
 1. Attend the Freshmen Orientation and Welcome Event
 
-2. 2 General Meetings
+2. Attend the 2 General Meetings
 
-3. Choose one from three pre-midterm exam lectures.
+3. Choose 1 from the 3 lectures held before the midterm exam to attend
 
-4. Choose one from four post-midterm exam lectures.
+4. Choose 1 from the 4 lectures held after the midterm exam to attend
 
 &nbsp;
 
-With so many opportunities to obtain participation certification, aren't you tempted?
+With so many opportunities to get participation certificates, aren't you tempted?
 
-Hurry and join our Artificial Innovative Intelligence Club family!
+Join our Artificial Innovative Intelligence Club family now!
 
 Artificial Innovative Intelligence Club sincerely welcomes your participation.👋
 

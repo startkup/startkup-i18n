@@ -34,7 +34,7 @@ This course offers students:
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 This course series is open to everyone!
 
@@ -74,7 +74,7 @@ AI Creativity Institute, Virtual Reality Field
 
 🖊️ How to sign-in?
 
-Please sign in at the entrance of the classroom.
+Sign in at the entrance of the classroom
 
 &nbsp;
 

@@ -1,4 +1,4 @@
-**[Course Review | October 11th | UI/UX Lecture]**
+**[Course Review | October 11 | UI/UX Lecture]**
 
 October 11, 2022
 
@@ -8,7 +8,7 @@ How can Product UI/UX Designers Survive in the Software Industry?
 
 &nbsp;
 
-Today (October 11th), we had the honor of inviting Ms. Zhang Jingyuan, an industry expert from an online teaching platform,
+Today (October 11) we invited Teacher Zhang Jingyuan, an industrial expert from an online teaching platform.
 
 To lead us in understanding the importance of UI/UX, different types of designers, the software industry ecosystem, and project workflows.
 

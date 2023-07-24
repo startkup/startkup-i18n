@@ -20,7 +20,7 @@ As an added bonus, those who complete this series of courses will receive a one-
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 
@@ -60,7 +60,7 @@ AI Creativity Institute, Virtual Reality Field
 
 🖊️ How to sign-in?
 
-Please sign in at the entrance of the classroom.
+Sign in at the entrance of the classroom
 
 &nbsp;
 

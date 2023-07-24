@@ -6,7 +6,7 @@ Refreshments and Participation Certificates will be provided! 🍪 🍪
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 Club members of Artificial Innovative Intelligence Club
 
@@ -40,7 +40,7 @@ Reality Fields, <br />College of Artificial Innovative Intelligence
 
 🖊️ How to sign-in?
 
-Please sign in at the entrance of the classroom.
+Sign in at the entrance of the classroom
 
 &nbsp;
 

@@ -26,7 +26,7 @@ Both the software and hardware aspects of this training course have solid and co
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 Members and partners of the Artificial Innovative Intelligence Club
 

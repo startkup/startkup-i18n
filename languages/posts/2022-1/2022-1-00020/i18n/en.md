@@ -22,7 +22,7 @@ This series consists of three courses. Please see the event schedule below for d
 
 &nbsp;
 
-⛄️ Event Target Audience:
+⛄️ Target Audience:
 
 Open to all participants.
 
