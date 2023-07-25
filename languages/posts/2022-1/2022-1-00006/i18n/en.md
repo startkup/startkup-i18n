@@ -12,7 +12,7 @@ The registration for our first event of this semester is now open!
 
 You can participate whether you have paid the club fees or not.
 
-The event will start with an introduction to the club, course planning, and financial arrangements.
+The event will start with an introduction to the club, course planning, and financial planning.
 
 If you are interested in joining our club after the introduction,
 

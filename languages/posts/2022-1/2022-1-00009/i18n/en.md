@@ -18,7 +18,7 @@ a UI/UX freelance designer with a people-centric approach.
 
 Previously worked in the industries related to fintech and AR/VR,
 
-She has extensive experience in developing products, including SaaS, CMS, and more, from 0 to 1.
+she has extensive experience in developing products, including SaaS, CMS, and more, from 0 to 1.
 
 She collaborates with online teaching platforms as an industrial expert, responsible for reviewing students' portfolios and providing guidance for their subsequent career transitions.
 
