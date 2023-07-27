@@ -10,17 +10,17 @@ Join us for the VR/AR lecture held by Tamkang University Artificial Innovative I
 
 &nbsp;
 
-Many people have heard of the term "metaverse" in recent years, but what exactly is the "metaverse"?And what new life experiences can it bring to us?
+Many people have heard of the term "metaverse" in recent years, but what exactly is the "metaverse"? And what new life experiences can it bring to us?
 
 In today's lecture, you will be taken to an in-depth understanding of the recent highly discussed topic called "meta-universe". Moreover, industrial experts will tell you from a business perspective how the elements of "metaverse" subtly be utilized.
 
 &nbsp;
 
-Want to explore this contemporary trend?Then quickly sign up for this lecture!
+Want to explore this contemporary trend? Then quickly sign up for this lecture!
 
 &nbsp;
 
-For this lecture we invite Mr. Hsu Chao-Chin, Manager of the Media Content Business Group at Yahoo Information Co., Ltd., Taiwan Branch, such an outstanding speaker, why don't you join us?
+For this lecture we invite Mr. HSU Chao-chin (許朝欽), Manager of the Media Content Business Group at Yahoo Information Co., Ltd., Taiwan Branch, such an outstanding speaker, why don't you join us?
 
 &nbsp;
 
