@@ -1,36 +1,36 @@
-[Official Club Calendar]
+[Club Official Calendar]
 
-🔥 The official club calendar is now available! 🔥
-
-&nbsp;
-
-「Do we have club activities this week?」
-
-「Where are the club activities held?」
-
-These might be the questions that come to mind if members miss the announcements about club activities.
+🔥 The club official calendar is now available! 🔥
 
 &nbsp;
 
-Now, in addition to posting the information on the club's Instagram and Discord before each session,
+"Do we have club activities this week?"
 
-we have also created a calendar for all our activities!
+"Where are the club activities held?"
 
-The calendar includes the time and location of each session,
+These might come to your mind when missing the announcements regarding club courses.
 
-and we will also update it with the content of each class in the future.
+&nbsp;
+
+Now, in addition to posting the information on our Instagram and Discord before each session,
+
+we also have all the activities listed on the calendar!
+
+The time and location of each session are included,
+
+and we will update the content of each course in the upcoming future.
 
 &nbsp;
 
 Apart from accessing the calendar directly through the provided link,
 
-you can also add it to your own calendar for easy access to the schedule and to check for available time slots to attend the classes.
+you can also add it to your own calendar for easily checking available time slots to attend the courses.
 
-Isn't it convenient? 😊 😊
+How convenient it is! 😊
 
 &nbsp;
 
-Don't forget to like and bookmark the calendar so you won't miss any updates!
+Don't forget to like and bookmark the calendar so that you won't miss any updates!
 
 &nbsp;
 

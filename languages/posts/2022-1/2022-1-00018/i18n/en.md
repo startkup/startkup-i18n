@@ -56,7 +56,7 @@ This course series is open to everyone!
 
 📍 Location:
 
-AI Creativity Institute, Virtual Reality Field
+Reality Fields, College of Artificial Innovative Intelligence
 
 &nbsp;
 

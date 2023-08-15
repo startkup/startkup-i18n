@@ -1,22 +1,22 @@
-[111-1 Google Cloud 101 Cloud Basics Series: Intro]
+[111-1 Google Cloud 101 Cloud Basic Series of Courses: Intro]
 
-Our Google Cloud training program is starting tomorrow!
+Our Google Cloud Training Program is about to start tomorrow!
 
-It's also the last Tuesday club class before the midterm exams!
+It's also the last club class on Tuesday before the midterm exams!
 
-(Last chance to choose 1 out of 3 for participation certification before the midterm exams 🔥)
+(Last chance of acquiring 1 out of 3 participation certificates before the midterm exams🔥)
 
 \----
 
-📎 Google Cloud 101 Cloud Basics Series: Intro
+📎 Google Cloud 101 Cloud Basic Series of Courses: Intro
 
-Are you hesitating to step into the world of cloud computing because you don't have anyone to guide you?Then this class is exactly what you can't miss!
+Do you hesitate to step into the world of cloud as you have no mentors?Then these classes are exactly what you can't miss!
 
-This series of courses will take you from the basics to deeper understanding of cloud technologies and concepts. Through practical scenarios on Google Cloud Platform, one of the world's top three public clouds, you will gain solid hands-on experience.
+The series of courses will take you from the basics to deeper understanding of cloud technologies and concepts. Through practical scenarios on Google Cloud Platform, one of the big three cloud service provides around the world, you will get solid hands-on experience.
 
-To promote cloud technology, this series of courses is at a foundational level and suitable for students from various departments and grades to experience together. No programming or cloud knowledge is required!
+To promote cloud technology, this series of courses is at a basic level and suitable for students from various departments and grades to join together. No programming or cloud knowledge is required!
 
-As an added bonus, those who complete this series of courses will receive a one-month free subscription to Qwiklabs, where you can practice Google Cloud Platform technologies without any limitations, enhancing your employability!
+As an added bonus, those who complete this series of courses will have a one-month free subscription to Qwiklabs, where you can practice Google Cloud Platform technologies without any limitations, enhancing your employability!
 
 &nbsp;
 
@@ -28,21 +28,21 @@ Club members of Artificial Innovative Intelligence Club
 
 ⏰ Time:
 
-\- 10/25 (Tuesday)  18:20－19:50
+\- Tuesday, October 25, 2022 18:20-19:50
 
-\- 11/15 (Tuesday) 18:20－19:50
+\- Tuesday, November 15, 2022 18:20-19:50
 
-\- 11/22 (Tuesday) 18:20－19:50
+\- Tuesday, November 22, 2022 18:20-19:50
 
-\- 11/29 (Tuesday) 18:20－19:50
+\- Tuesday, November 29, 2022 18:20-19:50
 
-\- 12/06 (Tuesday) 18:20－19:50
+\- Tuesday, December 6, 2022 18:20-19:50
 
 &nbsp;
 
 📍 Location:
 
-AI Creativity Institute, Virtual Reality Field
+Reality Fields, College of Artificial Innovative Intelligence
 
 &nbsp;
 
@@ -50,7 +50,7 @@ AI Creativity Institute, Virtual Reality Field
 
 \- 18:30 Sign-in begins
 
-\- 18:40 Start of the event
+\- 18:40 Event starts
 
 \- 18:40－19:40 Lecture
 

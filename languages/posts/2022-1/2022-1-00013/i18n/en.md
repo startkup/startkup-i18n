@@ -1,40 +1,40 @@
-[2022-10-28 | Club Outing | 2022 Guandu Light Art Festival "Jiji"]
+[2022-10-28 | Club Outing | 2022 Kuan Du Light Art Festival "Ji-Ji"]
 
-Our first club outing is here～ 📣
+Here comes our first club outing~ 📣
 
-We will be visiting the "2022 Guandu Light Art Festival: Jiji" ✨
+We will be attending the 2022 Kuan Du Light Art Festival "Ji-Ji" ✨
 
-This club outing aims to strengthen the bonds and understanding among club members, while cultivating their interest in light and shadow technology. It also serves as an opportunity to find inspiration and ideas for future light and shadow exhibitions within our club, providing members and executives with a reference direction.
+This club outing aims to enhance cohesion of club members and have chemistry with each other, while cultivating their interest in light and shadow technology. It also serves as an opportunity to find inspiration and ideas for light and shadow exhibitions within our club in the future, providing club members and cadres with a direction.
 
-Through the light art festival, club members can get to know each other and foster their interest in light and shadow technology. This will allow them to accumulate experience and passion, enabling them to fully showcase their talents and creativity in future light and shadow exhibitions.
+Through the light art festival, club members can get to know each other better and foster their interest in light and shadow technology, allowing them to accumulate experience and passion and to fully showcase their talents and creativity in light and shadow exhibitions in the days to come.
 
-We look forward to the participation of all club members. See you next Friday! 🤩
+We look forward to participation of all the club members. See you next Friday! 🤩
 
 &nbsp;
 
 ⏰ Time:
 
-Date and Time: 2022/10/28 (Friday) 18:30-20:40
+Date and Time: Friday, October 28, 2022 18:30-20:40
 
 &nbsp;
 
 📍 Location:
 
-Guandu Chungang River Wharf (Pre-event notification will be sent via email one day before the activity)
+Guandu Chungang River Pier (Event reminder email will be sent one day before the activity)
 
 &nbsp;
 
-✈️ Itinerary:
+✈️ Event Schedule:
 
-\- 18:30－19:00 Registration (Meeting Point: Exit 1 of Guandu MRT Station)
+\- 18:30－19:00 Sign in (we'll be gathered together at the Exit 1 of Guandu MRT Station)
 
-\- 19:00－19:15 Approximately 10 minutes walk to the event venue
+\- 19:00－19:15 Walk to the venue for about 10 minutes
 
-\- 19:15－20:30 Visit the Guandu Light Art Festival
+\- 19:15－20:30 Visit the Kuan Du Light Art Festival
 
-\- 20:30－20:40 Group photo and feedback form completion
+\- 20:30－20:40 Take group photos and complete the feedback form
 
-\- 20:40－22:00 Dismissal (Free time for further exploration)
+\- 20:40－22:00 Dismiss (free time for further exploration)
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Guandu Chungang River Wharf (Pre-event notification will be sent via email one d
 
 \- Club Members: Free of charge
 
-\- Non-members: 50 NTD
+\- Non-members: NT$50
 
 &nbsp;
 
