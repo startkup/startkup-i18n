@@ -1,24 +1,24 @@
-[Course Review | 2022-10-25 | Google Cloud 101: Cloud Basics Series - Intro]
+[Course Review | 2022-10-25 | Google Cloud 101: Cloud Basic Series of Courses - Intro]
 
-Thank you to all the club members for participating in our first session of the Cloud Series course. President Johnny introduced what cloud computing is, why we use the cloud, what Google Cloud is, and what CloudSkillBoost is.
+Thank you all for participating in our first session of the Cloud series of courses. President Johnny introduced what cloud computing is, why we use the cloud, what Google Cloud is, and what Cloud Skill Boost is.
 
-CloudSkillBoost is the educational platform we are using for this course, and it's also the platform officially used by Google for teaching cloud technologies!That's right, we are using official Google materials!
+Cloud Skill Boost is the platform used for this course and also used by Google for teaching cloud technologies!That's right! What we use are the official materials from Google!
 
-We are honored to have obtained a one-month free pass from Google for CloudSkillBoost, allowing all of you to fully explore the platform and engage in various scenario-based exercises. Students can not only practice the course content but also independently explore different situations on the platform.
+We are honored to have had a one-month free subscription to Google Cloud Skill Boost, allowing all of you to fully explore the platform to your heart's content, practice the course content, and independently solve various situation-based questions on the platform.
 
-Because of this platform, we can provide students with the most practical hands-on workshops!
+And all because of this platform, we can provide students with the most practical hands-on workshops!
 
 &nbsp;
 
 Course Summary:
 
-The first session of this Cloud Basics Series course focused on introducing the basics and familiarizing everyone with the CloudSkillBoost interface. After completing a scenario-based lab, students received a one-month pass.
+The first session of this Cloud Basic series of courses focused on introducing the basics and familiarizing everyone with the interface of Cloud Skill Boost. After finishing a scenario-based lab course, each of students would have a one-month subscription.
 
 &nbsp;
 
-This session served as an initial assignment, and after the midterm, we will have Max (aka Sakana), a Google Developer Expert (GDE) in cloud technologies, leading a four-week workshop consisting of four sessions.
+This session served as an initial assignment. After the midterm week, we will have Max (a.k.a. Sakana), the Google Developer Expert (GDE) specialized in cloud technologies, leading a four-week workshop consisting of four sessions.
 
-🔥 With such excellent instructors, why haven't you joined yet?!！See you on 2022/11/15! 🔥
+🔥 With such an excellent lecturer, why haven't you come and joined yet?！See you on November 15, 2022! 🔥
 
 &nbsp;
 

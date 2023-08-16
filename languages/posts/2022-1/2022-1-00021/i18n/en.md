@@ -1,28 +1,28 @@
-# [ 111-1 Sysadmin Training Courses ]
+# [ 111-1 Management Information System Training Courses ]
 
-🛠 I heard that the monthly salary for some departments' network administrators in school is 9000?!！
+🛠 It's said that the monthly salary for some departments' network administrators in our school is NT$9000?!！
 
 What skills are needed to be qualified for the position?
 
-Quickly sign up for the "Sysadmin Training Courses" at Artificial Innovative Intelligence Club, and you will find out!
+Sign up for our Management Information System Training Courses, and you will figure out!
 
 &nbsp;
 
-📎 Sysadmin Training Courses
+📎Management Information System Training Courses
 
-Many departments in the school often struggle to find students who are capable of being network administrators, and even capable students may not be aware of this part-time job opportunity.
+Our school often struggles to find students who are capable of being network administrators, and those students may not be aware of this part-time job opportunity.
 
-Our club serves as a platform for talent matchmaking, and we actively collaborate with school departments to cultivate outstanding network administrators with both software and hardware knowledge.
-
-&nbsp;
-
-For the software aspect of this course, we will use the RHCSA certification materials from Red Hat to ensure that students learn the most solid and industry-certified Linux knowledge.
-
-In terms of hardware, for the first session, we have invited the Computer Hardware Research Club @tku_chc to explain the components of consumer-grade computers and provide each student with a computer for hands-on assembly. The second session will be taught by President, who will explain the components of enterprise-grade servers and teach students how to crimp network cables.
+Serving as a platform for talent matching, our club actively collaborate with school departments on cultivating outstanding network administrators with both software and hardware knowledge.
 
 &nbsp;
 
-Both the software and hardware aspects of this training course have solid and comprehensive content. Whether you are interested in network administration or want to learn a valuable skill, you should not miss it!
+For the software aspect of this course, we will use the RHCSA certification materials from Red Hat to ensure that students learn the most solid and Linux knowledge certified by industries.
+
+In terms of hardware, for the first session, we have invited the Computer Hardware Research Club @tku_chc to explain the components of consumer-grade computers and provide each student with a computer for hands-on assembly. The second session will be deliverd by our President, who will explain the components of enterprise-grade servers and teach students how to cut network wires.
+
+&nbsp;
+
+Both the software courses and the hardware courses are solid and comprehensive. Whether you are interested in management information system or you want to learn a valuable skill, don't miss them!
 
 &nbsp;
 
@@ -34,17 +34,17 @@ Members and partners of the Artificial Innovative Intelligence Club
 
 ⏰ Time:
 
-\- 10/14 (Friday) 18:00－20:00
+\- 18:00－20:00, Friday, October 14
 
-\- 10/21 (Friday) 18:00－20:00
+\- 18:00－20:00, Friday, October 21
 
-\- 11/18 (Friday) 19:00－21:00 Hardware Courses
+\- 19:00－21:00, Friday, November 18 (hardware course)
 
-\- 11/25 (Friday) 19:00－21:00 Hardware Courses
+\- 19:00－21:00, Friday, November 25 (hardware course)
 
-\- 12/02 (Friday) 19:00－21:00
+\- 19:00－21:00, Friday, December 2
 
-\- 12/09 (Friday) 19:00－21:00
+\- 19:00－21:00, Friday, December 9
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Please refer to the course calendar for details.
 
 \- 18:20 Sign-in begins
 
-\- 18:30 Start of the event
+\- 18:30 Event starts
 
 \- 18:30－19:50 Lecture
 
@@ -86,8 +86,8 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line Official Account：@tkuaiic
+Line Official Account: @tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
-Gmail： <tkuaiic@gmail.com>
+Gmail: <tkuaiic@gmail.com>

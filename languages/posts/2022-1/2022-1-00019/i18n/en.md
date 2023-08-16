@@ -1,14 +1,14 @@
-[Course Review | 111-1 Cloud Series Course Session 2]
+[Course Review | 111-1 Cloud Session 2]
 
-Thank you to all the club members who participated in our second session of the Cloud Series course. This time, it was taught by Teacher Max. Teacher Max provided a basic introduction to the GCP platform, discussed how to take the first step in using cloud platforms, introduced common GCP services and resources, and provided an overview of GCP platform tools. Finally, Teacher Max shared their own experience using cloud platforms.
+Thank you all for participating in the second session of the Cloud series of courses delivered by Teacher Max. He provided a basic introduction to the GCP platform, discussed how to take the first step in using cloud platforms, introduced common GCP services and resources, and provided an overview of GCP platform tools. Teacher Max shared their own experience using cloud platforms as well.
 
-In addition to the informative lectures, Teacher Max also kindly provided the Google slides used in this session. The slides include links to the websites of each service tool, allowing everyone to use them directly.
+In addition to the informative lecture, Teacher Max also kindly provided the Google slides used in this session, including links to each website of the service tools, which allows everyone to use them directly.
 
 &nbsp;
 
 Course Summary:
 
-In the second session of the Cloud Series course, Teacher Max explained the available GCP service tools in a simple and relaxed manner, highlighting the differences between different types of tools. This helped everyone to understand the fundamentals and facilitated the connection to future courses.
+In the second session of the Cloud series of courses, Teacher Max explained the available GCP service tools in a simple and relaxed manner, highlighting the differences between different types of tools. This helps everyone to understand the fundamentals and facilitated the connection to future courses.
 
 See you next time on November 22, 2022! ✨✨
 

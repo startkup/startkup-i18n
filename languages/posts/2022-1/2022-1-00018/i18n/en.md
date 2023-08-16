@@ -1,14 +1,14 @@
-[111-1 Google Cloud 101 Cloud Basics Series Course]
+[111-1 Google Cloud 101 Cloud Basics Series of Courses]
 
-🔥 Designed for beginners with zero background in cloud computing, this cloud course features outstanding instructors, hands-on practical exercises, and a valuable 30-day subscription (worth $29 USD). Limited spots available, so sign up quickly! 🔥
+🔥 Designed for beginners having zero background, this cloud course features an outstanding lecturer, hands-on practical exercises, and a valuable 30-day subscription (worth $29 USD). Limited spots available, so sign up quickly! 🔥
 
 \----
 
-📎 Google Cloud 101 Cloud Basics Series Course
+📎 Google Cloud 101 Cloud Basic Series of Courses
 
-According to iThome's survey, over 60% of businesses believe that cloud services are helpful for digital transformation.
+According to iThome, over 60% of enterprises believe that cloud services are helpful for digital transformation.
 
-In reality, cloud computing is omnipresent in our daily lives, encompassing mobile applications, instant messaging, and email communication, all relying on cloud infrastructure.
+In reality, cloud computing is omnipresent in our daily lives, encompassing mobile applications, instant messaging, and email communication. They all rely on cloud infrastructure.
 
 &nbsp;
 
@@ -16,27 +16,27 @@ But which cloud platform should you learn?
 
 &nbsp;
 
-The three major public cloud platforms globally are Google Cloud Platform (GCP), Amazon Web Services (AWS) by Amazon, and Azure by Microsoft. Our school, as a strategic partner of Microsoft Taiwan, offers Azure courses, and the Department of Information Management provides long-term AWS certification courses. As a Google Developer Student Club, our society also offers education on Google Cloud.
+The global big 3 public cloud providers are Google Cloud Platform (GCP) by Google, Amazon Web Services (AWS) by Amazon, and Azure by Microsoft. Our school, as a strategic partner of Microsoft Taiwan, offers Azure courses, and our Department of Information Management has long provided AWS certification courses. As a Google Developer Student Club, we also bring education on Google Cloud to our members.
 
-The aim of this course series is to cultivate students' foundational knowledge and principles of cloud computing through Google Cloud, combining practical case studies and hands-on exercises to create a solid learning experience.
+This series of courses combines practical situation-based questions and hands-on exercises to create a solid learning experience with the aim of cultivating students' foundational knowledge and principles of cloud computing via Google Cloud.
 
 &nbsp;
 
-This course offers students:
+We offer students:
 
-1\. Hands-on operation of the Google Cloud platform interface through real-world enterprise scenarios.
+1\. Hands-on of the Google Cloud platform interface through real-world enterprise scenarios
 
-2\. Instruction for the first half of the Google Cloud Associate certification.
+2\. Instruction for the first half of the Google Cloud Associate certification
 
-3\. Access to a free 30-day subscription of Google Cloud Skills Boost.
+3\. Access to a free 30-day subscription to Google Cloud Skills Boost
 
-4\. Learning and practical implementation of technical content related to GCP through official comprehensive courses and interactive exercises.
+4\. Learning and practical implementation of technical content related to GCP through official comprehensive courses and interactive exercises
 
 &nbsp;
 
 ⛄️ Target Audience:
 
-This course series is open to everyone!
+The series of courses is open to everyone!
 
 &nbsp;
 
@@ -64,7 +64,7 @@ Reality Fields, College of Artificial Innovative Intelligence
 
 \- 18:20 Sign-in begins
 
-\- 18:30 Start of the event
+\- 18:30 Event starts
 
 \- 18:30－19:50 Lecture
 
@@ -80,11 +80,11 @@ Sign in at the entrance of the classroom
 
 ✍️ How to sign-up?
 
-1\. By official GDSC platform
+1\. Through the official GDSC platform
 
 <https://gdsc.community.dev/tamkang-university>
 
-2. Tamkang University students need to fill out an additional Google Form
+2. Tamkang University students have to fill out an additional Google form
 
 <https://docs.google.com/forms/d/1gPdgXPt7z0o_b4qanM618mKh-ZKGFWQ9Lop5VANMZ0E/viewform>
 

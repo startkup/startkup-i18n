@@ -1,8 +1,8 @@
-# [ 2022-12-20 | 111-1 General Meeting ]
+# [ 2022-12-20 | 111-1 Final General Meeting ]
 
-We have a General Meeting tomorrow!
+There is a General Meeting tomorrow!
 
-Refreshments and Participation Certificates will be provided! 🍪 🍪
+We'll provide refreshments and the chance of Participation Certificate submission! 🍪
 
 &nbsp;
 
@@ -14,7 +14,7 @@ Club members of Artificial Innovative Intelligence Club
 
 ⏰ Time:
 
-12/20 (Tue) 18:30-19:20
+18:30-19:20, Tuesday, December 20
 
 &nbsp;
 
@@ -22,17 +22,17 @@ Club members of Artificial Innovative Intelligence Club
 
 Reality Fields, <br />College of Artificial Innovative Intelligence
 
-(Location for refreshments)
+(Somewhere refreshments are provided)
 
 &nbsp;
 
 ✈️ Agenda:
 
-\- 18:20－18:30 Registration
+\- 18:20－18:30 Sign-in
 
-\- 18:35－19:00 President's speech, club achievements report, and budget expenditure
+\- 18:35－19:00 Speech delivered by President, club achievements report, and budget expenditure
 
-\- 19:00－19:10 Farewell to officers and speeches
+\- 19:00－19:10 Goodbye to club cadres and their speeches
 
 \- 19:10－19:20  Feedback form, group photo
 
@@ -50,13 +50,13 @@ Fill the Google Form
 
 <https://docs.google.com/forms/d/1A4Yi2zuq-S0zZoHqra53Aj9mnTOyd8mYKTKHph21gH4/viewform>
 
-Please use the Google Form to register!
+Please fill out the Google form to register!
 
 \----
 
 Correction:
 
-Please proceed to the GDSC platform to complete the registration:
+Please register via GDSC platform:
 
 <https://gdsc.community.dev/e/m87d52/>
 
@@ -68,8 +68,8 @@ Facebook: TKUAIIC <br />https://www.facebook.com/tkuaiic
 
 Instagram: @tkuaiic <br />https://www.instagram.com/tkuaiic
 
-Line Official Account：@tkuaiic
+Line Official Account: @tkuaiic
 
 LinkedIn: Tamkang University Artificial Innovative Intelligence Club <br />https://www.linkedin.com/company/tkuaiic/
 
-Gmail： <tkuaiic@gmail.com>
+Gmail: <tkuaiic@gmail.com>
