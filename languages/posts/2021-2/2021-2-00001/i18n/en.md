@@ -6,7 +6,7 @@ and the hard work from the crew members...
 
 &nbsp;
 
-Finally, we founded our club on March 11th!
+Finally, we founded our club on March 11!
 
 &nbsp;
 
@@ -42,11 +42,11 @@ We want to help students to learn practical knowledge and skills.
 
 🏆 Timeline:
 
-Jan. 24 ~ Feb. 28 | The initiative and the operation plan of the club
+Jan 24 — Feb 28 | The initiative and the operation plan of the club
 
-Jan. 27 ~ Feb. 10 | Making the application plan for the club foundation
+Jan 27 — Feb 10 | Making the application plan for the club foundation
 
-Feb. 28 ~ Mar. 3 | Making slides for the club foundation plan
+Feb 28 — Mar 3 | Making slides for the club foundation plan
 
 Mar. 4 | Foundation plan presented to the Professor and Dean of the College of Engineering Lee Tzung-hang with some suggestions received.
 

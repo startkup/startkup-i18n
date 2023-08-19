@@ -12,7 +12,7 @@ The following sections are open for applications:
 
 3. Equipment Section: Responsible for managing all club-managed equipments including audiovisual equipments, gadgets, and the borrow, prepare, restore, return of club-borrowed places.
 
-4. Document Section: Responsible for document affairs including meeting records, activity proposals, marketing copies.
+4. Documentation Section: Responsible for document affairs including meeting records, activity proposals, marketing copies.
 
 5. Public Relationship Section: Responsible for public relationship affairs including external affairs, fundraising, interaction.
 

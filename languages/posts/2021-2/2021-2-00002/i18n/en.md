@@ -8,7 +8,7 @@ It's the time to announce the major plans for this semester (2021-2) of our club
 
 ｜💰 Membership Fee｜
 
-You only need to pay $200 TWD/semester to get the membership of the club!
+You only need to pay $200 TWD in this semester to get the membership of the club!
 
 With the membership of our club, you can attend about 13 lectures and workshops held by our club with the total of 46 hours.
 
@@ -26,7 +26,7 @@ Reality Fields, College of Artificial Innovative Intelligence <br />3rd Floor, M
 
 ｜📍 Course Time｜
 
-Course time of regular courses are temporarily scheduled at 18:00 - 20:00 (UTC+8) Tuesday each week.
+Course time of regular courses are temporarily scheduled at 18:00 — 20:00 (UTC+8) Tuesday each week.
 
 Part of the lectures and workshops will be scheduled at weekends.
 
